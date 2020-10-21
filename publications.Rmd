@@ -1,0 +1,21 @@
+---
+title: "Publications"
+output: 
+  html_document:
+    toc: yes
+    toc_float: yes
+    
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,
+                      message = FALSE,
+                      error = FALSE,
+                      warning = FALSE)
+```
+
+<br>
+
+# Journal articles
+
+

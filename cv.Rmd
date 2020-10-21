@@ -1,7 +1,5 @@
 ---
 title: "<b>Adrià Mitjavila Ventura</b>"
-output:
-  html_document
 ---
 
 
@@ -16,7 +14,7 @@ knitr::opts_chunk$set(echo = FALSE,
 ```{r image_me}
 htmltools::img(src = "assets/foto_jo.jpg", 
                alt = 'foto_carnet', 
-               style = 'float; position:absolute; top:200; right:0; padding-top: 30px; padding-right: 50px; height:150px')
+               style = 'float; position:absolute; top:200; right:0; padding-top: 30px; padding-right: 50px; height:175px')
 ```
 
 ***
