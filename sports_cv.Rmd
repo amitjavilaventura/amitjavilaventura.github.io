@@ -1,0 +1,198 @@
+---
+title: "<b>Adrià Mitjavila Ventura</b>"
+output: 
+  html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,
+                      message = FALSE,
+                      error = FALSE,
+                      warning = FALSE)
+```
+
+
+```{r image_me, eval=TRUE}
+htmltools::img(src = "assets/lm2x_wrci.png", 
+               style = 'float; position:absolute; top:1; right:0; padding-top: 20px; padding-right: 420px; height:200px')
+```
+
+***
+
+<p style = "font-size:20px;">(ex-elite) Rower</p>
+
+<p style = "font-size:20px;">Club Natació Banyoles & Spanish Rowing Team</p>
+
+<p style = "font-size:20px;">2016 World Rowing Under-23 Champion in BLM2x</p>
+
+***
+
+# Rowing
+
+<br>
+
+## Season {.tabset}
+
+### 2018/2019
+
+* European Rowing Championship
+    + LM4x - **7^th^** - ESP <br><br>
+
+* Spanish Rowing Championship
+    + M8+ - **2^nd^** - BNY <br><br>
+    
+* Catalan Rowing Championship
+    + M8+ - **1^st^** - BNY 
+    + M4- - **3^rd^** - BNY 
+    + M4x - **1^st^** - BNY <br><br>
+    
+* Spring trial (entry to national team)
+    + LM1x - **1^st^** - BNY <br><br>
+    
+* Spanish Rowing Championship by Autonomies
+    + M8+ - **1^st^** - CAT <br><br>
+
+### 2017/2018
+
+* Mediterranean Games
+    + LM2x - **2^nd^** - ESP <br><br>
+
+* Spanish Rowing Championship
+    + M4x - **1^st^** - BNY
+    + M8+ - **4^th^** - BNY <br><br>
+    
+* Catalan Rowing Championship
+    + M8+ - **1^st^** - BNY 
+    + M4- - **2^nd^** - BNY 
+    + M4x - **1^st^** - BNY 
+    + M2x - **3^rd^** - BNY <br><br>
+
+* Spring trial (entry to national team)
+    + LM1x - **3^rd^** - BNY <br><br>
+ 
+### 2016/2017
+
+
+
+### 2015/2016
+
+* World Rowing Under-23 Championship
+    + BLM2x - **1^st^** - ESP <br><br>
+    
+* European Continental Olympic Qualification Regatta
+    + LM2x - **4^th^** - ESP <br><br>
+
+* World Rowing Cup I
+    + LM2x - **5^th^** - ESP <br><br>
+
+* *Regatta internazionale di Piediluco - XXX Memorial Paolo d’Aloja*
+    + LM2x - **2^nd^** - ESP
+    + LM2x - **2^nd^** - ESP <br><br>
+
+* Spanish Rowing Championship
+    + M4x - **2^nd^** - BNY 
+    + M2x - **2^nd^** - BNY <br><br>
+    
+* French Rowing Championship
+    + M4x - **2^nd^** - PER <br><br>
+    
+* Catalan Rowing Championship
+    + M8+ - **2^nd^** - BNY 
+    + M2x - **1^st^** - BNY 
+    + M4x - **1^st^** - BNY <br><br>
+    
+* Spring trial (entry to national team)
+    + M1x - **7^th^** - BNY <br><br>
+
+* Spanish Long Distance Rowing Championship
+    + LM1x - **4^th^** - BNY <br><br>
+
+* Spanish Indor Rowing Championship
+    + LM - **5^th^** - BNY <br><br>
+
+### 2014/2015
+
+* World Rowing Under-23 Championship
+    + BLM2x - **6^th^** - ESP <br><br>
+
+* *Regatta internazionale di Piediluco - XXX Memorial Paolo d’Aloja*
+    + LM2x - **4^th^** - ESP <br><br>
+    
+* *Régate internationale Savoie – Mont-blanc*
+    + M2x - **2^nd^** - CAT
+    + M4x - **1^st^** - CAT <br><br>
+
+* Spanish Rowing Championship
+    + M2x - **2^nd^** - BNY <br><br>
+    
+* French Rowing Championship
+    + M4x - **7^th^** - PER <br><br>
+    
+* Catalan Rowing Championship
+    + M8+ - **1^st^** - BNY 
+    + M2x - **1^st^** - BNY 
+    + M4x - **1^st^** - BNY <br><br>
+    
+* Spring trial (entry to national team)
+    + M1x - **6^th^** - BNY <br><br>
+
+* Spanish Indor Rowing Championship
+    + LM - **4^th^** - BNY <br><br>
+    
+* *Défi Seine*
+    + M8+ - **3^rd^** - BNY <br><br>
+
+### 2013/2014
+
+* World Rowing Under-23 Championship
+    + BLM2x - **13^th^** - ESP <br><br>
+
+* *Régate internationale Savoie – Mont-blanc*
+    + M2x - **1^st^** - CAT
+    + M4x - **2^nd^** - CAT <br><br>
+
+* Spanish Rowing Championship
+    + M2x - **1^st^** - BNY
+    + M8+ - **6^th^** - BNY <br><br>
+    
+* Catalan Rowing Championship
+    + M8+ - **1^st^** - BNY 
+    + M2x - **1^st^** - BNY 
+    + M4x - **1^st^** - BNY <br><br>
+    
+* Spring trial (entry to national team)
+    + M1x - **6^th^** - BNY <br><br>
+
+* Spanish Indor Rowing Championship
+    + LM - **7^th^** - BNY <br><br>
+
+* Rowing Avignon Cup Edition
+    + M8+ - **6^th^** - BNY
+    + M2x - **2^nd^** - BNY <br><br>
+
+### 2012/2013
+
+### 2011/2012
+
+### 2010/2011
+
+### 2009/2010
+
+### 2008/2009
+
+### 2007/2008
+
+## Abbreviations
+
+```{r abbreviations, echo=FALSE}
+library(dplyr)
+
+data.frame(Category = c("M: Men", "LM: Lightweight men", "BM:  Under-23 men", "BLM: Under-23 lightweight men", 
+                        "JM: Junior men", "CM: Under-17 men", "IM: Under-15 men", "AM: Under-13 men"),
+           Boat = c("8+: Coxed eight", "4+:  Coxed four", "4-: Coxless four", "4x: Quadruple scull", 
+                    "2+: Coxed pair", "2-:   Coxless pair", "2x   Double scull", "1x:  Single scull"),
+           Team = c("ESP: Spanish Rowing Team", "CAT: Catalan Rowing Team", "BNY: Club Natació Banyoles", "PER: Aviron Perpignan 66", " ", " ", " ", " ")) %>%
+  
+  knitr::kable()
+
+```

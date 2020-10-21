@@ -8,7 +8,7 @@ navbar:
     - text: "CV"
       href: cv.html
     - text: "Sports CV"
-      href: 
+      href: sports_cv.html
   right:
     - icon: fa-envelope fa-lg
       href: 

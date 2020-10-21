@@ -1,0 +1,664 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Adrià Mitjavila Ventura</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
+<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 64px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h2 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h3 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h4 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h5 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h6 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Adrià Mitjavila Ventura</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li class="dropdown-header">Publications</li>
+<li>
+  <a href="cv.html">CV</a>
+</li>
+<li>
+  <a href="sports_cv.html">Sports CV</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a>
+    <span class="fa fa-envelope fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="http://github.com/amitjavilaventura">
+    <span class="fa fa-github fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="http://gitlab.com/amitjavilaventura">
+    <span class="fa fa-gitlab fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://twitter.com/amitjavila">
+    <span class="fa fa-twitter fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://www.linkedin.com/in/adria-mitjavila-ventura/">
+    <span class="fa fa-linkedin fa-lg"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore"><b>Adrià Mitjavila Ventura</b></h1>
+
+</div>
+
+
+<img src="assets/lm2x_wrci.png" style="float; position:absolute; top:1; right:0; padding-top: 20px; padding-right: 420px; height:200px"/>
+<hr />
+<p style="font-size:20px;">
+(ex-elite) Rower
+</p>
+<p style="font-size:20px;">
+Club Natació Banyoles &amp; Spanish Rowing Team
+</p>
+<p style="font-size:20px;">
+2016 World Rowing Under-23 Champion in BLM2x
+</p>
+<hr />
+<div id="rowing" class="section level1">
+<h1>Rowing</h1>
+<p><br></p>
+<div id="season" class="section level2 tabset">
+<h2>Season</h2>
+<div id="section" class="section level3">
+<h3>2018/2019</h3>
+<ul>
+<li>European Rowing Championship
+<ul>
+<li>LM4x - <strong>7<sup>th</sup></strong> - ESP <br><br></li>
+</ul></li>
+<li>Spanish Rowing Championship
+<ul>
+<li>M8+ - <strong>2<sup>nd</sup></strong> - BNY <br><br></li>
+</ul></li>
+<li>Catalan Rowing Championship
+<ul>
+<li>M8+ - <strong>1<sup>st</sup></strong> - BNY</li>
+<li>M4- - <strong>3<sup>rd</sup></strong> - BNY</li>
+<li>M4x - <strong>1<sup>st</sup></strong> - BNY <br><br></li>
+</ul></li>
+<li>Spring trial (entry to national team)
+<ul>
+<li>LM1x - <strong>1<sup>st</sup></strong> - BNY <br><br></li>
+</ul></li>
+<li>Spanish Rowing Championship by Autonomies
+<ul>
+<li>M8+ - <strong>1<sup>st</sup></strong> - CAT <br><br></li>
+</ul></li>
+</ul>
+</div>
+<div id="section-1" class="section level3">
+<h3>2017/2018</h3>
+<ul>
+<li>Mediterranean Games
+<ul>
+<li>LM2x - <strong>2<sup>nd</sup></strong> - ESP <br><br></li>
+</ul></li>
+<li>Spanish Rowing Championship
+<ul>
+<li>M4x - <strong>1<sup>st</sup></strong> - BNY</li>
+<li>M8+ - <strong>4<sup>th</sup></strong> - BNY <br><br></li>
+</ul></li>
+<li>Catalan Rowing Championship
+<ul>
+<li>M8+ - <strong>1<sup>st</sup></strong> - BNY</li>
+<li>M4- - <strong>2<sup>nd</sup></strong> - BNY</li>
+<li>M4x - <strong>1<sup>st</sup></strong> - BNY</li>
+<li>M2x - <strong>3<sup>rd</sup></strong> - BNY <br><br></li>
+</ul></li>
+<li>Spring trial (entry to national team)
+<ul>
+<li>LM1x - <strong>3<sup>rd</sup></strong> - BNY <br><br></li>
+</ul></li>
+</ul>
+</div>
+<div id="section-2" class="section level3">
+<h3>2016/2017</h3>
+</div>
+<div id="section-3" class="section level3">
+<h3>2015/2016</h3>
+<ul>
+<li>World Rowing Under-23 Championship
+<ul>
+<li>BLM2x - <strong>1<sup>st</sup></strong> - ESP <br><br></li>
+</ul></li>
+<li>European Continental Olympic Qualification Regatta
+<ul>
+<li>LM2x - <strong>4<sup>th</sup></strong> - ESP <br><br></li>
+</ul></li>
+<li>World Rowing Cup I
+<ul>
+<li>LM2x - <strong>5<sup>th</sup></strong> - ESP <br><br></li>
+</ul></li>
+<li><em>Regatta internazionale di Piediluco - XXX Memorial Paolo d’Aloja</em>
+<ul>
+<li>LM2x - <strong>2<sup>nd</sup></strong> - ESP</li>
+<li>LM2x - <strong>2<sup>nd</sup></strong> - ESP <br><br></li>
+</ul></li>
+<li>Spanish Rowing Championship
+<ul>
+<li>M4x - <strong>2<sup>nd</sup></strong> - BNY</li>
+<li>M2x - <strong>2<sup>nd</sup></strong> - BNY <br><br></li>
+</ul></li>
+<li>French Rowing Championship
+<ul>
+<li>M4x - <strong>2<sup>nd</sup></strong> - PER <br><br></li>
+</ul></li>
+<li>Catalan Rowing Championship
+<ul>
+<li>M8+ - <strong>2<sup>nd</sup></strong> - BNY</li>
+<li>M2x - <strong>1<sup>st</sup></strong> - BNY</li>
+<li>M4x - <strong>1<sup>st</sup></strong> - BNY <br><br></li>
+</ul></li>
+<li>Spring trial (entry to national team)
+<ul>
+<li>M1x - <strong>7<sup>th</sup></strong> - BNY <br><br></li>
+</ul></li>
+<li>Spanish Long Distance Rowing Championship
+<ul>
+<li>LM1x - <strong>4<sup>th</sup></strong> - BNY <br><br></li>
+</ul></li>
+<li>Spanish Indor Rowing Championship
+<ul>
+<li>LM - <strong>5<sup>th</sup></strong> - BNY <br><br></li>
+</ul></li>
+</ul>
+</div>
+<div id="section-4" class="section level3">
+<h3>2014/2015</h3>
+<ul>
+<li>World Rowing Under-23 Championship
+<ul>
+<li>BLM2x - <strong>6<sup>th</sup></strong> - ESP <br><br></li>
+</ul></li>
+<li><em>Regatta internazionale di Piediluco - XXX Memorial Paolo d’Aloja</em>
+<ul>
+<li>LM2x - <strong>4<sup>th</sup></strong> - ESP <br><br></li>
+</ul></li>
+<li><em>Régate internationale Savoie – Mont-blanc</em>
+<ul>
+<li>M2x - <strong>2<sup>nd</sup></strong> - CAT</li>
+<li>M4x - <strong>1<sup>st</sup></strong> - CAT <br><br></li>
+</ul></li>
+<li>Spanish Rowing Championship
+<ul>
+<li>M2x - <strong>2<sup>nd</sup></strong> - BNY <br><br></li>
+</ul></li>
+<li>French Rowing Championship
+<ul>
+<li>M4x - <strong>7<sup>th</sup></strong> - PER <br><br></li>
+</ul></li>
+<li>Catalan Rowing Championship
+<ul>
+<li>M8+ - <strong>1<sup>st</sup></strong> - BNY</li>
+<li>M2x - <strong>1<sup>st</sup></strong> - BNY</li>
+<li>M4x - <strong>1<sup>st</sup></strong> - BNY <br><br></li>
+</ul></li>
+<li>Spring trial (entry to national team)
+<ul>
+<li>M1x - <strong>6<sup>th</sup></strong> - BNY <br><br></li>
+</ul></li>
+<li>Spanish Indor Rowing Championship
+<ul>
+<li>LM - <strong>4<sup>th</sup></strong> - BNY <br><br></li>
+</ul></li>
+<li><em>Défi Seine</em>
+<ul>
+<li>M8+ - <strong>3<sup>rd</sup></strong> - BNY <br><br></li>
+</ul></li>
+</ul>
+</div>
+<div id="section-5" class="section level3">
+<h3>2013/2014</h3>
+<ul>
+<li>World Rowing Under-23 Championship
+<ul>
+<li>BLM2x - <strong>13<sup>th</sup></strong> - ESP <br><br></li>
+</ul></li>
+<li><em>Régate internationale Savoie – Mont-blanc</em>
+<ul>
+<li>M2x - <strong>1<sup>st</sup></strong> - CAT</li>
+<li>M4x - <strong>2<sup>nd</sup></strong> - CAT <br><br></li>
+</ul></li>
+<li>Spanish Rowing Championship
+<ul>
+<li>M2x - <strong>1<sup>st</sup></strong> - BNY</li>
+<li>M8+ - <strong>6<sup>th</sup></strong> - BNY <br><br></li>
+</ul></li>
+<li>Catalan Rowing Championship
+<ul>
+<li>M8+ - <strong>1<sup>st</sup></strong> - BNY</li>
+<li>M2x - <strong>1<sup>st</sup></strong> - BNY</li>
+<li>M4x - <strong>1<sup>st</sup></strong> - BNY <br><br></li>
+</ul></li>
+<li>Spring trial (entry to national team)
+<ul>
+<li>M1x - <strong>6<sup>th</sup></strong> - BNY <br><br></li>
+</ul></li>
+<li>Spanish Indor Rowing Championship
+<ul>
+<li>LM - <strong>7<sup>th</sup></strong> - BNY <br><br></li>
+</ul></li>
+<li>Rowing Avignon Cup Edition
+<ul>
+<li>M8+ - <strong>6<sup>th</sup></strong> - BNY</li>
+<li>M2x - <strong>2<sup>nd</sup></strong> - BNY <br><br></li>
+</ul></li>
+</ul>
+</div>
+<div id="section-6" class="section level3">
+<h3>2012/2013</h3>
+</div>
+<div id="section-7" class="section level3">
+<h3>2011/2012</h3>
+</div>
+<div id="section-8" class="section level3">
+<h3>2010/2011</h3>
+</div>
+<div id="section-9" class="section level3">
+<h3>2009/2010</h3>
+</div>
+<div id="section-10" class="section level3">
+<h3>2008/2009</h3>
+</div>
+<div id="section-11" class="section level3">
+<h3>2007/2008</h3>
+</div>
+</div>
+<div id="abbreviations" class="section level2">
+<h2>Abbreviations</h2>
+<table>
+<thead>
+<tr class="header">
+<th align="left">Category</th>
+<th align="left">Boat</th>
+<th align="left">Team</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">M: Men</td>
+<td align="left">8+: Coxed eight</td>
+<td align="left">ESP: Spanish Rowing Team</td>
+</tr>
+<tr class="even">
+<td align="left">LM: Lightweight men</td>
+<td align="left">4+: Coxed four</td>
+<td align="left">CAT: Catalan Rowing Team</td>
+</tr>
+<tr class="odd">
+<td align="left">BM: Under-23 men</td>
+<td align="left">4-: Coxless four</td>
+<td align="left">BNY: Club Natació Banyoles</td>
+</tr>
+<tr class="even">
+<td align="left">BLM: Under-23 lightweight men</td>
+<td align="left">4x: Quadruple scull</td>
+<td align="left">PER: Aviron Perpignan 66</td>
+</tr>
+<tr class="odd">
+<td align="left">JM: Junior men</td>
+<td align="left">2+: Coxed pair</td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">CM: Under-17 men</td>
+<td align="left">2-: Coxless pair</td>
+<td align="left"></td>
+</tr>
+<tr class="odd">
+<td align="left">IM: Under-15 men</td>
+<td align="left">2x Double scull</td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">AM: Under-13 men</td>
+<td align="left">1x: Single scull</td>
+<td align="left"></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
