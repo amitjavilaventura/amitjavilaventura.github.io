@@ -1,5 +1,5 @@
 ---
-title: "<b>Adrià Mitjavila Ventura</b>"
+title: "<b style='color:black;'>Adrià Mitjavila Ventura</b>"
 ---
 
 ```{r setup, include=FALSE}
@@ -18,13 +18,13 @@ htmltools::img(src = "assets/foto_jo.jpg",
 
 ***
 
-<p> <i class="fas fa-home" aria-hidden="true"></i> &nbsp; <b>Girona (Spain) - Milan (Italy)</b> </p>
+<p style='color:black;'> <i class="fas fa-home" aria-hidden="true"></i> &nbsp; <b>Girona (Spain) - Milan (Italy)</b> </p>
 
-<p> <i class="fa fa-phone" aria-hidden="true"></i> &nbsp; <b>0034 618332056</b> </p>
+<p style='color:black;'> <i class="fa fa-phone" aria-hidden="true"></i> &nbsp; <b>0034 618332056</b> </p>
 
-<p> <i class="fas fa-at" aria-hidden="true"></i> &nbsp; <b>adria.mitjavila94@gmail.com</b> </p>
+<p style='color:black;'> <i class="fas fa-at" aria-hidden="true"></i> &nbsp; <b>adria.mitjavila94@gmail.com</b> </p>
 
-<p>
+<p style='color:black;'>
 <a href=""><i class="fa fa-globe" aria-hidden="true"></i></a> &nbsp;
 <a href="https://github.com/amitjavilaventura"><i class="fa fa-github" aria-hidden="true"></i></a> &nbsp;
 <a href="https://gitlab.com/amitjavilaventura"><i class="fa fa-gitlab" aria-hidden="true"></i></a> &nbsp; 
