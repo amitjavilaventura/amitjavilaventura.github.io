@@ -27,11 +27,8 @@ htmltools::img(src = "assets/lm2x_wrci.png",
 
 ***
 
-# Rowing
+## Rowing {.tabset}
 
-<br>
-
-## Season {.tabset}
 
 ### 2018/2019
 
@@ -182,7 +179,7 @@ htmltools::img(src = "assets/lm2x_wrci.png",
 
 ### 2007/2008
 
-## Abbreviations
+### Abbreviations
 
 ```{r abbreviations, echo=FALSE}
 library(dplyr)

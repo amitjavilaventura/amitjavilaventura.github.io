@@ -2,7 +2,7 @@
 title: "Publications"
 output: 
   html_document:
-    toc: yes
+    toc: no
     toc_float: yes
     
 ---
@@ -16,6 +16,6 @@ knitr::opts_chunk$set(echo = FALSE,
 
 <br>
 
-# Journal articles
+## Journal articles
 
 
