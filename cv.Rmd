@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = FALSE,
 ```{r image_me}
 htmltools::img(src = "assets/foto_jo.jpg", 
                alt = 'foto_carnet', 
-               style = 'float; position:absolute; top:200; right:0; padding-top: 30px; padding-right: 50px; height:175px')
+               style = 'float; position:absolute; top:200; right:0; padding-top: 30px; padding-right: 450px; height:175px')
 ```
 
 ***
@@ -25,7 +25,7 @@ htmltools::img(src = "assets/foto_jo.jpg",
 <p style='color:black;'> <i class="fas fa-at" aria-hidden="true"></i> &nbsp; <b>adria.mitjavila94@gmail.com</b> </p>
 
 <p style='color:black;'>
-<a href=""><i class="fa fa-globe" aria-hidden="true"></i></a> &nbsp;
+<a href="https://amitjavilaventura.github.io/"><i class="fa fa-globe" aria-hidden="true"></i></a> &nbsp;
 <a href="https://github.com/amitjavilaventura"><i class="fa fa-github" aria-hidden="true"></i></a> &nbsp;
 <a href="https://gitlab.com/amitjavilaventura"><i class="fa fa-gitlab" aria-hidden="true"></i></a> &nbsp; 
 <a href="https://www.linkedin.com/in/adria-mitjavila-ventura/"><i class="fa fa-linkedin" aria-hidden="true"></i></a> &nbsp; 
