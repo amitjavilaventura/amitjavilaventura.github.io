@@ -1,10 +1,5 @@
 ---
-title: "Publications"
-output: 
-  html_document:
-    toc: no
-    toc_float: yes
-    
+title: ""
 ---
 
 ```{r setup, include=FALSE}
