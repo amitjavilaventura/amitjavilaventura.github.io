@@ -3,12 +3,10 @@ output_dir: "."
 navbar:
   title: "Adrià Mitjavila Ventura"
   left:
-    - text: "Writing"
-      href: 
-    - text: "Publication"
+    - text: "Publications"
       href: 
     - text: "CV"
-      href: 
+      href: cv.html
     - text: "Sports CV"
       href: 
   right:
