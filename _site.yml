@@ -1,0 +1,27 @@
+name: "Adrià Mitjavila Ventura"
+output_dir: "."
+navbar:
+  title: "Adrià Mitjavila Ventura"
+  left:
+    - text: "Writing"
+      href: 
+    - text: "Publication"
+      href: 
+    - text: "CV"
+      href: 
+    - text: "Sports CV"
+      href: 
+  right:
+    - icon: fa-envelope fa-lg
+      href: 
+    - icon: fa-github fa-lg
+      href: http://github.com/amitjavilaventura
+    - icon: fa-gitlab fa-lg
+      href: http://gitlab.com/amitjavilaventura
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/amitjavila
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/adria-mitjavila-ventura/
+output:
+  html_document:
+    theme: paper
