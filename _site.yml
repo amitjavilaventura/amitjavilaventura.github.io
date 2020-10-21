@@ -11,15 +11,16 @@ navbar:
       href: sports_cv.html
   right:
     - icon: fa-envelope fa-lg
-      href: 
+      text: "Contact"
+      href: contact.html
     - icon: fa-github fa-lg
+      text: "GitHub"
       href: http://github.com/amitjavilaventura
     - icon: fa-gitlab fa-lg
+      text: "GitLab"
       href: http://gitlab.com/amitjavilaventura
-    - icon: fa-twitter fa-lg
-      href: https://twitter.com/amitjavila
-    - icon: fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/adria-mitjavila-ventura/
 output:
   html_document:
     theme: paper
+    
+    
