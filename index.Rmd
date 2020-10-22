@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "<b style='color:black;'>Biotechnologist living between computers</b>"
 ---
 
 ```{r setup, include=FALSE}
@@ -9,19 +9,10 @@ knitr::opts_chunk$set(echo = FALSE,
                       warning = FALSE)
 ```
 
-```{r image_me, eval=FALSE}
-htmltools::img(src = "assets/foto_jo.jpg", 
-               alt = 'foto_carnet', 
-               style = 'float; position:absolute; top:200; right:0; padding-top: 30px; padding-right: 420px; height:170px')
-```
-
 ***
 
-<p style = "font-size:30px; color: black;"><b> Adrià Mitjavila Ventura </b></p>
-<p style = "font-size:20px; color: black;"><i class="fas fa-user" aria-hidden="true"></i> &nbsp; PhD student in Computational Biology </p>
-<p style = "font-size:20px; color: black;"><i class="fas fa-building" aria-hidden="true"></i> &nbsp; Istituto Europeo di Oncologia - IEO (Milan) </p>
+<p style='font-size:15px;'> I am a former biotechnologist living between computers and pursuing a PhD in Computational Biology. </p>
 
 
-***
 
-I started my life in sciences with a BSc in Biotechnology. 
+

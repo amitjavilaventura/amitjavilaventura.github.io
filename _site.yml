@@ -3,6 +3,8 @@ output_dir: "."
 navbar:
   title: "Adrià Mitjavila Ventura"
   left:
+    - text: "About me"
+      href: about.html
     - text: "Publications"
       href: publications.html
     - text: "CV"
@@ -10,14 +12,14 @@ navbar:
     - text: "Sports CV"
       href: sports_cv.html
   right:
-    - icon: fa-envelope fa-lg
-      text: "Contact"
+    - icon:  fa-address-card fa-lg
+      text: " Contact"
       href: contact.html
     - icon: fa-github fa-lg
-      text: "GitHub"
+      text: " GitHub"
       href: http://github.com/amitjavilaventura
     - icon: fa-gitlab fa-lg
-      text: "GitLab"
+      text: " GitLab"
       href: http://gitlab.com/amitjavilaventura
 output:
   html_document:

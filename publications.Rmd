@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "<p style='color:black;'><b>Publications</b></p>"
 ---
 
 ```{r setup, include=FALSE}
@@ -11,8 +11,7 @@ knitr::opts_chunk$set(echo = FALSE,
 
 ***
 
-<p style = "font-size:20px; color: black;"><b>Journal articles</b></p>
-
+<p style='font-size:25px; color:black;'><i class="far fa-newspaper"></i> <b>Journal articles</b> </p>
 
 
 

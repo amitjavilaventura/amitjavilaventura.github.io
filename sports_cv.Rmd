@@ -1,25 +1,23 @@
 ---
 title: "<b style = 'color: black;'>Adrià Mitjavila Ventura</b>"
-output: 
-  html_document
 ---
+
+<p style = "font-size:20px; color: black;"><i class="fas fa-user"></i> &nbsp; Ex-elite rower in <i>Club Natació Banyoles</i></p>
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE,
                       message = FALSE,
                       error = FALSE,
-                      warning = FALSE)
+                      warning = FALSE, 
+                      fig.align = "center")
 ```
 
-
-```{r image_me, eval=TRUE}
+```{r image_me, eval=FALSE}
 htmltools::img(src = "assets/lm2x_wrci.png", 
-               style = 'float; position:absolute; top:1; right:0; padding-top: 20px; padding-right: 420px; height:200px')
+               style = 'float; position:absolute; top:50; right:0; padding-right:10px; height:200px')
 ```
 
 ***
-
-<p style = "font-size:20px; color:black;">(ex-elite) Rower</p>
 
 <p style = "font-size:20px; color:black;">Club Natació Banyoles & Spanish Rowing Team</p>
 
@@ -28,6 +26,19 @@ htmltools::img(src = "assets/lm2x_wrci.png",
 ***
 
 ## Rowing {.tabset}
+
+I started rowing at the end of 2007 and, since then, I have trained and competed at my highest level to achieve my goals in this sport. 
+
+Unfortunatelly, I missed the qualification for the 2016 Olympic Games by one place. However, toghether with my crewmate, I became World Rowing Under-23 champion in 2016 in the category of Under-23 Lightweight Double Scull (BLM2x). 
+
+I left the high-level competition in 2019, just before starting my PhD.
+
+```{r image_blm2x, fig.cap="Spanish LM2x in the 2016 World Rowing Cup I. I am the rower in the bowsite (leftside in the photo).", out.width="150%"}
+
+knitr::include_graphics("assets/lm2x_wrci.png")
+
+```
+
 
 
 ### 2018/2019
@@ -69,7 +80,18 @@ htmltools::img(src = "assets/lm2x_wrci.png",
  
 ### 2016/2017
 
+* Spanish Rowing Championship
+    + M4x - **2^nd^** - BNY <br><br>
+    
+* Catalan Rowing Championship
+    + M8+ - **3^rd^** - BNY 
+    + M2x - **3^rd^** - BNY <br><br>
 
+* Spring trial (entry to national team)
+    + LM1x - **6^th^** - BNY <br><br>
+    
+* Spanish Indor Rowing Championship
+    + LM - **5^th^** - BNY <br><br>
 
 ### 2015/2016
 
@@ -169,13 +191,140 @@ htmltools::img(src = "assets/lm2x_wrci.png",
 
 ### 2012/2013
 
+* World Rowing Under-23 Championship
+    + BLM1x - **19^th^** - ESP <br><br>
+
+* Spanish Rowing Championship
+    + M2x - **1^st^** - BNY
+    + M4x - **6^th^** - BNY <br><br>
+    
+* Catalan Rowing Championship
+    + M2x - **1^st^** - BNY 
+    + M4x - **2^nd^** - BNY 
+    + M8+ - **3^rd^** - BNY <br><br>
+    
+* Spring trial (entry to national team)
+    + M1x - **10^th^** - BNY <br><br>
+
+* Rowing Avignon Cup Edition
+    + M8+ - **2^nd^** - BNY <br><br>
+
+
 ### 2011/2012
 
+* *Coupe de la Jeunesse*
+    + JM1x- **2^nd^** - ESP
+    + JM1x- **3^rd^** - ESP <br><br>
+
+* Spanish Rowing Championship
+    + JM2x - **1^st^** - BNY
+    + JM4x - **5^th^** - BNY <br><br>
+    
+* Catalan Rowing Championship
+    + JM1x - **1^st^** - BNY 
+    + JM2x - **1^st^** - BNY 
+    + JM4x - **3^rd^** - BNY <br><br>
+
+* *DRV Junioren Regatta Munchen*
+    + JM8+ - **7^th^* - ESP
+    
+* Spring trial (entry to national team)
+    + JM1x - **1^st^** - BNY <br><br>
+
+* Spanish Rowing Championship by Autonomies
+    + JM4x - **1^st^** - CAT
+    + JM8+ - **1^st^** - CAT <br><br>
+
+* Rowing Avignon Cup Edition
+    + M8+ - **4^th^** - BNY <br><br>
+    
 ### 2010/2011
+
+* *Coupe de la Jeunesse*
+    + JM1x- **3^rd^** - ESP
+    + JM1x- **4^th^** - ESP <br><br>
+
+* Spanish Rowing Championship
+    + JM2x - **1^st^** - BNY
+    + JM4x - **5^th^** - BNY <br><br>
+    
+* Catalan Rowing Championship
+    + JM2x - **1^st^** - BNY 
+    + JM4- - **1^st^** - BNY 
+    + JM4x - **1^st^** - BNY 
+    + M8+ - **3^rd^** - BNY <br><br>
+
+* *DRV Junioren Regatta Munchen*
+    + JM1x - **7^th^* - ESP
+    
+* Spring trial (entry to national team)
+    + JM1x - **3^rd^** - BNY <br><br>
+
+* Spanish Rowing Championship by Autonomies
+    + JM4x - **1^st^** - CAT <br><br>
+    
+* Spanish Long Distance Rowing Championship
+    + JM4x - **2^nd^** - BNY <br><br>
+
+* Rowing Avignon Cup Edition
+    + M8+ - **1^st^** - BNY <br><br>
 
 ### 2009/2010
 
+* Nautical Atlantic Games
+    + CM4x - **2^nd^** - CAT
+    + CM8+ - **4^th^** - CAT
+
+* Spanish Rowing Championship
+    + CM4x - **1^st^** - BNY
+    + CM1x - **2^nd^** - BNY <br><br>
+
+* Catalan Rowing Championship
+    + CM4x - **1^st^** - BNY 
+    + CM4- - **2^nd^** - BNY 
+    + CM2x - **2^nd^** - BNY 
+    + CM1x - **2^nd^** - BNY <br><br>
+
+* Spring trial (entry to national team)
+    + CM1x - **1^st^** - BNY <br><br>
+    
+* Spanish Rowing Championship by Autonomies
+    + CM4x - **1^st^** - CAT
+    + CM8+ - **2^nd^** - CAT <br><br>
+    
+* Inter CTD Regatta
+    + CM1x - **2^nd^** - CAT <br><br>
+    
+* Spanish Indoor Rowing Chamapionship
+    + CM - **2^nd^** - BNY <br><br>
+    
+* Spanish Long Distance Rowing Championship
+    + JM4x - **1^st^** - BNY <br><br>
+  
 ### 2008/2009
+
+* Spanish Rowing Championship
+    + CM2x - **1^st^** - BNY
+    + CM4x - **3^rd^** - BNY <br><br>
+    
+* Catalan Rowing Championship
+    + CM4x - **1^st^** - BNY
+    + CM2x - **1^st^** - BNY
+    + CM4- - **3^rd^** - BNY <br><br>
+    
+* *DRV Junioren Regatta Munchen*
+    + CM4x+ - **2^nd^** - CAT 
+    + CM2x - **5^th^** - CAT <br><br>
+    
+* Spring trial (entry to national team)
+    + CM1x - **8^th^** - BNY <br><br>
+    
+* Inter CTD Regatta
+    + CM4x - **1^st** - CAT 
+    + CM4x - **1^st** - CAT <br><br>
+    
+* Spanish Long Distance Rowing Championship
+    + CM4x - **2^nd^** - BNY <br><br>
 
 ### 2007/2008
 

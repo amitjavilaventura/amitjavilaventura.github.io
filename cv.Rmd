@@ -1,6 +1,7 @@
 ---
 title: "<b style='color:black;'>Adrià Mitjavila Ventura</b>"
 ---
+<p style = "font-size:20px; color: black;"><i class="fas fa-user-tie" aria-hidden="true"></i> &nbsp; PhD student in Computational Biology at the <i>Istituto Europeo di Oncologia</i></p>
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE,
@@ -9,22 +10,22 @@ knitr::opts_chunk$set(echo = FALSE,
                       warning = FALSE)
 ```
 
-
-```{r image_me}
+```{r image_me, eval = T}
 htmltools::img(src = "assets/foto_jo.jpg", 
                alt = 'foto_carnet', 
-               style = 'float; position:absolute; top:200; right:0; padding-top: 30px; padding-right: 450px; height:175px')
+               style = 'float; position:absolute; top:200; right:0; padding-top: 10px; padding-right: 200px; height:200px')
 ```
 
 ***
 
-<p style='color:black;'> <i class="fas fa-home" aria-hidden="true"></i> &nbsp; <b>Girona (Spain) - Milan (Italy)</b> </p>
+<p style='font-size:15px; color:black;'> <i class="fas fa-home" aria-hidden="true"></i> &nbsp; <b>Girona (Spain) - Milan (Italy)</b> </p>
 
-<p style='color:black;'> <i class="fa fa-phone" aria-hidden="true"></i> &nbsp; <b>0034 618332056</b> </p>
+<p style='font-size:15px;color:black;'> <i class="fa fa-phone" aria-hidden="true"></i> &nbsp; <b>0034 618332056</b> </p>
 
-<p style='color:black;'> <i class="fas fa-at" aria-hidden="true"></i> &nbsp; <b>adria.mitjavila94@gmail.com</b> </p>
+<p style='font-size:15px;color:black;'> <i class="fas fa-at" aria-hidden="true"></i> &nbsp; <b>adria.mitjavila94 @ gmail.com</b> </p>
 
-<p style='color:black;'>
+
+<p style='font-size:15px;color:black;'>
 <a href="https://amitjavilaventura.github.io/"><i class="fa fa-globe" aria-hidden="true"></i></a> &nbsp;
 <a href="https://github.com/amitjavilaventura"><i class="fa fa-github" aria-hidden="true"></i></a> &nbsp;
 <a href="https://gitlab.com/amitjavilaventura"><i class="fa fa-gitlab" aria-hidden="true"></i></a> &nbsp; 
@@ -272,7 +273,7 @@ __*Associació de Biotecnòlegs de Catalunya*__ - **Catalan Biotechnologists Ass
 
 ## Elite Rower
 * __*Federación Española de Remo*__ - **Spanish Rowing Federation**
-* I have been granted the category of high-level athlete in Spain, first in 2015 for finishing at 6th place at the World Rowing Under-23 Championship and once more in 2016 for becoming World Rowing Under-23 Champion. See my sports curriculum [here](hhttps://amitjavilaventura.github.io/sports_cv.html) and my WorldRowing athlete page [here](http://www.worldrowing.com/athletes/athlete/44383/mitjavila-adria).
+* I have been granted the category of high-level athlete in Spain, first in 2015 for finishing at 6th place at the World Rowing Under-23 Championship and once more in 2016 for becoming World Rowing Under-23 Champion. See my sports curriculum [here](https://amitjavilaventura.github.io/sports_cv.html) and my WorldRowing athlete page [here](http://www.worldrowing.com/athletes/athlete/44383/mitjavila-adria).
 * 2015-2021
 
 <br>
