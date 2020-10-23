@@ -5,6 +5,8 @@ navbar:
   left:
     - text: "About me"
       href: about.html
+    - text: "Research"
+      href: research.html
     - text: "Publications"
       href: publications.html
     - text: "CV"

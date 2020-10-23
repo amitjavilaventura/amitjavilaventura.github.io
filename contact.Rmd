@@ -3,7 +3,11 @@ title: "<b style='color:black;'>Contact me</b>"
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE,
+                      message = FALSE,
+                      error = FALSE,
+                      warning = FALSE, 
+                      fig.align = "center")
 ```
 
 ***

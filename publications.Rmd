@@ -1,17 +1,20 @@
 ---
-title: "<p style='color:black;'><b>Publications</b></p>"
+title: "<b style='color:black;'>Publications</b>"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE,
                       message = FALSE,
                       error = FALSE,
-                      warning = FALSE)
+                      warning = FALSE, 
+                      fig.align = "center")
 ```
 
 ***
 
-<p style='font-size:25px; color:black;'><i class="far fa-newspaper"></i> <b>Journal articles</b> </p>
+<p style='font-size:25px; color:black;'><b>Journal articles</b> </p>
 
 
+
+<p style='font-size:25px; color:black;'><b>Posters</b> </p>
 

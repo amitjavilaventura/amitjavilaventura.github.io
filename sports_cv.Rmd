@@ -12,14 +12,9 @@ knitr::opts_chunk$set(echo = FALSE,
                       fig.align = "center")
 ```
 
-```{r image_me, eval=FALSE}
-htmltools::img(src = "assets/lm2x_wrci.png", 
-               style = 'float; position:absolute; top:50; right:0; padding-right:10px; height:200px')
-```
-
 ***
 
-<p style = "font-size:20px; color:black;">Club Natació Banyoles & Spanish Rowing Team</p>
+<p style = "font-size:20px; color:black;">Started rowing in 2007</p>
 
 <p style = "font-size:20px; color:black;">2016 World Rowing Under-23 Champion in BLM2x</p>
 
@@ -33,7 +28,7 @@ Unfortunatelly, I missed the qualification for the 2016 Olympic Games by one pla
 
 I left the high-level competition in 2019, just before starting my PhD.
 
-```{r image_blm2x, fig.cap="Spanish LM2x in the 2016 World Rowing Cup I. I am the rower in the bowsite (leftside in the photo).", out.width="150%"}
+```{r image_blm2x, fig.cap="Spanish LM2x in the 2016 World Rowing Cup I. I am the rower in the bowsite (leftside in the photo).", out.width="60%"}
 
 knitr::include_graphics("assets/lm2x_wrci.png")
 
