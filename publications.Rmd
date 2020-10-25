@@ -14,7 +14,8 @@ knitr::opts_chunk$set(echo = FALSE,
 
 <p style='font-size:25px; color:black;'><b>Journal articles</b> </p>
 
-
+<p style='font-size:15px;'> At the moment, I do not have any published papers in scientific journals. </p>
 
 <p style='font-size:25px; color:black;'><b>Posters</b> </p>
 
+<p style='font-size:15px;'> At the moment, I do not have any presented posters.</p>
