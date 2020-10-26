@@ -15,7 +15,15 @@ knitr::opts_chunk$set(echo = FALSE,
 <p style='font-size:20px; color:black;'> <b>Pasini's lab, <i>Istituto Europeo di Oncologia</i></b>
 <br> <i style='font-size:15px;'> July 2019 - Present </i></p>
 
-<p style='font-size:15px;'> INSERT RESEARC EXPERIENCE HERE</p>
+<p style='font-size:15px;'>Within Dr. Diego Pasini's group -Epigenetic mechanisms of stem cell differentiation and cancer-, I started working fulltime in computational biology and I was involved in a project that aims to study the Wnt/&beta;catenin pathway and mutations in the genes APC and CTNNB1 that activates it in the context of colorectal cancer. To achieve that goal, we used mouse models, either WT or mutated in one of those genes, to retrieve small intestinal organoids and intestinal Lgr5+ cells. We then performed RNAseq to do differential expression analyses with the different studied conditions, s</p>
+
+<p style='font-size:15px;color:black;'>My contribution to this research was: </p>
+
+* <p style='font-size:15px;'>Development of an ATACseq pipeline to be run using the Snakemake workflow management software.</p>
+* <p style='font-size:15px;'>Comparison of different ATACseq peak callers, mainly Genrich and MACS2.</p>
+* <p style='font-size:15px;'>Analysis and integration of RNAseq, ChIPseq and ATACseq data retrieved from mouse small intestinal organoids and Lgr5+ cells.</p>
+
+<p style='font-size:15px;color:black;'> Related publications: </p>
 
 ***
 

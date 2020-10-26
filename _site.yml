@@ -11,7 +11,7 @@ navbar:
       href: publications.html
     - text: "CV"
       href: cv.html
-    - text: "Sports CV"
+    - text: "Sports"
       href: sports_cv.html
   right:
     - icon:  fa-address-card fa-lg
