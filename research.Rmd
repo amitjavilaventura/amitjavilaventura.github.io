@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = FALSE,
 <p style='font-size:15px;color:black;'>My contribution to this research was: </p>
 
 * <p style='font-size:15px;'>Performing the bioinformatic analysis of the MNase-seq data.</p>
-* <p style='font-size:15px;'>Performing the MNase-qPCR validation, including the yeast culture, the MNase-based DNA digestion, the primer design and the following qPCRs.</p>
+* <p style='font-size:15px;'>Performing the MNase-qPCR validation, including the yeast culture, the MNase-driven DNA digestion, the design of the primers and the following qPCRs.</p>
 
 <p style='font-size:15px;color:black;'> Related publications: </p>
 

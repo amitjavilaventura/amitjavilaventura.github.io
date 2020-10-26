@@ -29,3 +29,7 @@ knitr::opts_chunk$set(echo = FALSE,
 
 <p style='color:black; font-size:15px;'><i class="fa fa-twitter" aria-hidden="true"></i> &nbsp; <a href="https://twitter.com/adriamitjavila"><b>@adriamitjavila</b></a></p>
 
+<br>
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge" style="float:left"  data-version="v1" data-size="medium" data-locale="es_ES" data-type="vertical" data-theme="dark" data-vanity="adria-mitjavila-ventura"><a class="LI-simple-link"  href='https://it.linkedin.com/in/adria-mitjavila-ventura?trk=profile-badge'>Adrià Mitjavila Ventura</a></div>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="twitter-timeline" data-width="250" data-height="364" data-theme="dark" style="float:right" href="https://twitter.com/adriamitjavila?ref_src=twsrc%5Etfw">Tweets by @adriamitjavila</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
