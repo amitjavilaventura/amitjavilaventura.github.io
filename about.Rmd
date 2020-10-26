@@ -1,4 +1,5 @@
 ---
+pagetitle: "Adrià Mitjavila Ventura"
 title: "<b style='color:black;'>About me</b>"
 ---
 
@@ -37,3 +38,8 @@ knitr::include_graphics("assets/after_wru23c2016.png")
 
 <p style='font-size:15px;'> After many years training at my highest level, I left elite rowing in 2019, after being 7^th^ in the European Rowing Championship, just before starting the PhD. I haven't competed since then, but one cannot leave rowing that easily and I pretend to compete again at a more local level.  </p>
 
+
+
+<br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>

@@ -1,4 +1,5 @@
 ---
+pagetitle: "Adrià Mitjavila Ventura"
 title: "<b style='color:black;'>Research experience</b>"
 ---
 
@@ -53,3 +54,9 @@ knitr::opts_chunk$set(echo = FALSE,
 * <p style='font-size:15px;'>Performing qPCR analyses to detect and quantify some of the crucial bacterial families and genders.</p>
 * <p style='font-size:15px;'>Performing the SPSS-based statistical analysis for the high-throughput sequencing-derived data.</p>
 * <p style='font-size:15px;'>Performing qPCR analyses to detect and quantify some of the species found to be increased in the seauencing data.</p>
+
+
+
+<br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>

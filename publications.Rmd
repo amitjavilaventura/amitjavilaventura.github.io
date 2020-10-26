@@ -1,4 +1,5 @@
 ---
+pagetitle: "Adrià Mitjavila Ventura"
 title: "<b style='color:black;'>Publications</b>"
 ---
 

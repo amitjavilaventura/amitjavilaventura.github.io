@@ -1,4 +1,5 @@
 ---
+pagetitle: "Adrià Mitjavila Ventura"
 title: "<b style = 'color: black;'>Adrià Mitjavila Ventura</b>"
 ---
 
@@ -20,13 +21,13 @@ knitr::opts_chunk$set(echo = FALSE,
 
 ***
 
-One of the most relevant components in my life has been sport, specially rowing, and here I will show some the results I had in sport
+One of the most relevant components in my life has been sport, specially rowing, and here I will show some the results I had.
 
 ## Rowing {.tabset}
 
 I started rowing at the end of 2007 and, since then, I have trained and competed at my highest level to achieve my goals in this sport. 
 
-Unfortunatelly, I missed the qualification for the 2016 Olympic Games by one place. However, toghether with my crewmate, I became World Rowing Under-23 champion in 2016 in the category of Under-23 Lightweight Double Scull (BLM2x). 
+Unfortunatelly, I missed the qualification for the 2016 Olympic Games by one place. However, toghether with my crewmate, I became 2016 World Rowing Under-23 champion in the category of Under-23 Lightweight Double Scull (BLM2x). 
 
 Finally I left the high-level competition in 2019, just before starting my PhD.
 
@@ -347,3 +348,8 @@ data.frame(Category = c("M: Men", "LM: Lightweight men", "BM:  Under-23 men", "B
   knitr::kable()
 
 ```
+
+
+<br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
