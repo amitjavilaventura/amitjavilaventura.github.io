@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = FALSE,
 
 ***
 
-One of the most relevant components in my life has been sport, specially rowing, and here I will show some the results I had.
+One of the most relevant components in my life has been sport, specially rowing, and here I will show some the results I've had.
 
 ## Rowing {.tabset}
 

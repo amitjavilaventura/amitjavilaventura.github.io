@@ -1,6 +1,6 @@
 ---
-title: "<b style='color:black;'>Adrià Mitjavila Ventura</b>"
 pagetitle: Adrià Mitjavila Ventura
+title: "<b style='color:black;'>Adrià Mitjavila Ventura</b>"
 ---
 <p style = "font-size:20px; color: black;"><i class="fas fa-user-tie" aria-hidden="true"></i> &nbsp; Bioinformatician at the <i>Istituto Europeo di Oncologia</i></p>
 
