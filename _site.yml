@@ -28,7 +28,6 @@ output:
     theme: paper
     include:
       in_header: assets/favicon.html
-      after_body: assets/footer.html
       
     
     

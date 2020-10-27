@@ -1,8 +1,8 @@
 ---
-pagetitle: "Adrià Mitjavila Ventura"
 title: "<b style='color:black;'>Adrià Mitjavila Ventura</b>"
+pagetitle: Adrià Mitjavila Ventura
 ---
-<p style = "font-size:20px; color: black;"><i class="fas fa-user-tie" aria-hidden="true"></i> &nbsp; PhD student in Computational Biology at the <i>Istituto Europeo di Oncologia</i></p>
+<p style = "font-size:20px; color: black;"><i class="fas fa-user-tie" aria-hidden="true"></i> &nbsp; Bioinformatician at the <i>Istituto Europeo di Oncologia</i></p>
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE,

@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE,
 <p style='font-size:20px; color:black;'> <b>Pasini's lab, <i>Istituto Europeo di Oncologia</i></b>
 <br> <i style='font-size:15px;'> July 2019 - Present </i></p>
 
-<p style='font-size:15px;'> INSERT RESEARC EXPERIENCE HERE</p>
+<p style='font-size:15px;'>Insert research here</p>
 
 ***
 
