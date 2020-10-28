@@ -30,6 +30,8 @@ knitr::opts_chunk$set(echo = FALSE,
 * <p style='font-size:15px;'>Performing the bioinformatic analysis of the MNase-seq data.</p>
 * <p style='font-size:15px;'>Performing the MNase-qPCR validation, including the yeast culture, the MNase-driven DNA digestion, the design of the primers and the following qPCRs.</p>
 
+<p style='font-size:15px;color:black;'> Master's thesis: <em style='font-size:15px;color:gray;'> Influence of Xrn1 in nucleosome positioning across <ins>Saccharomyces cerevisiae</ins> genome and its effects in transcription</em>.</p>
+
 <p style='font-size:15px;color:black;'> Related publications: </p>
 
 
@@ -45,7 +47,10 @@ knitr::opts_chunk$set(echo = FALSE,
 * <p style='font-size:15px;'>Performing the DNA extractions of the intestinal biopsies.</p>
 * <p style='font-size:15px;'>Performing qPCR analyses to detect and quantify some of the crucial bacterial families and genders.</p>
 * <p style='font-size:15px;'>Performing the SPSS-based statistical analysis for the high-throughput sequencing-derived data.</p>
-* <p style='font-size:15px;'>Performing qPCR analyses to detect and quantify some of the species found to be increased in the seauencing data.</p>
+* <p style='font-size:15px;'>Performing qPCR analyses to detect and quantify some of the species found to be increased in the sequencing data.</p>
+
+<p style='font-size:15px;color:black;'> Bachelor's thesis title: <em style='font-size:15px;color:gray;'> Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy </em>.</p>
+
 
 
 
