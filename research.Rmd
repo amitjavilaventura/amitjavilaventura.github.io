@@ -54,9 +54,7 @@ knitr::opts_chunk$set(echo = FALSE,
 
 <p style='font-size:15px;color:black;'> Bachelor's thesis: </p> 
 
-* <em style='font-size:15px;color:gray;'> Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy. </em></p>
-
-
+* <em style='font-size:15px;'> Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy. </em></p>
 
 
 
