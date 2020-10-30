@@ -25,7 +25,7 @@ knitr::include_graphics("assets/JO2.png")
 
 <p style='font-size:15px;'> I could say that my research interests are linked to -omics data analysis related to epigenetics and signal transduction, specially in the context of healthcare.</p>
 
-<p style='font-size:15px;'>A part from science, I love scientific divulgation and sport, specially rowing -sport in which I competed at international level- and cycling. </p>
+<p style='font-size:15px;'>A part from science, I love scientific divulgation and practicing sport, specially rowing -sport in which I competed at international level- and cycling. </p>
 
 
 
