@@ -195,12 +195,13 @@ English    | Advanced (IELTS 7.5 - C1) |            |              |
            
 <br>
 
-# Publications {.tabset}
+# Publications
 
+## Journal Articles {.tabset}
 
-## Journal Articles
+### Begley et al (2020)
 
-* Begley V et al (2020). **Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration**. [Preprint](https://www.biorxiv.org/content/10.1101/2020.06.02.129171v2) in *bioRxiv*. . doi: https://doi.org/10.1101/2020.06.02.129171
+Begley V et al (2020). **Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration**. [Preprint](https://www.biorxiv.org/content/10.1101/2020.06.02.129171v2) in *bioRxiv*. . doi: https://doi.org/10.1101/2020.06.02.129171
 
 
 <br>

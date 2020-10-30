@@ -2,13 +2,16 @@ name: "Adrià Mitjavila Ventura"
 output_dir: "."
 navbar:
   title: "Adrià Mitjavila Ventura"
+  type: inverse
   left:
     - text: "About me"
       href: about.html
     - text: "Research"
-      href: research.html
-    - text: "Publications"
-      href: publications.html
+      menu:
+      - text: "Experience"
+        href: research.html
+      - text: "Publications"
+        href: publications.html
     - text: "CV"
       href: cv.html
     - text: "Sports"
@@ -25,7 +28,7 @@ navbar:
       href: http://gitlab.com/amitjavilaventura
 output:
   html_document:
-    theme: paper
+    theme: cerulean
     include:
       in_header: assets/favicon.html
       
