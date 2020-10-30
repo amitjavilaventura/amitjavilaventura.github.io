@@ -23,7 +23,7 @@ knitr::opts_chunk$set(echo = FALSE,
 
 One of the most relevant components in my life has been sport, specially rowing, and here I will show some the results I've had. 
 
-## Rowing {.tabset}
+## <b style = "font-size:25px; color:black;">Rowing </b> {.tabset}
 
  I started rowing at the end of 2007 and, since then, I have trained and competed at my highest level to achieve my goals in this sport. 
 
