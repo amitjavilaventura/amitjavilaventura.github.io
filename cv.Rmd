@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = FALSE,
 ```{r image_me, eval = T}
 htmltools::img(src = "assets/foto_jo.jpg", 
                alt = 'foto_carnet', 
-               style = 'float; position:absolute; top:200; right:0; padding-top: 10px; padding-right: 200px; height:200px')
+               style = 'float; position:absolute; top:1; right:0; padding-top:10px; padding-bottom:35px; padding-right:200px; height:200px')
 ```
 
 ***
@@ -34,7 +34,6 @@ htmltools::img(src = "assets/foto_jo.jpg",
 <a href="https://twitter.com/adriamitjavila"><i class="fa fa-twitter" aria-hidden="true"></i></a> &nbsp;
 <a href=""><i class="far fa-newspaper"></i></a>
 </p> 
-
 
 ***
 
