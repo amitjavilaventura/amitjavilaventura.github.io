@@ -1,6 +1,6 @@
 ---
 pagetitle: "Adrià Mitjavila Ventura"
-title: "<b style='color:black;'>Biotechnologist living between computers</b>"
+title: "<b style='color:black;'>Biotechnologist living around computers</b>"
 ---
 
 ```{r setup, include=FALSE}
@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = FALSE,
 
 ***
 
-<p style='font-size:15px;'> I am a former biotechnologist living between computers and pursuing a PhD in Computational Biology.</p>
+<p style='font-size:15px;'> I am a former biotechnologist living around computers and pursuing a PhD in Computational Biology.</p>
 
 ```{r jd_asbtec_19_20, echo=FALSE, out.extra="style='float:right; position:relative; padding:30px'", out.width="40%"}
 knitr::include_graphics("assets/JO2.png")
@@ -21,7 +21,7 @@ knitr::include_graphics("assets/JO2.png")
 
 <p style='font-size:15px;'> At the beggining of my academic career, I wanted to be a wetlab scientist and, in honor to the truth, I didn't love bioinformatics, so I focussed my bachelor's thesis in Molecular Microbiology. However, I noticed how crucial informatics-based analyses of biological data are when we externally sequenced and processed our metagenomics data and when I had to make the statistical analysis all by myself without knowing any R. Then, due to sport-related reasons, I dedicated the master's thesis to the study of yeast gene expression using bioinformatics-based approached. This is when I started to realize that computational biology wasn't that bad and that I actually liked it. </p>
 
-<p style='font-size:15px;'> Today I am working as a bioinformatician in an epigenetics group, mainly studying signal transduction in the Wnt pathway, to which I will dedicate my PhD project and my love. <i class="fas fa-heart" aria-hidden="true"></i> </p>
+<p style='font-size:15px;'> Today I am working as a bioinformatician in an epigenetics group, mainly studying signal transduction in the Wnt pathway, to which I will dedicate my PhD project and my love.</p>
 
 <p style='font-size:15px;'> I could say that my research interests are linked to -omics data analysis related to epigenetics and signal transduction, specially in the context of healthcare.</p>
 
