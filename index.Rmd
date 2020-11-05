@@ -21,9 +21,9 @@ knitr::include_graphics("assets/JO2.png")
 
 <p style='font-size:15px;'> At the beggining of my academic career, I wanted to be a wetlab scientist and, in honor to the truth, I didn't love bioinformatics, so I focussed my bachelor's thesis in Molecular Microbiology. However, I noticed how crucial informatics-based analyses of biological data are when we externally sequenced and processed our metagenomics data and when I had to make the statistical analysis all by myself without knowing any R. Then, due to sport-related reasons, I dedicated the master's thesis to the study of yeast gene expression using bioinformatics-based approached. This is when I started to realize that computational biology wasn't that bad and that I actually liked it. </p>
 
-<p style='font-size:15px;'> Today I am working as a bioinformatician in an epigenetics group, mainly studying signal transduction in the Wnt pathway, to which I will dedicate my PhD project and my love.</p>
+<p style='font-size:15px;'> Today I am working as a bioinformatician in an epigenetics group, mainly studying signal transduction in the Wnt pathway, to which I will dedicate my PhD project.</p>
 
-<p style='font-size:15px;'> I could say that my research interests are linked to -omics data analysis related to epigenetics and signal transduction, specially in the context of healthcare.</p>
+<p style='font-size:15px;'>My professional interests are related to the data analysis in support to experimental research, as well as the pure computational experimentation. Moreover, I am a big fan of open science and I try to have my code repositories (mainly GitHub) as open and updated as possible.</p>
 
 <p style='font-size:15px;'>A part from science, I love scientific divulgation and practicing sport, specially rowing -sport in which I competed at international level- and cycling. </p>
 

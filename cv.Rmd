@@ -202,8 +202,7 @@ My full list of publications can be consulted [here](publications.html).
 
 ### Begley *et al* (2020)
 
-Begley V *et al* (2020). **Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration**. [Preprint](https://www.biorxiv.org/content/10.1101/2020.06.02.129171v2) in *bioRxiv*. . doi: https://doi.org/10.1101/2020.06.02.129171
-
+Begley V *et al* (2020). **Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration***RNA Biology*. [doi: 10.1080/15476286.2020.1845504](https://doi.org/10.1080/15476286.2020.1845504).
 
 <br>
 

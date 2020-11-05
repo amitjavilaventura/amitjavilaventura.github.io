@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = FALSE,
 
 # <b style='font-size:25px; color:black;'>Journal articles</b> {#papers} 
 
-* <p style='font-size:15px;'> Begley V, Jordán-Pla A, Peñate X, Godino-Garrido A, Challal D, Cuevas-Bermúdez A, <ins style="color:Tomato;">Mitjavila A</ins>, Barucco Mara, Gutiérrez G, Singh A, Alepuz P, Navarro F, Libri D, Pérez-Ortín JE, Chávez S (2020). **Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration**. [Preprint](https://www.biorxiv.org/content/10.1101/2020.06.02.129171v2) in *bioRxiv*. doi: https://doi.org/10.1101/2020.06.02.129171 </p>
+* <p style='font-size:15px;'> Begley V, Jordán-Pla A, Peñate X, Godino-Garrido A, Challal D, Cuevas-Bermúdez A, <ins style="color:Tomato;">Mitjavila A</ins>, Barucco Mara, Gutiérrez G, Singh A, Alepuz P, Navarro F, Libri D, Pérez-Ortín JE, Chávez S (2020). **Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration**. *RNA Biology*. [doi: 10.1080/15476286.2020.1845504](https://doi.org/10.1080/15476286.2020.1845504).</p>
 
 # <b style='font-size:25px; color:black;'>Posters</b> {#posters}
 

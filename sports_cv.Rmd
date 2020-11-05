@@ -1,6 +1,6 @@
 ---
 pagetitle: "Adrià Mitjavila Ventura"
-title: "<b style = 'color: black;'>Adrià Mitjavila Ventura</b>"
+title: "<b style='color:black;'>Adrià Mitjavila Ventura</b>"
 ---
 
 <p style = "font-size:20px; color: black;"><i class="fas fa-user"></i> &nbsp; Ex-elite rower in <i>Club Natació Banyoles</i> </p> 
