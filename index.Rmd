@@ -25,7 +25,7 @@ knitr::include_graphics("assets/JO2.png")
 
 <p style='font-size:15px;'>My professional interests are related to the data analysis in support to experimental research, as well as the pure computational experimentation. Moreover, I am a big fan of open science and I try to have my code repositories (mainly GitHub) as open and updated as possible.</p>
 
-<p style='font-size:15px;'>A part from science, I love scientific divulgation and practicing sport, specially rowing -sport in which I competed at international level- and cycling. </p>
+<p style='font-size:15px;'>Apart from science, I love scientific divulgation and practicing sport, specially rowing -sport in which I competed at international level- and cycling. </p>
 
 
 
