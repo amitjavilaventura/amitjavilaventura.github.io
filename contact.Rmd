@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = FALSE,
 
 ***
 
-<p style='font-size:15px;'> If you wish so, don't hesitate to contact me by: </p>
+<p style='font-size:15px;' align='justify'> If you wish so, don't hesitate to contact me by: </p>
 
 
 <p style='color:black; font-size:15px;'> <i class="fas fa-home" aria-hidden="true"></i> &nbsp; <b>Girona (Spain) - Milan (Italy)</b> </p>

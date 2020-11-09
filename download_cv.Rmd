@@ -13,10 +13,10 @@ knitr::opts_chunk$set(echo = FALSE,
 
 ***
 
-<p style='font-size:15px;'>Here I have two versions of my CV that can be downloaded in PDF format:</p>
+<p style='font-size:15px;' align='justify'>Here I have two versions of my CV that can be downloaded in PDF format:</p>
 
-* <p style='font-size:15px;'>A short version of my CV / resume.</p>
-* <p style='font-size:15px;'>A longer CV version.</p>
+* <p style='font-size:15px;' align='justify'>A short version of my CV / resume.</p>
+* <p style='font-size:15px;' align='justify'>A longer CV version.</p>
 
 ```{r cv_short, fig.width=10, fig.cap="Adrià Mitjavila Ventura | Resume"}
 knitr::include_url("assets/amitjavila_cv_short.pdf")
@@ -32,4 +32,4 @@ knitr::include_url("assets/mitjavila_adria_cv.pdf")
 
 ***
 
-Please, have in mind that these documents might not be fully updated, so if you need more information, do not hesitate to contact me.
+<p style='font-size:15px;' align='justify'> Please, have in mind that these documents might not be fully updated, so if you need more information, do not hesitate to contact me.</p>
