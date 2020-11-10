@@ -5,14 +5,17 @@ navbar:
   type: inverse
   left:
     - text: "About me"
+      icon: fa-user-circle
       href: about.html
     - text: "Research"
+      icon: fa-dna
       menu:
       - text: "Experience"
         href: research.html
       - text: "Publications"
         href: publications.html
     - text: "Curriculum"
+      icon: fa-file-invoice
       menu:
       - text: "CV"
         href: cv.html
@@ -21,13 +24,13 @@ navbar:
       - text: "Download"
         href: download_cv.html
   right:
-    - icon:  fa-address-card fa-lg
+    - icon: fa-address-card
       text: " Contact"
       href: contact.html
-    - icon: fa-github fa-lg
+    - icon: fa-github
       text: " GitHub"
       href: http://github.com/amitjavilaventura
-    - icon: fa-gitlab fa-lg
+    - icon: fa-gitlab
       text: " GitLab"
       href: http://gitlab.com/amitjavilaventura
 output:
