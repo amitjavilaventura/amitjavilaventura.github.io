@@ -24,14 +24,11 @@ navbar:
       - text: "Download"
         href: download_cv.html
   right:
-    - icon: fa-address-card
-      text: " Contact"
+    - icon: fa-address-card fa-lg
       href: contact.html
-    - icon: fa-github
-      text: " GitHub"
+    - icon: fa-github fa-lg
       href: http://github.com/amitjavilaventura
-    - icon: fa-gitlab
-      text: " GitLab"
+    - icon: fa-gitlab fa-lg
       href: http://gitlab.com/amitjavilaventura
 output:
   html_document:
