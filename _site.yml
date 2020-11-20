@@ -4,9 +4,10 @@ description: |
   Adrià Mitjavila Ventura
 output_dir: "docs"
 favicon: assets/dna_numeros2.png
+exclude: README.md
 navbar:
   left:
-    - text: fa-home fa-lg
+    - icon: fa-home fa-lg
       href: index.html
     - text: "About me"
       href: about.html
