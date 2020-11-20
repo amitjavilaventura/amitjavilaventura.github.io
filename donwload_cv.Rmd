@@ -29,13 +29,13 @@ htmltools::img(src = "assets/foto_jo.jpg",
 * <p align='justify'>A short version of my CV / resume.</p>
 * <p align='justify'>A longer CV version.</p>
 
-```{r fig.width=10, fig.cap="Adrià Mitjavila Ventura | Resume"}
+```{r fig.cap="Adrià Mitjavila Ventura | Resume", layout="l-site"}
 knitr::include_url("assets/amitjavila_cv_short.pdf")
 ```
 
 <br>
 
-```{r fig.width=10, fig.cap="Adrià Mitjavila Ventura | CV"}
+```{r fig.cap="Adrià Mitjavila Ventura | CV", fig.layout="l-site"}
 knitr::include_url("assets/mitjavila_adria_cv.pdf")
 ```
 
