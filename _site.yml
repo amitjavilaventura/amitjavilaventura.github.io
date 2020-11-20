@@ -1,21 +1,22 @@
 name: "Adrià Mitjavila Ventura"
-output_dir: "."
+title: "Adrià Mitjavila Ventura"
+description: |
+  Adrià Mitjavila Ventura
+output_dir: "docs"
+favicon: assets/dna_numeros2.png
 navbar:
-  title: "Adrià Mitjavila Ventura"
-  type: inverse
   left:
+    - text: fa-home fa-lg
+      href: index.html
     - text: "About me"
-      icon: fa-user-circle
       href: about.html
     - text: "Research"
-      icon: fa-dna
       menu:
       - text: "Experience"
         href: research.html
       - text: "Publications"
         href: publications.html
     - text: "Curriculum"
-      icon: fa-file-invoice
       menu:
       - text: "CV"
         href: cv.html
@@ -23,6 +24,8 @@ navbar:
         href: sports_cv.html
       - text: "Download"
         href: download_cv.html
+    - text: "Blog | Biobit"
+      href: https://biobit.netlify.app
   right:
     - icon: fa-address-card fa-lg
       href: contact.html
@@ -30,11 +33,4 @@ navbar:
       href: http://github.com/amitjavilaventura
     - icon: fa-gitlab fa-lg
       href: http://gitlab.com/amitjavilaventura
-output:
-  html_document:
-    theme: cerulean
-    include:
-      in_header: assets/favicon.html
-      
-    
-    
+output: distill::distill_article
