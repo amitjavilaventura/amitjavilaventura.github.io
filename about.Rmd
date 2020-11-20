@@ -26,6 +26,12 @@ knitr::opts_chunk$set(echo = FALSE,
 knitr::include_graphics("assets/jd_asbtec_19_20.png")
 ```
 
+Furthermore, one of my hobbies is communicating science and for this reason I have recently started [BioBit](https://biobit.netlify.app), a blog dedicated to spread Bioinformatics.
+
+```{r biobit, echo=FALSE, fig.cap="BioBit logo. Source: <i>biobit.netlify.app</i>.", out.width="40%"}
+knitr::include_graphics("assets/logo_biobit.png")
+```
+
 ***
 
 <p style='font-size:15px;' align='justify'> On the other hand, during most of my academic career, I have combined the science studies with high-level training and competition in rowing, achieving excellent results in both, national and international competitions.   </p>
@@ -37,7 +43,6 @@ knitr::include_graphics("assets/after_wru23c2016.png")
 ```
 
 <p style='font-size:15px;' align='justify'> After many years training at my highest level, I left elite rowing in 2019, after being 7^th^ in the European Rowing Championship, just before starting the PhD. I haven't competed since then, but one cannot leave rowing that easily and I pretend to compete again at a more local level. </p>
-
 
 
 <br><br><br><br>
