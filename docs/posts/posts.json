@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/biobit/",
+    "title": "BioBit",
+    "description": "Take a look at the blog I have recently created to spread bioinformatics to society: BioBit. My goal publishing posts to BioBit is to make bioinformatics, as well as biology and computer science, more accessible to society. Take a look at biobit.netlify.app.",
+    "author": [
+      {
+        "name": "Adrià",
+        "url": "https://amitjavialventura.github.io"
+      }
+    ],
+    "date": "2020-11-23",
+    "categories": [],
+    "contents": "\nBioBit is a blog dedicated to spread and communicate bioinformatics to society. I made it using the R package distill and to publish it I used Netlify, because GitHub pages force me to have it as a subdomain of my personal website.\nMy goal with the blog is posting basic things and recent advances about bioinformatics, as well as some biology and computer science -although I won’t post much about it, since I am a bioscientist rather than a computer one-.\nMoreover, I have also explained how I made the blog using Rmarkdown and distill, as well as the steps I followed to make my personal website using a simple Rmarkdown page and why I changed to a Distill Blog for it.\nI wish that you will like what I have to say and you will have fun reading it.\nYou can take a look at the blog at https://biobit.netlify.app.\n\n\n\n\n\n\n",
+    "preview": "posts/biobit/distill-preview.png",
+    "last_modified": "2020-11-23T07:27:50+01:00",
+    "input_file": "biobit.utf8.md"
+  },
+  {
     "path": "posts/welcome/",
     "title": "Biotechnologist around computers",
     "description": "I am a former biotechnologist living around computers and, nowadays, I am working in an Epigenetics group seeking to get a PhD in Computational Biology. Apart from science, I love scientific divulgation and practicing sport, specially rowing -sport in which I competed at international level- and cycling.",
