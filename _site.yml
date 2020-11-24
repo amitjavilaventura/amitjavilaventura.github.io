@@ -25,6 +25,8 @@ navbar:
         href: sports_cv.html
       - text: "Download"
         href: donwload_cv.html
+    - text: "Resources"
+      href: development.html
     - text: "Blog | Biobit"
       href: https://biobit.netlify.app
   right:
