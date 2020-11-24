@@ -5,6 +5,8 @@ description: |
 author:
   - name: Adrià Mitjavila Ventura
     url: https://amitjavilaventura.github.io
+categories:
+  - Welcome
 date: 11-20-2020
 output:
   distill::distill_article:
