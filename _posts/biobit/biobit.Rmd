@@ -11,7 +11,7 @@ categories:
   - BioBit
   - Blog
   - Bioinformatics
-date: "`r Sys.Date()`"
+date: 11-22-2020
 output: distill::distill_article
 ---
 

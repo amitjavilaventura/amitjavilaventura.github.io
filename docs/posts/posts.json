@@ -18,7 +18,7 @@
     ],
     "contents": "\n\nContents\nDNAmeWhat is DNAme?\nHow DNAme works?Summary\nOne-letter code for aminoacids\nNot all names\nParameters\n\nAvailability\n\n\nDNAme\n\n\n\nWhat is DNAme?\nDNAme is an application for teaching/learning purposes which converts a word to a DNA sequence. It has some theory to understand the processes underlying this conversion, but this theroy must not be used with teaching puroposes because it may have some inaccuracies.\nHow DNAme works?\nSummary\nDNAme was designed using R/Shiny that takes your name as a sequence of one-letter aminoacids and converts them to DNA/mRNA by looking for the codon that codes for each aminoacid.\nOne-letter code for aminoacids\nSince most aminoacids are coded by more than one codon, it takes the codon usage of several species into account, selecting the most frequent codon based on genescript’s codon frequency tables. Currently the available organisms are human and mouse, but the idea is to have some of the most used model organisms (i.e. A. thaliana, D. melanogaster, E. coli, …).\nNot all names\nIt has to be taken into account that not all names can be converted to DNA/mRNA, because not all letters have an associated aminoacid. Hence, if a letter in your name is not possible, DNAme will throw an error message. You have two possibilites:\nChoose another word, such as a nickname or a surname.\nPlay with phonetics. For example, if your name contains an X you could change it by a combination of letters with a similar sound like KS, which are Lysine and Serine.\nParameters\nDNAme allows to select diverse parameters:\nNucleic acid: DNA or mRNA\nOrganism (for the codon usage): Human or Mouse\nSeparator: character to separate the codons (i.e. a dash, a blank space, nothing).\nin the future Use extra letters.\nAvailability\nDNAme is available here as a working application. This version is deployed to shinyapps.io and only one person at a time can be connected to the app.\nTo download the source code, go to the Github repository and clone it. Then open R or RStudio, go to the DNAme directory (with setwd()) and run shiny::runApp(\"app.R\") in the R console. In this case you will need to install some R packages:\nshiny\ndplyr\nmagrittr\nstringr\nIn the future, I want to build it as a Desktop app using photon, but at the moment, this option is not available.\n\n\n\n",
     "preview": "posts/2020_11_24-dname/distill-preview.png",
-    "last_modified": "2020-11-24T11:59:56+01:00",
+    "last_modified": "2020-11-24T12:12:29+01:00",
     "input_file": {}
   },
   {
@@ -31,11 +31,15 @@
         "url": "https://amitjavialventura.github.io"
       }
     ],
-    "date": "2020-11-23",
-    "categories": [],
+    "date": "2020-11-22",
+    "categories": [
+      "BioBit",
+      "Blog",
+      "Bioinformatics"
+    ],
     "contents": "\nBioBit is a blog dedicated to spread and communicate bioinformatics to society. I made it using the R package distill and to publish it I used Netlify, because GitHub pages force me to have it as a subdomain of my personal website.\nMy goal with the blog is posting basic things and recent advances about bioinformatics, as well as some biology and computer science -although I won’t post much about it, since I am a bioscientist rather than a computer one-.\nMoreover, I have also explained how I made the blog using Rmarkdown and distill, as well as the steps I followed to make my personal website using a simple Rmarkdown page and why I changed to a Distill Blog for it.\nI wish that you will like what I have to say and you will have fun reading it.\nYou can take a look at the blog at https://biobit.netlify.app.\n\n\n\n\n\n\n",
     "preview": "posts/biobit/distill-preview.png",
-    "last_modified": "2020-11-23T07:27:50+01:00",
+    "last_modified": "2020-11-24T12:13:34+01:00",
     "input_file": {}
   },
   {
@@ -49,10 +53,12 @@
       }
     ],
     "date": "2020-11-20",
-    "categories": [],
+    "categories": [
+      "Welcome"
+    ],
     "contents": "\n\nAt the beggining of my academic career, I wanted to be a wetlab scientist and, in honor to the truth, I didn’t love bioinformatics, so I focussed my bachelor’s thesis in Molecular Microbiology. However, I noticed how crucial informatics-based analyses of biological data are when we externally sequenced and processed our metagenomics data and when I had to make the statistical analysis all by myself without knowing any R. Then, due to sport-related reasons, I dedicated the master’s thesis to the study of yeast gene expression using bioinformatics-based approached. This is when I started to realize that computational biology wasn’t that bad and that I actually liked it.\n\n\nToday I am working as a bioinformatician in an epigenetics group, mainly studying signal transduction and the mutations in the Wnt pathway, to which I will dedicate my PhD project.\n\n\nMy professional interests are related to the data analysis in support to experimental research, as well as the pure computational experimentation. Moreover, I am a big fan of open science and I try to have my code repositories (mainly GitHub) as open and updated as possible.\n\n\nApart from science, I love scientific divulgation -I have a blog dedicated to spreading bioinformatics- and practicing sport, specially rowing -sport in which I competed at international level- and cycling.\n\nI hope you enjoy this website.\n\n\n\n\n\n\n\n",
     "preview": "posts/welcome/../../assets/foto_jo.jpg",
-    "last_modified": "2020-11-20T19:32:55+01:00",
+    "last_modified": "2020-11-24T12:12:18+01:00",
     "input_file": {}
   }
 ]
