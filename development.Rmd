@@ -1,0 +1,73 @@
+---
+title: "Developed resources"
+description: |
+  Pipelines, applications and packges developed by me
+output:
+  distill::distill_article:
+    toc: yes
+    toc_float: yes
+    toc_depth: 3
+---
+
+<style> body {text-align: justify} </style>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,
+                      message = FALSE,
+                      error = FALSE,
+                      warning = FALSE, 
+                      fig.align = "center")
+```
+
+# Workflows
+
+## Snakemake
+
+### ATACseq pipeline
+
+*ongoing* 
+
+Simple Snakemake pipeline for ATACseq used in Pasini's lab.
+
+Code available [here](https://github.com/amitjavilaventura/ATACseq-snakemake).
+
+```{r echo=FALSE, eval=FALSE}
+### ArtATAC
+
+*ongoing* 
+  
+_**Automated Reproducible Tool for bulk ATACseq data processing and visualization**_.
+
+Related publications:
+* Related publications:
+```
+
+# Tools
+
+## Shiny Apps
+
+### RNAseq data visualization
+
+A very simple shiny app to visualize RNAseq data from the [Snakemake RNAseq pipeline](https://github.com/dfernandezperez/RNAseq-Snakemake/tree/development) used in the Pasini's Lab.
+
+The code is available [here](https://github.com/amitjavilaventura/ShinyApps/tree/main/shiny_rnaseq).
+
+### ChIPseq data visualization
+
+A very simple shiny app to visualize the ChIPseq data from the [Snakemake ChIPseq pipeline](https://github.com/dfernandezperez/ChIPseq-snakemake/tree/development) used in the Pasini's lab.
+
+The code is available [here](https://github.com/amitjavilaventura/ShinyApps/tree/main/shiny_chipseq).
+
+### DNAme
+
+Simple Shiny app for teaching/learning purposes, that converts a name to nucleotide (DNA or mRNA) sequence. 
+
+Not all names can be converted, since *DNAme* takes each letter as an aminoacid, and not all letters are one-letter code for aminoacids.
+
+The app is avialable [here](https://biobit.netlify.app/dname.html) and the source code is available [here](https://github.com/amitjavilaventura/DNAme).
+
+# Miscellaneous
+
+## R functions
+
+Simple R functions to solve diverse problems I am finding every day. Source code available [here](https://github.com/amitjavilaventura/custom-R-functions).
