@@ -17,6 +17,8 @@ navbar:
         href: research.html
       - text: "Publications"
         href: publications.html
+    - text: "Development"
+      href: development.html
     - text: "Curriculum"
       menu:
       - text: "CV"
@@ -25,8 +27,6 @@ navbar:
         href: sports_cv.html
       - text: "Download"
         href: donwload_cv.html
-    - text: "Resources"
-      href: development.html
     - text: "Blog | Biobit"
       href: https://biobit.netlify.app
   right:
