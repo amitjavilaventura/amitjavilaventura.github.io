@@ -13,4 +13,4 @@ RnwWeave: Sweave
 LaTeX: pdfLaTeX
 
 BuildType: Website
-WebsitePath: ~/Desktop/Adria/Other/webpage2
+WebsitePath: ~/Desktop/Adria/Other/website/webpage2

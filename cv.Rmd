@@ -152,7 +152,7 @@ htmltools::img(src = "assets/foto_jo.jpg",
 Language    | Package/environment management    | Workflow management | Code repositories                              | Operating systems  | Offimatics    |
 :---------: | :----------------------------:    | :-----------------: | :---------------:                              | :----------------: | :-----------: |
 R           | Conda                             | Snakemake           | [GitHub](https://github.com/amitjavilaventura) | Windows            | MS Office     |         
-Python      |                                   |                     | [GitLab](https://gitlab.com/amitjavilaventura) | Linux (Ubuntu)     | OpenOffice    |
+Python      | Docker                            |                     | [GitLab](https://gitlab.com/amitjavilaventura) | Linux (Ubuntu)     | OpenOffice    |
 Bash        |                                   |                     |                                                | MAC                |               |
 Markdown    |                                   |                     |                                                |                    |               |
             |                                   |                     |                                                |                    |               |

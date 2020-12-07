@@ -1,5 +1,30 @@
 [
   {
+    "path": "posts/2020_12_01-xrn1_article/",
+    "title": "I am not a virgin anymore!",
+    "description": "Don't worry, I am not talking about my romantic life but I have been recently told that the article I had been working in during my master's thesis -around 2018-, has been officially published in RNA Biology under the title 'Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration', being the first journal paper in which I appear in the authors list. Nevertheless, I am not going to explain this article, since I only worked in the MNase-seq data analysis, but... what is MNase-seq?",
+    "author": [
+      {
+        "name": "Adrià Mitjavila Ventura",
+        "url": "https://amitjavilaventura.github.io"
+      }
+    ],
+    "date": "2020-12-07",
+    "categories": [
+      "Publications",
+      "RNA Biology",
+      "Gene expression",
+      "Xrn1",
+      "MNase-seq",
+      "Nucleosomes",
+      "Bioinformatics"
+    ],
+    "contents": "\n\n\n\nFigure 1: Figure 1 of the article showing the model of how Xrn1 and other RNA decay factors work. Source: Begley V et al (2020). Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration. RNA Biology. doi: 10.1080/15476286.2020.1845504.\n\n\n\nIf you want to know more about it, read my post in BioBit.\n\n\n\n",
+    "preview": "posts/2020_12_01-xrn1_article/distill-preview.png",
+    "last_modified": "2020-12-07T12:46:49+01:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2020_11_24-dname/",
     "title": "DNAme",
     "description": "Would you like to have your name in DNA format? Try this funny app made using R and Shiny that converts your name to a sequence of DNA or mRNA. To do so, DNAme takes each letter of your name as a one-letter code aminoacid and then, it looks for the codon that codes for that aminoacid. It is possible to choose between DNA or mRNA nucleotides, as well as, using the codon usage of diverse organisms. Nevertheless, there are some letters (i.e. B, Ç, J, U, X, ...) that are not associated to any aminoacid and hence, names containing these letters cannot be transformed to DNA nor mRNA.",
