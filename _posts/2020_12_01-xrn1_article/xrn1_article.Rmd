@@ -27,6 +27,10 @@ knitr::include_graphics("graphical_abstract.jpg")
 
 If you want to know more about it, read [my post in BioBit](https://biobit.netlify.app/posts/2020_12_01-xrn1_mnaseseq/).
 
+The article can be found at:
+
+* Begley V *et al* (2020). **Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration**. **RNA Biology**. [doi: 10.1080/15476286.2020.1845504.](https://www.tandfonline.com/doi/abs/10.1080/15476286.2020.1845504?journalCode=krnb20)
+
 
 
 
