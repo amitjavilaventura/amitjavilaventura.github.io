@@ -7,5 +7,5 @@ listing: posts
 <br>
 
 ```{r front_cover, layout="l-screen", echo=FALSE}
-knitr::include_graphics("assets/cover_adria.png")
+knitr::include_graphics("assets/cover_adria2.png")
 ```
