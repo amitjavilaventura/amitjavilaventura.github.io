@@ -3,3 +3,9 @@ title: "Adrià Mitjavila Ventura"
 site: distill::distill_website
 listing: posts
 ---
+
+<br>
+
+```{r front_cover, layout="l-screen"}
+knitr::include_graphics("assets/cover_adria.png")
+```
