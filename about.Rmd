@@ -22,13 +22,13 @@ knitr::opts_chunk$set(echo = FALSE,
 
 <p align='justify'> As a plus, I have been an active member from the *Associació de Biotecnòlegs de Catalunya (ASBTEC)* -an association dedicated to promotion of the biotechnologists to Catalan society- since 2018 and board member since 2019, collaborating in the organization of diverse Biotechnology-related events (topics: job search, entrepreneurship, divulgation, research...) and leading the team in charge of communication and divulgation through social networks and our webpage.</p>
 
-```{r jd_asbtec_19_20, echo=FALSE, fig.cap="Members of ASBTEC's Directive Board (2019-2020). I am the one on the right side of the photo.", out.width="80%"}
+```{r "jdasbtec1920", echo=FALSE, fig.cap="Members of ASBTEC's Directive Board (2019-2020). I am the one on the right side of the photo.", out.width="80%"}
 knitr::include_graphics("assets/jd_asbtec_19_20.png")
 ```
 
 Furthermore, one of my hobbies is communicating science and for this reason I have recently started [BioBit](https://biobit.netlify.app), a blog dedicated to spread Bioinformatics.
 
-```{r biobit, echo=FALSE, fig.cap="BioBit logo. Source: <i>biobit.netlify.app</i>.", out.width="35%"}
+```{r biobit, echo=FALSE, fig.cap="BioBit logo. Source: <i>biobit.netlify.app</i>.", layout="l-body"}
 knitr::include_graphics("assets/logo_biobit.png")
 ```
 
@@ -38,7 +38,7 @@ knitr::include_graphics("assets/logo_biobit.png")
 
 <p align='justify'> I started rowing in 2007 and my first international competition was *La Coupe de la Jeunesse* in 2011. In 2016, together with my double mate, I missed the olympic qualification for only one place and, after that, we became World Rowing Under-23 Champions in the lightweight men's double scull (BLM2x).   </p>
 
-```{r after_wru23c2016, echo=FALSE, fig.cap="My crewmate, my coach and me after winning the 2016 World Rowing Under-23 Championship in the lightweight men's double scull.", out.width="80%"}
+```{r afterWru23c2016, echo=FALSE, fig.cap="My crewmate, my coach and me after winning the 2016 World Rowing Under-23 Championship in the lightweight men's double scull.", out.width="80%"}
 knitr::include_graphics("assets/after_wru23c2016.png")
 ```
 
