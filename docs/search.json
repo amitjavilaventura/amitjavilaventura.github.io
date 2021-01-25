@@ -29,8 +29,8 @@
       "title": "Developed resources",
       "description": "Pipelines, applications and packges developed by me\n",
       "author": [],
-      "contents": "\n\nContents\nWorkflows\nSnakemake\nATACseq pipeline\n\n\nTools\nShiny Apps\nRNAseq data visualization\nChIPseq data visualization\nDNAme\n\n\nMiscellaneous\nR functions\n\n\n body {text-align: justify} Workflows\nSnakemake\nATACseq pipeline\nongoing\nSimple Snakemake pipeline for ATACseq used in Pasini’s lab.\nCode available here.\n\n\n\nTools\nShiny Apps\nRNAseq data visualization\nA very simple shiny app to visualize RNAseq data from the Snakemake RNAseq pipeline used in the Pasini’s Lab.\nThe code is available here.\nChIPseq data visualization\nA very simple shiny app to visualize the ChIPseq data from the Snakemake ChIPseq pipeline used in the Pasini’s lab.\nThe code is available here.\nDNAme\nSimple Shiny app for teaching/learning purposes, that converts a name to nucleotide (DNA or mRNA) sequence.\nNot all names can be converted, since DNAme takes each letter as an aminoacid, and not all letters are one-letter code for aminoacids.\nThe app is avialable here and the source code is available here.\nMiscellaneous\nR functions\nSimple R functions to solve diverse problems I am finding every day. Source code available here.\n\n\n\n",
-      "last_modified": "2021-01-24T19:44:11+01:00"
+      "contents": "\n\nContents\nWorkflows\nSnakemake\nATACseq pipeline\n\n\nTools\nShiny Apps\nRNAseq data visualization\nChIPseq data visualization\nDNAme\n\n\nMiscellaneous\nR functions\n\n\n body {text-align: justify} Workflows\nSnakemake\nATACseq pipeline\nongoing\nSimple Snakemake pipeline for ATACseq used in Pasini’s lab.\nCode available here.\n\n\n\nTools\nShiny Apps\nRNAseq data visualization\nA very simple shiny app to visualize RNAseq data from the Snakemake RNAseq pipeline used in the Pasini’s Lab.\nThe code is available here.\nChIPseq data visualization\nA very simple shiny app to visualize the ChIPseq data from the Snakemake ChIPseq pipeline used in the Pasini’s lab.\nThe code is available here.\nDNAme\nSimple Shiny app for teaching/learning purposes, that converts a name to nucleotide (DNA or mRNA) sequence.\nNot all names can be converted, since DNAme takes each letter as an aminoacid, and not all letters are one-letter code for aminoacids.\nThe app is avialable here and the source code is available here.\n\n\n\nFigure 1: DNAme logo.\n\n\n\nMiscellaneous\nR functions\nSimple R functions to solve diverse problems I am finding every day. Source code available here.\n\n\n\n",
+      "last_modified": "2021-01-25T19:25:55+01:00"
     },
     {
       "path": "donwload_cv.html",
@@ -59,7 +59,7 @@
       "path": "README.html",
       "author": [],
       "contents": "\namitjavilaventura.github.io\nPersonal website made through distill R package and GitHub pages.\nYou are free to reuse anything in this repository but, please, refer to me as the original author.\n\n\n",
-      "last_modified": "2021-01-24T19:44:14+01:00"
+      "last_modified": "2021-01-25T19:25:55+01:00"
     },
     {
       "path": "research.html",

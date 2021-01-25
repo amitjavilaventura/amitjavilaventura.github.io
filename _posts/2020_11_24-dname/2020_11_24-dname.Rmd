@@ -3,7 +3,7 @@ title: "DNAme"
 description: |
   Would you like to have your name in DNA format? Try this funny app made using R and Shiny that converts your name to a sequence of DNA or mRNA. To do so, DNAme takes each letter of your name as a one-letter code aminoacid and then, it looks for the codon that codes for that aminoacid. It is possible to choose between DNA or mRNA nucleotides, as well as, using the codon usage of diverse organisms. Nevertheless, there are some letters (i.e. B, Ç, J, U, X, ...) that are not associated to any aminoacid and hence, names containing these letters cannot be transformed to DNA nor mRNA.
 author:
-  - name: Adrià 
+  - name: Adrià Mitjavila Ventura
     url: https://amitjavilaventura.github.io
     affiliation: BioBit
     affiliation_url: https://biobit.netlify.app

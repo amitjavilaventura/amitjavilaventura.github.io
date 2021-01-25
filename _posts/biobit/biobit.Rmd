@@ -3,8 +3,8 @@ title: "BioBit"
 description: |
   Take a look at the blog I have recently created to spread bioinformatics to society: BioBit. My goal publishing posts to BioBit is to make bioinformatics, as well as biology and computer science, more accessible to society. Take a look at biobit.netlify.app.
 author:
-  - name: Adrià 
-    url: https://amitjavialventura.github.io
+  - name: Adrià Mitjavila Ventura
+    url: https://amitjavilaventura.github.io
     affiliation: BioBit
     affiliation_url: https://biobit.netlify.app
 categories:

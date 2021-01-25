@@ -44,8 +44,9 @@ Related publications:
 
 # Tools
 
-## Shiny Apps
+## ShinyApps
 
+```{r eval=FALSE, echo=FALSE}
 ### RNAseq data visualization
 
 A very simple shiny app to visualize RNAseq data from the [Snakemake RNAseq pipeline](https://github.com/dfernandezperez/RNAseq-Snakemake/tree/development) used in the Pasini's Lab.
@@ -57,14 +58,19 @@ The code is available [here](https://github.com/amitjavilaventura/ShinyApps/tree
 A very simple shiny app to visualize the ChIPseq data from the [Snakemake ChIPseq pipeline](https://github.com/dfernandezperez/ChIPseq-snakemake/tree/development) used in the Pasini's lab.
 
 The code is available [here](https://github.com/amitjavilaventura/ShinyApps/tree/main/shiny_chipseq).
+```
 
-### DNAme
+### DNAme 
 
-Simple Shiny app for teaching/learning purposes, that converts a name to nucleotide (DNA or mRNA) sequence. 
+Simple ShinyApp for teaching/learning purposes, that converts a name to nucleotide (DNA or mRNA) sequence. 
 
 Not all names can be converted, since *DNAme* takes each letter as an aminoacid, and not all letters are one-letter code for aminoacids.
 
 The app is avialable [here](https://biobit.netlify.app/dname.html) and the source code is available [here](https://github.com/amitjavilaventura/DNAme).
+
+```{r biobit, echo=FALSE, fig.cap="DNAme logo.", layout="l-body"}
+knitr::include_graphics("assets/DNAme_logo.png")
+```
 
 # Miscellaneous
 
