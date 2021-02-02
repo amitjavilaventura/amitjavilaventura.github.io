@@ -1,17 +1,48 @@
-# Curriculum
+# Code
 
 
 <br><br>
 
-Here you can find different versions of my CV: <br><br>
+<style> body {text-align: justify} </style>
 
-* [Web CV](https://amitjavilaventura.github.io/CVs/index.html)
-* [Short CV](https://amitjavilaventura.github.io/CVs/cv_pdf.html)
-* Normal CV: 
+# Pipelines
 
-<object data="/documents/mitjavila_adria_cv.pdf" type="application/pdf" width="1000px" height="700px">
-    <embed src="/documents/mitjavila_adria_cv.pdf"></embed>
-</object>
+### Snakemake ATACseq pipeline
 
+*ongoing* 
 
+Simple Snakemake pipeline for ATACseq used in Pasini's lab.
 
+Code available [here](https://github.com/amitjavilaventura/ATACseq-snakemake).
+
+<!--
+### ArtATAC
+
+*ongoing* 
+  
+_**Automated Reproducible Tool for bulk ATACseq data processing and visualization**_.
+-->
+<!--
+Related publications:
+* Related publications:
+-->
+
+<br>
+
+# ShinyApps
+
+<!--
+### DPomics
+
+*ongoing* 
+
+ShinyApp for the visualizarion and the integration of several omics data from the DP lab. Source code can be visualized [here](https://github.com/amitjavilaventura/DPomics).
+-->
+
+<br>
+
+# Miscellaneous
+
+### R functions
+
+Simple R functions to solve diverse problems I am finding every day. Source code available [here](https://github.com/amitjavilaventura/custom-R-functions).
