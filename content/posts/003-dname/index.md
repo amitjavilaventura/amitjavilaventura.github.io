@@ -3,19 +3,15 @@ title: "DNAme"
 subtitle: "A Shiny app that converts your name to DNA"
 date: 2020-11-24
 featuredImage: "DNAme_logo.png"
-theme: "classic"
-page:
-  toc:
-    enable: yes
-    auto: yes  
-    keepstatic: no
 ---
 
+<!--
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, error = FALSE, message = FALSE, warning = FALSE, fig.align = "center")
 ```
+-->
 
-# What is DNAme? 
+## What is DNAme? 
 
 DNAme is an application for teaching/learning purposes which converts a word to a DNA sequence. It has some theory to understand the processes underlying this conversion, but this theroy must not be used with teaching puroposes because it may have some inaccuracies. 
 

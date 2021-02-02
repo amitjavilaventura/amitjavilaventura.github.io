@@ -19,10 +19,8 @@ The article can be found at:]]></description>
     <pubDate>Tue, 24 Nov 2020 00:00:00 &#43;0000</pubDate>
     <author>amitjavila.en</author>
     <guid>/003-dname/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/DNAme_logo.png" referrerpolicy="no-referrer">
-            </div>What is DNAme? DNAme is an application for teaching/learning purposes which converts a word to a DNA sequence. It has some theory to understand the processes underlying this conversion, but this theroy must not be used with teaching puroposes because it may have some inaccuracies.
- How DNAme works? Summary DNAme was designed using R/Shiny that takes your name as a sequence of one-letter aminoacids and converts them to DNA/mRNA by looking for the codon that codes for each aminoacid.]]></description>
+    <description><![CDATA[What is DNAme? DNAme is an application for teaching/learning purposes which converts a word to a DNA sequence. It has some theory to understand the processes underlying this conversion, but this theroy must not be used with teaching puroposes because it may have some inaccuracies.
+How DNAme works? Summary DNAme was designed using R/Shiny that takes your name as a sequence of one-letter aminoacids and converts them to DNA/mRNA by looking for the codon that codes for each aminoacid.]]></description>
 </item><item>
     <title>BioBit</title>
     <link>/002-biobit/</link>

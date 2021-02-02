@@ -158,10 +158,9 @@ params:
     paginate: 20
     rss: 10
   page:
-    theme: "full"
     toc:
       enable: yes
-      auto: yes
+      auto: no
       keepstatic: no
     code:
       copy: yes
