@@ -1,0 +1,383 @@
+@media only screen and (min-width: 1300px) {
+  .page-toc {
+    article {
+      margin-right: auto;
+      margin-left: auto;
+
+      .content-block-position {
+        margin: 0 auto;
+      }
+    }
+  }
+
+  .theme-mega-full {
+    .content-block-first {
+      margin: 2rem auto;
+    }
+  }
+
+  .theme-classic.page-toc, .theme-wide.page-toc, .theme-full.page-toc {
+    .header-post {
+      margin-right: auto;
+      margin-left: auto;
+    }
+  }
+
+  .theme-full {
+    .header-post {
+      .featured-image {
+        height: 40vh;
+      }
+    }
+  }
+
+  .page, .content-block-position {
+    width: 100%;
+  }
+
+  .post-tags-toc {
+    margin: 1rem auto;
+  }
+}
+
+@media only screen and (min-width: 1201px) {
+  .page, .content-block-position {
+    width: 100%;
+  }
+
+  article.single {
+    font-size: 18px;
+
+    .post {
+      padding: 40px 60px 40px;
+    }
+
+  }
+
+  .featured-image-preview, .featured-image {
+    img {
+      border-top-left-radius: $article-summary-image-border-radius;
+      border-top-right-radius: $article-summary-image-border-radius;
+    }
+  }
+
+  .padding-article {
+    padding: 40px 60px 20px 60px;
+  }
+
+}
+
+@media only screen and (max-width: 1200px) {
+  #toc-auto {
+    display: none;
+  }
+
+  #toc-static {
+    display: block;
+  }
+
+  .page, .content-block-position {
+    width: 100%;
+  }
+
+  .theme-mega-full.page-toc {
+    .content-block-position {
+      margin: 2rem auto;
+    }
+
+    .content-break {
+      margin-right: auto;
+      margin-bottom: 3rem;
+      margin-left: auto;
+    }
+  }
+
+  .page-toc {
+    article {
+      margin-right: auto;
+      margin-left: auto;
+    }
+
+    .content-block-position {
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+
+  .theme-classic.page-toc, .theme-wide.page-toc, .theme-full.page-toc {
+    .header-post {
+      margin-top: 6rem;
+      margin-right: auto;
+      margin-bottom: 0;
+      margin-left: auto;
+    }
+  }
+
+  article.single {
+    font-size: 18px;
+
+    .post {
+      padding: 40px 60px 40px;
+    }
+  }
+
+  .featured-image-preview, .featured-image {
+    img {
+      border-radius: 30px 30px 0 0;
+    }
+  }
+
+  .padding-article {
+    padding: 40px 60px 20px 60px;
+  }
+
+}
+
+@media only screen and (max-width: 960px) {
+  .page, .content-block-position {
+    width: 100%;
+  }
+
+  article.single {
+    font-size: 18px;
+
+    .post {
+      padding: 40px 60px 40px;
+    }
+  }
+
+  .featured-image-preview, .featured-image {
+    img {
+      border-top-left-radius: $article-summary-image-border-radius;
+      border-top-right-radius: $article-summary-image-border-radius;
+    }
+  }
+
+  .padding-article {
+    padding: 40px 60px 20px 60px;
+  }
+
+}
+
+@media only screen and (max-width: 680px) {
+
+  .home {
+    .home-profile {
+      .home-avatar {
+        display: none;
+      }
+    }
+  }
+
+  article.single {
+    font-size: 16px;
+
+    .post {
+      padding: 10px;
+    }
+
+    .content-block {
+      border-radius: 0;
+    }
+
+    .featured-image {
+      border-radius: 0;
+    }
+
+    .content-block-position:first-child {
+      margin-top: 0;
+    }
+  }
+
+  .header-post {
+    border-radius: 0;
+    margin-top: 0;
+  }
+
+  .comments {
+    padding: 10px 10px 10px;
+  }
+
+  .featured-image {
+    height: 100vh;
+  }
+
+  .theme-wide {
+    .image-theme-wide {
+      margin-right: -10px;
+      margin-left: -10px;
+    }
+  }
+
+  .theme-classic, .theme-wide, .theme-full {
+    .header-post {
+      margin-top: 3rem;
+    }
+  }
+
+  .theme-classic, .theme-wide, .theme-full, .theme-mega-full {
+    article {
+      margin-top: 0;
+    }
+  }
+
+  .single {
+    border-radius: 0;
+  }
+
+  .featured-image-preview, .featured-image {
+    img {
+      border-top-left-radius: $article-summary-image-border-radius;
+      border-top-right-radius: $article-summary-image-border-radius;
+    }
+  }
+
+  .padding-article {
+    padding: 40px 10px 0 10px;
+  }
+
+  .post-all-meta {
+    padding: 20px 10px 20px
+  }
+
+  .author-comment-text {
+    font-size: 18px;
+  }
+
+  .post-navigation {
+    display: inline-block;
+    width: 100%;
+
+    .nav-box-prev {
+      margin-right: 0;
+    }
+
+    .post-nav-box {
+      width: 100%;
+      padding-top: 10px;
+    }
+  }
+
+  .post-tags {
+    .tag {
+      padding: 2px 5px 2px 5px;
+      font-size: 14px;
+    }
+  }
+
+  .post-tags-summary-image {
+    display: none;
+  }
+
+  .post-tags-summary-under-footer-display {
+    display: inline-block;
+  }
+
+  .block-media_column {
+    .content-column {
+      width: 100%;
+      padding-bottom: 15px;
+    }
+  }
+
+  .block-media_right {
+    width: 100%;
+    text-align: center;
+    float: none;
+    margin-left: 0;
+  }
+
+}
+
+@media print {
+
+  div.menu, .fixed-button, .toc, #toc-auto, .post-info-share,
+  .footer-donate, .post-footer, .comments, .post-tags, footer, .breadcrumbs {
+    display: none !important;
+  }
+
+  .content-block-first, .content-block {
+    box-shadow: none;
+  }
+
+  .header-post {
+    box-shadow: none;
+    position: static;
+    height: auto;
+
+    .featured-image {
+      height: 0;
+    }
+
+    .post-title {
+      position: static;
+      display: block;
+      top: 0;
+    }
+
+  }
+
+  .footer-post-author {
+    border-radius: 6px;
+    border-bottom: solid 2px #DDD;
+  }
+
+  #header-desktop {
+    box-shadow: none;
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+    position: absolute;
+
+    .header-wrapper {
+      padding: 0;
+    }
+  }
+
+  .post-all-meta {
+    padding: 0;
+  }
+
+  .single {
+    .admonition {
+      .admonition-title {
+        border-bottom-width: 5px;
+      }
+    }
+  }
+
+
+  .page, .content-block-position {
+    [data-header-desktop] & {
+      margin-top: 0;
+    }
+  }
+
+  .single {
+    .post-meta {
+      display: none;
+    }
+
+    .post {
+      .admonition {
+        .details-icon {
+          display: none;
+        }
+      }
+    }
+  }
+
+  article {
+    .content-block {
+      box-shadow: none;
+    }
+
+    .content-block-position:first-child {
+      margin-top: 0;
+    }
+
+    .featured-image {
+      height: 0;
+    }
+  }
+
+}

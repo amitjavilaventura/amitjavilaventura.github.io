@@ -1,0 +1,48 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Adrià Mitjavila Ventura</title>
+        <link>/</link>
+        <description>Biotechnologist around computers</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 07 Dec 2020 00:00:00 &#43;0000</lastBuildDate>
+            <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>I am not a virgin anymore!</title>
+    <link>/004-xrn1_paper/</link>
+    <pubDate>Mon, 07 Dec 2020 00:00:00 &#43;0000</pubDate>
+    <author>amitjavila.en</author>
+    <guid>/004-xrn1_paper/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/graphical_abstract.jpg" referrerpolicy="no-referrer">
+            </div>Figure 1: Figure 1 of the article showing the model of how Xrn1 and other RNA decay factors work. Source: Begley V et al (2020). Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration. RNA Biology. doi: 10.1080/15476286.2020.1845504.  If you want to know more about it, read my post in BioBit.
+The article can be found at:]]></description>
+</item><item>
+    <title>DNAme</title>
+    <link>/003-dname/</link>
+    <pubDate>Tue, 24 Nov 2020 00:00:00 &#43;0000</pubDate>
+    <author>amitjavila.en</author>
+    <guid>/003-dname/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/DNAme_logo.png" referrerpolicy="no-referrer">
+            </div>What is DNAme? DNAme is an application for teaching/learning purposes which converts a word to a DNA sequence. It has some theory to understand the processes underlying this conversion, but this theroy must not be used with teaching puroposes because it may have some inaccuracies.
+ How DNAme works? Summary DNAme was designed using R/Shiny that takes your name as a sequence of one-letter aminoacids and converts them to DNA/mRNA by looking for the codon that codes for each aminoacid.]]></description>
+</item><item>
+    <title>BioBit</title>
+    <link>/002-biobit/</link>
+    <pubDate>Fri, 20 Nov 2020 00:00:00 &#43;0000</pubDate>
+    <author>amitjavila.en</author>
+    <guid>/002-biobit/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/BIOBIT.png" referrerpolicy="no-referrer">
+            </div>BioBit is a blog dedicated to spread and communicate bioinformatics to society. I made it using the R package distill and to publish it I used Netlify, because GitHub pages force me to have it as a subdomain of my personal website.
+My goal with the blog is posting basic things and recent advances about bioinformatics, as well as some biology and computer science -although I won’t post much about it, since I am a bioscientist rather than a computer one-.]]></description>
+</item><item>
+    <title>Biotechnologist around computers</title>
+    <link>/001-welcome/</link>
+    <pubDate>Fri, 20 Nov 2020 00:00:00 &#43;0000</pubDate>
+    <author>amitjavila.en</author>
+    <guid>/001-welcome/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/foto_jo.jpg" referrerpolicy="no-referrer">
+            </div>At the beggining of my academic career, I wanted to be a wetlab scientist and, in honor to the truth, I didn’t love bioinformatics, so I focussed my bachelor’s thesis in Molecular Microbiology. However, I noticed how crucial informatics-based analyses of biological data are when we externally sequenced and processed our metagenomics data and when I had to make the statistical analysis all by myself without knowing any R.]]></description>
+</item></channel>
+</rss>

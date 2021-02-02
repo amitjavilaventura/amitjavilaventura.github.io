@@ -1,0 +1,59 @@
+---
+title: "DNAme"
+subtitle: "A Shiny app that converts your name to DNA"
+date: 2020-11-24
+featuredImage: "DNAme_logo.png"
+theme: "classic"
+page:
+  toc:
+    enable: yes
+    auto: yes  
+    keepstatic: no
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, error = FALSE, message = FALSE, warning = FALSE, fig.align = "center")
+```
+
+# What is DNAme? 
+
+DNAme is an application for teaching/learning purposes which converts a word to a DNA sequence. It has some theory to understand the processes underlying this conversion, but this theroy must not be used with teaching puroposes because it may have some inaccuracies. 
+
+## How DNAme works?
+
+### Summary
+
+DNAme was designed using R/Shiny that takes your name as a sequence of one-letter aminoacids and converts them to DNA/mRNA by looking for the codon that codes for each aminoacid.
+
+### One-letter code for aminoacids
+
+Since most aminoacids are coded by more than one codon, it takes the codon usage of several species into account, selecting the most frequent codon based on [genescript](https://www.genscript.com/)'s [codon frequency tables](https://www.genscript.com/tools/codon-frequency-table). Currently the available organisms are human and mouse, but the idea is to have some of the most used model organisms (i.e. *A. thaliana*, *D. melanogaster*, *E. coli*, ...).
+
+### Not all names
+
+It has to be taken into account that not all names can be converted to DNA/mRNA, because not all letters have an associated aminoacid. Hence, if a letter in your name is not possible, DNAme will throw an error message. You have two possibilites:
+
+* Choose another word, such as a nickname or a surname.
+* Play with phonetics. For example, if your name contains an *X* you could change it by a combination of letters with a similar sound like *KS*, which are *Lysine* and *Serine*.
+
+### Parameters
+
+*DNAme* allows to select diverse parameters:
+
+* Nucleic acid: DNA or mRNA
+* Organism (for the codon usage): Human or Mouse
+* Separator: character to separate the codons (i.e. a dash, a blank space, nothing).
+* *in the future* Use extra letters.
+
+## Availability
+
+*DNAme* is available [here](https://biobit.netlify.app/dname.html) as a working application. This version is deployed to shinyapps.io and only one person at a time can be connected to the app. 
+
+To download the source code, go to the [Github repository](https://github.com/amitjavilaventura/DNAme) and clone it. Then open R or RStudio, go to the *DNAme* directory (with `setwd()`) and run `shiny::runApp("app.R")` in the R console. In this case you will need to install some R packages:
+
+* `shiny`
+* `dplyr`
+* `magrittr`
+* `stringr`
+
+In the future, I want to build it as a Desktop app using `photon`, but at the moment, this option is not available.

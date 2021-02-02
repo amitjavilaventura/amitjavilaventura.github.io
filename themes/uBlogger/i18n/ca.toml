@@ -1,0 +1,197 @@
+# Translations for Catalan
+# Traduccions per català
+# https://gohugo.io/content-management/multilingual/#translation-of-strings
+
+# === baseof ==
+[backToTop]
+other = "Tornar a dalt"
+
+[viewComments]
+other = "Veure comentaris"
+# === baseof ==
+
+# === Post ===
+[posts]
+other = "Artícles"
+
+[navNext]
+other = "Article següent"
+
+[navPrev]
+other = "Article anterior"
+# === Post ===
+
+# === Taxonomy ===
+[allSome]
+other = "{{ .Some }}"
+
+[tag]
+other = "Etiqueta"
+
+[tags]
+other = "Etiquetes"
+
+[category]
+other = "Categoría"
+
+[categories]
+other = "Categoríes"
+# === Taxonomy ===
+
+# === Pagination ===
+[more]
+other = "Més"
+# === Pagination ===
+
+# === partials/header.html ===
+[selectLanguage]
+other = "Selecciona l'idioma"
+
+[switchTheme]
+other = "Canvia el tema"
+# === partials/header.html ===
+
+# === partials/footer.html ===
+[poweredBySome]
+other = "Fet amb {{ .Hugo }} | Tema - {{ .Theme }}"
+# === partials/footer.html ===
+
+# === partials/comment.html ===
+[valineLang]
+other = "en"
+
+[valinePlaceholder]
+other = "Comenta ..."
+
+[facebookLanguageCode]
+other = "es_MX"
+# === partials/comment.html ===
+
+# === partials/assets.html ===
+[search]
+other = "Cerca"
+
+[searchPlaceholder]
+other = "Cerca títols o contingut..."
+
+[clear]
+other = "Neteja"
+
+[cancel]
+other = "Cancel·la"
+
+[noResultsFound]
+other = "No s'ha trobat cap resultat"
+
+[lunrLanguageCode]
+other = "ca"
+
+[lunrLanguageLib]
+other = "lib/lunr/lunr.es.js"
+
+[copyToClipboard]
+other = "Copiar al portapapers"
+
+[cookieconsentMessage]
+other = "Aquest lloc web utilitza Cookies par a millorar la seva experiència."
+
+[cookieconsentDismiss]
+other = "D''acord"
+
+[cookieconsentLink]
+other = "Aprèn-ne més"
+# === partials/assets.html ===
+
+# === partials/plugin/share.html ===
+[shareOn]
+other = "Compartir a"
+# === partials/plugin/share.html ===
+
+# === posts/single.html ===
+[contents]
+other = "Contignut"
+
+[wordCount]
+one = "Una paraula"
+other = "{{ .Count }} paraules"
+
+[readingTime]
+one = "Un minut"
+other = "{{ .Count }} minuts"
+
+[views]
+other = "Visualitzacions"
+
+[author]
+other = "Autor"
+
+[updatedOnDate]
+other = "Actualitzat a {{ .Date }}"
+
+[readMarkdown]
+other = "Leggeix el Markdown"
+
+[back]
+other = "Tornar"
+
+[home]
+other = "Inici"
+
+# === posts/single.html ===
+
+# === 404.html ===
+[pageNotFound]
+other = "No s'ha trobat la pàgina"
+
+[pageNotFoundText]
+other = "La pàgina que estàs buscant no existeix. Disculpa les molèsties."
+# === 404.html ===
+
+# === shortcodes/admonition.html ===
+[note]
+other = "Nota"
+
+[abstract]
+other = "Resum"
+
+[info]
+other = "Informació"
+
+[tip]
+other = "Consell"
+
+[success]
+other = "Èxit"
+
+[question]
+other = "Pregunta"
+
+[warning]
+other = "Advertència"
+
+[failure]
+other = "Error"
+
+[danger]
+other = "Perill"
+
+[bug]
+other = "Error"
+
+[example]
+other = "Exemple"
+
+[quote]
+other = "Cita"
+# === shortcodes/admonition.html ===
+
+# === shortcodes/version.html ===
+[new]
+other = "NOU"
+
+[changed]
+other = "MODIFICAT"
+
+[deleted]
+other = "ELIMINAT"
+# === shortcodes/version.html ===

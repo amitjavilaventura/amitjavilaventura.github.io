@@ -1,0 +1,16 @@
+---
+title: "Code"
+date: 2021-02-01
+draft: false
+lightgallery: true
+page:
+    theme: "full"
+
+math:
+  enable: true
+---
+
+<style> body {text-align: justify} </style>
+
+
+

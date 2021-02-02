@@ -1,0 +1,286 @@
+baseURL: /
+publishDir: docs
+defaultContentLanguage: en
+theme: uBlogger
+title: Adrià Mitjavila Ventura
+enableRobotsTXT: yes
+enableGitInfo: no
+enableEmoji: yes
+languages:
+  en:
+    copyright: This work is licensed under a Creative Commons Attribution-NonCommercial
+      4.0 International License.
+    hasCJKLanguage: no
+    languageCode: en
+    languageName: English
+    menu:
+      main:
+        - identifier: posts
+          name: " Posts"
+          post: ''
+          pre: '<i class="fas fa-fw fa-feather-alt"></i>'
+          title: 'Posts'
+          url: /posts/
+          weight: 1
+        - identifier: about
+          name: " About"
+          post: ''
+          pre: '<i class="fas fa-fw fa-info-circle"></i>'
+          title: 'About'
+          url: /about/
+          weight: 2
+        - identifier: research
+          name: " Research"
+          post: ''
+          pre: '<i class="fas fa-fw fa-dna"></i>'
+          title: Research
+          url: /research/
+          weight: 3
+        - identifier: development
+          name: " Code"
+          post: ''
+          pre: '<i class="fas fa-fw fa-code"></i>'
+          title: 'Code'
+          url: /development/
+          weight: 4
+        - identifier: publications
+          name: " Publications"
+          post: ''
+          pre: '<i class="fas fa-fw fa-bookmark"></i>'
+          title: ' Publications'
+          url: /publications/
+          weight: 5
+        - identifier: cv
+          name: " Curriculum"
+          post: ''
+          pre: '<i class="fas fa-fw fa-briefcase"></i>'
+          title: 'Currículum'
+          url: /cv/
+          weight: 6
+    paginate: 12
+    params:
+      app:
+        noFavicon: no
+        svgFavicon: '/images/fotojo.png'
+        title: Adrià Mitjavila Ventura
+      description: Biotechnologist around computers
+      home:
+        posts:
+          enable: yes
+          paginate: 6
+        profile:
+          avatarURL: /images/foto_jo.jpg
+          disclaimer: ''
+          enable: yes
+          gravatarEmail: ''
+          social: yes
+          subtitle: Biotechnologist around computers
+          title: Adrià Mitjavila Ventura
+          typeit: no
+        rss: 10
+      search:
+        absoluteURL: no
+        algolia:
+          appID: PASDMWALPK
+          index: index.en
+          searchKey: b42948e51daaa93df92381c8e2ac0f93
+        contentLength: 4000
+        enable: yes
+        highlightTag: em
+        maxResultLength: 10
+        placeholder: ''
+        snippetLength: 30
+        type: algolia
+      social:
+        Email: adria.mitjavila94@gmail.com
+        GitHub: amitjavilaventura
+        Gitlab: amitjavilaventura
+        #Instagram: perillbiologic
+        Twitter: adriamitjavila
+        Linkedin: 'adria-mitjavila-ventura'
+        #RSS: yes
+        #Telegram: xxxx
+        #Youtubechannel: ''
+    weight: 1
+params:
+  analytics:
+    enable: yes
+    google:
+      anonymizeIP: yes
+      gtag: no
+      id: ''
+    yandex:
+      id: '70532758'
+  cdn:
+    data: jsdelivr.yml
+  comment:
+    commento:
+      enable: no
+    disqus:
+      enable: no
+      shortname: ''
+    enable: yes
+  compatibility:
+    objectFit: no
+    polyfill: no
+  cookieconsent:
+    content:
+      dismiss: ''
+      link: ''
+      message: ''
+    enable: no
+  dateFormat: '2006-01-02'
+  defaultTheme: auto
+  fingerprint: ''
+  footer:
+    author: yes
+    copyright: yes
+    custom: ''
+    enable: yes
+    hugo: yes
+    icp: ''
+    license: <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/"
+      target="_blank">CC BY-NC 4.0</a>
+    since: 2021
+  #gitRepo: https://github.com/amitjavilaventura
+  header:
+    desktopMode: fixed
+    mobileMode: auto
+    title:
+      logo: ''
+      name: Adrià Mitjavila Ventura
+      post:
+      pre: <i class='fas fa-dna fa-fw'></i>
+      typeit: no
+  images: /images/perill_biologic.png
+  list:
+    dateFormat: 01-02
+    paginate: 20
+    rss: 10
+  page:
+    theme: "full"
+    toc:
+      enable: yes
+      auto: yes
+      keepstatic: no
+    code:
+      copy: yes
+      maxShownLines: 10
+    fontawesome: yes
+    fraction: yes
+    hiddenFromHomePage: no
+    hiddenFromSearch: no
+    library:
+      css: {}
+      js: {}
+    lightgallery: no
+    linkToMarkdown: yes
+    mapbox:
+      accessToken: pk.eyJ1IjoiZGlsbG9uenEiLCJhIjoiY2s2czd2M2x3MDA0NjNmcGxmcjVrZmc2cyJ9.aSjv2BNuZUfARvxRYjSVZQ
+      darkStyle: mapbox://styles/mapbox/dark-v10?optimize=true
+      fullscreen: yes
+      geolocate: yes
+      lightStyle: mapbox://styles/mapbox/light-v10?optimize=true
+      navigation: yes
+      scale: yes
+    math:
+      blockLeftDelimiter: ''
+      blockRightDelimiter: ''
+      copyTex: yes
+      enable: no
+      inlineLeftDelimiter: ''
+      inlineRightDelimiter: ''
+      mhchem: yes
+    rssFullText: no
+    ruby: yes
+    seo:
+      images: []
+      publisher:
+        logoUrl: /images/avatar.png
+        name: xxxx
+    share:
+      Facebook: yes
+      Linkedin: yes
+      Twitter: yes
+      Whatsapp: yes
+      enable: yes
+    twemoji: no
+  section:
+    dateFormat: 01-02
+    paginate: 20
+    rss: 10
+  seo:
+    image: /images/Apple-Devices-Preview.png
+    thumbnailUrl: /images/screenshot.png
+  typeit:
+    cursorChar: '|'
+    cursorSpeed: 1000
+    duration: -1
+    speed: 100
+  verification:
+    baidu: ''
+    bing: ''
+    google: ''
+    pinterest: ''
+    yandex: ''
+  version: 1.3.X
+markup:
+  goldmark:
+    extensions:
+      definitionList: yes
+      footnote: yes
+      linkify: yes
+      strikethrough: yes
+      table: yes
+      taskList: yes
+      typographer: yes
+    renderer:
+      unsafe: yes
+  highlight:
+    codeFences: yes
+    guessSyntax: yes
+    lineNos: yes
+    lineNumbersInTable: yes
+    noClasses: no
+  tableOfContents:
+    endLevel: 6
+    startLevel: 2
+author:
+  #name: upagge.en
+  name: amitjavila.en
+sitemap:
+  changefreq: weekly
+  filename: sitemap.xml
+  priority: 0.5
+Permalinks:
+  posts: :filename
+  research: :filename
+privacy:
+  googleAnalytics: {}
+  twitter:
+    enableDNT: yes
+  youtube:
+    privacyEnhanced: yes
+mediaTypes:
+  text/plain:
+    suffixes: md
+outputFormats:
+  MarkDown:
+    isHTML: no
+    isPlainText: yes
+    mediaType: text/plain
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+  page:
+    - HTML
+    - MarkDown
+  section:
+    - HTML
+    - RSS
+  taxonomy:
+    - HTML
+    - RSS
+  taxonomyTerm: HTML
