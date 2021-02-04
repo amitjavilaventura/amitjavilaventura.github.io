@@ -1,24 +1,24 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1612451603142.000,
+    "created" : 1612458914874.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
-    "id" : "FF32AC26",
-    "lastKnownWriteTime" : 1612451627,
-    "last_content_update" : 1612451627954,
+    "id" : "2B535974",
+    "lastKnownWriteTime" : 1612458957,
+    "last_content_update" : 1612458957926,
     "path" : "~/Desktop/Adria/Other/website/web_blogdown_minimal/config.yaml",
     "project_path" : "config.yaml",
     "properties" : {
-        "cursorPosition" : "11,11",
-        "scrollLine" : "0"
+        "cursorPosition" : "12,3",
+        "scrollLine" : "3"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 8,
+    "relative_order" : 2,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "yaml"

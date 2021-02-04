@@ -1,24 +1,24 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1612458495427.000,
+    "created" : 1612458934419.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
-    "id" : "316301C7",
+    "id" : "A354BEF6",
     "lastKnownWriteTime" : 1612458701,
     "last_content_update" : 1612458701,
-    "path" : "~/Desktop/Adria/Other/website/web_blogdown_minimal/themes/minimal/layouts/partials/header.html",
-    "project_path" : "themes/minimal/layouts/partials/header.html",
+    "path" : "~/Desktop/Adria/Other/website/web_blogdown_minimal/themes/minimal/layouts/partials/css.html",
+    "project_path" : "themes/minimal/layouts/partials/css.html",
     "properties" : {
-        "cursorPosition" : "53,0",
+        "cursorPosition" : "18,3",
         "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 7,
+    "relative_order" : 3,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "html"
