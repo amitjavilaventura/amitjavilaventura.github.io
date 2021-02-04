@@ -5,19 +5,19 @@ html, body {
 
 body {
     padding-top: 55px;
-    /*display: flex;*/
+    display: flex;
     text-align: justify;
     font-size: 25px;
-    /*flex-direction: column;*/
+    flex-direction: column;
 }
 
 main {
-    /*margin: auto;*/
+    margin: auto;
     padding: 25px;
-    /*flex: 1 0 auto;*/
+    flex: 1 0 auto;
     max-width: 1200px; /*change the widh page*/
     font-size: 25px;  /*change size to fonts*/
-    text-align: justify;
+    text-align: center;
 }
 
 img {
