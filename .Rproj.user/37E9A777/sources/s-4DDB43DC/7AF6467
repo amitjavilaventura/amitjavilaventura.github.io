@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1612431835568.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7AF6467",
+    "lastKnownWriteTime" : 1612442385,
+    "last_content_update" : 1612442385731,
+    "path" : "~/Desktop/Adria/Other/website/web_blogdown_minimal/themes/minimal/static/css/main.css",
+    "project_path" : "themes/minimal/static/css/main.css",
+    "properties" : {
+        "cursorPosition" : "25,22",
+        "scrollLine" : "7"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "css"
+}

@@ -1,0 +1,20 @@
+---
+title: "Curriculum"
+---
+
+
+
+[Web CV](https://amitjavilaventura.github.io/CVs/index.html)
+
+[Short CV](https://amitjavilaventura.github.io/CVs/cv_pdf.html)
+
+Normal CV
+
+![](/documents/mitjavila_adria_cv.pdf "Long CV")
+
+```{r, fig.cap="Long CV | Adrià Mitjavila Ventura"}
+knitr::include_graphics("/documents/mitjavila_adria_cv.pdf")
+```
+
+
+

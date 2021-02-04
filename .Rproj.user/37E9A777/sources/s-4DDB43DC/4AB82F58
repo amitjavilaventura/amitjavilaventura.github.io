@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1612446632636.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4AB82F58",
+    "lastKnownWriteTime" : 1612439748,
+    "last_content_update" : 1612439748,
+    "path" : "~/Desktop/Adria/Other/website/web_blogdown_minimal/content/research/001-microbial.Rmd",
+    "project_path" : "content/research/001-microbial.Rmd",
+    "properties" : {
+        "cursorPosition" : "11,1192",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

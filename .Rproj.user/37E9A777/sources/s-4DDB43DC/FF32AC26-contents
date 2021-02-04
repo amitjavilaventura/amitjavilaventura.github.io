@@ -1,0 +1,66 @@
+baseURL: http://amitjavilaventura.github.io
+publishDir: docs
+languageCode: en-us
+title: Adrià Mitjavila Ventura
+theme: minimal
+disqusShortname: username
+googleAnalytics: ''
+params:
+  favicon: "/images/dna_numeros2.png"  ## favicon in the browser tab
+  profilePic: "/images/fotojo.png" ## logo in the first page
+  accent: lightblue
+  author: "Adrià Mitjavila Ventura"
+  titleFont: Courier
+  backgroundColor: white
+  description: Biotechnologist around computers
+  font: Railway
+  githubUsername: 'amitjavilaventura'
+  highlight: yes
+  highlightLanguages:
+    - go
+    - haskell
+    - kotlin
+    - scala
+    - swift
+  highlightStyle: default
+  showBorder: yes
+  #css: "/css/custom.css"
+menu:
+  icon:
+    - name: fas fa-at
+      url: mailto:adria.mitjavila94@gmail.com
+      weight: 1
+    - name: fab fa-github
+      url: https://github.com/amitjavilaventura/
+      weight: 2
+    - name: fab fa-gitlab
+      url: https://gitlab.com/amitjavilaventura/
+      weight: 3
+    - name: fab fa-twitter
+      url: https://twitter.com/adriamitjavila/
+      weight: 4
+    - name: fab fa-linkedin
+      url: https://www.linkedin.com/in/adria-mitjavila-ventura/
+      weight: 5
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: About
+      url: /about/
+      weight: 2
+    - name: Posts
+      url: /posts/
+      weight: 3
+    - name: Research
+      url: /research/
+      weight: 4
+    - name: Publications
+      url: /publications/
+      weight: 5
+    - name: Code
+      url: /code/
+      weight: 6
+    - name: Curriculum
+      url: /cv/
+      weight: 7
