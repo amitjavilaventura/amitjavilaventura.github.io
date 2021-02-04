@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3264897049",
+    "hash" : "0",
     "id" : "14CADDB5",
-    "lastKnownWriteTime" : 1612428564,
-    "last_content_update" : 1612428564,
+    "lastKnownWriteTime" : 1612458701,
+    "last_content_update" : 1612458701,
     "path" : "~/Desktop/Adria/Other/website/web_blogdown_minimal/themes/minimal/layouts/partials/footer.html",
     "project_path" : "themes/minimal/layouts/partials/footer.html",
     "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
