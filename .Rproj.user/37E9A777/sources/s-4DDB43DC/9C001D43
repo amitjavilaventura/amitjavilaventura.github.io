@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1612458473216.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9C001D43",
+    "lastKnownWriteTime" : 1612458480,
+    "last_content_update" : 1612458480147,
+    "path" : "~/Desktop/Adria/Other/website/web_blogdown_minimal/themes/minimal/layouts/_default/single.html",
+    "project_path" : "themes/minimal/layouts/_default/single.html",
+    "properties" : {
+        "cursorPosition" : "10,21",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "html"
+}
