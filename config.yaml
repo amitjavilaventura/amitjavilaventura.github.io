@@ -1,7 +1,7 @@
 baseURL: https://amtitjavila.github.io
 publishDir: docs
 languageCode: en-US
-title: Adrià Mitjavila Ventura
+title: "Adrià Mitjavila Ventura"
 theme: minimal
 disqusShortname: amitjavila
 googleAnalytics: ''
@@ -10,7 +10,6 @@ params:
   profilePic: "/images/fotojo.png" ## logo in the first page
   accent: lightblue
   author: "Adrià Mitjavila Ventura"
-  #titleFont: Courier
   backgroundColor: white
   description: Biotechnologist around computers
   font: Raleway
