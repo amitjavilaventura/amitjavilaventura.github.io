@@ -47,7 +47,7 @@ button {
 /* Homepage */
 
 .intro {
-    transform: translateY(3vh);
+    transform: translateY(22vh);
 }
 
 .intro > h1 {
@@ -56,11 +56,6 @@ button {
 }
 
 .intro > h2 {
-    color: #757575;
-    font-size: 3vmin;
-}
-
-.intro > button {
     color: #757575;
     font-size: 3vmin;
 }
