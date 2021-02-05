@@ -1,0 +1,136 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    padding-top: 55px;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+}
+
+main {
+    margin: auto;
+    padding: 25px;
+    flex: 1 0 auto;
+    max-width: 750px;
+}
+
+img {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1000px;
+    display: block;
+    text-align: justify;
+}
+
+/* Buttons */
+button {
+  background-color: white;
+  border: none;
+  border-radius: 12px;
+  width: 40px;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* Homepage */
+
+.intro {
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    transform: translateY(15vh);
+}
+
+.intro > h1 {
+    color: #212121;
+    font-size: 12vh;
+}
+
+.intro > h2 {
+    color: #757575;
+    font-size: 3vmin;
+}
+
+/* Page content */
+
+.content {
+    padding-top: 20px;
+    margin: auto;
+    max-width: 1000px;
+}
+
+/* Profile picture */
+
+.profile {
+    width: 10vh;
+    height: 10vh;
+    border-radius: 50%;
+}
+
+/* Colored links */
+
+a:link, a:visited {
+    color: var(--accent);
+}
+
+a.icon:hover {
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--accent) !important;
+}
+
+/* Copyright message */
+
+.copyright {
+    margin: 15px 0;
+}
+
+/* Paginator */
+
+.pages {
+    padding: 5px 0;
+}
+
+.pages-icon {
+    padding: 0 10px;
+}
+
+/* List item for posts/projects */
+
+.item {
+    padding: 10px 0;
+}
+
+.item-tag {
+    background-color: var(--accent);
+}
+
+/* Navigation icons */
+
+.navbar-icon {
+    font-size: 125%;
+    display: inline-block !important;
+}
+
+/* Colored borders at top/bottom of page */
+
+.navbar.navbar-default {
+    border-top: var(--border-width) solid var(--accent);
+}
+
+footer {
+    border-bottom: var(--border-width) solid var(--accent);
+}
