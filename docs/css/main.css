@@ -7,7 +7,8 @@ body {
     padding-top: 55px;
     display: flex;
     text-align: justify;
-    font-size: 25px;
+    max-width: 1000px; /*change the widh page*/
+    font-size: 20px;
     flex-direction: column;
 }
 
@@ -15,8 +16,8 @@ main {
     margin: auto;
     padding: 25px;
     flex: 1 0 auto;
-    max-width: 700px; /*change the widh page*/
-    font-size: 25px;  /*change size to fonts*/
+    max-width: 1000px; /*change the widh page*/
+    font-size: 20px;  /*change size to fonts*/
     text-align: center;
 }
 
