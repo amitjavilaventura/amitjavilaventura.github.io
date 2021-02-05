@@ -5,6 +5,8 @@ html, body {
 }
 
 body {
+    margin-right: auto;
+    margin-left: auto;
     padding-top: 50px;
     display: flex;
     text-align: justify;
@@ -13,7 +15,8 @@ body {
 }
 
 main {
-    margin: auto;
+    margin-right: auto;
+    margin-left: auto;
     padding: 20px;
     flex: 1 0 auto;
     max-width: 1000px; /*change the widh page*/
@@ -47,6 +50,8 @@ button {
 /* Homepage */
 
 .intro {
+    margin-right: auto;
+    margin-left: auto;
     transform: translateY(22vh);
 }
 
