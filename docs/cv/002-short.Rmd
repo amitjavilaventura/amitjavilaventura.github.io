@@ -8,7 +8,6 @@ weight: 2
 knitr::opts_chunk$set(echo = FALSE, fig.align = "center")
 ```
 
-<!--
 <center>
 <object data="/documents/amitjavila_cv_short.pdf" type="application/pdf" width="700" height="700px">
     <embed src="/documents/amitjavila_cv_short.pdf">
@@ -16,7 +15,6 @@ knitr::opts_chunk$set(echo = FALSE, fig.align = "center")
     </embed>
 </object>
 </center>
--->
 
 <br><br>
 
