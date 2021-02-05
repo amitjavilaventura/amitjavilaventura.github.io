@@ -1,17 +1,20 @@
-baseURL: http://amijtavilaventura.github.io/
+baseURL: https://amitjavilaventura.github.io
 publishDir: docs
 languageCode: en-us
-title: Minimal
+title: Adrià Mitjavila Ventura
 theme: minimal
 disqusShortname: username
 googleAnalytics: ''
 params:
-  accent: red
-  author: Calin Tataru
+  favicon: "/images/dna_numeros2.png"  ## favicon in the browser tab
+  profilePic: "/images/fotojo.png" ## logo in the first page
+  accent: lightblue
+  author: "Adrià Mitjavila Ventura"
+  #titleFont: Courier
   backgroundColor: white
-  description: Personal blog theme powered by Hugo
+  description: Biotechnologist around computers
   font: Raleway
-  githubUsername: '#'
+  githubUsername: 'amitjavilaventura'
   highlight: yes
   highlightLanguages:
     - go
@@ -21,22 +24,23 @@ params:
     - swift
   highlightStyle: default
   showBorder: yes
+  #css: "/css/custom.css"
 menu:
   icon:
-    - name: fas fa-envelope
-      url: mailto:me@example.com
+    - name: fas fa-at
+      url: mailto:adria.mitjavila94@gmail.com
       weight: 1
     - name: fab fa-github
-      url: https://github.com/username/
+      url: https://github.com/amitjavilaventura/
       weight: 2
-    - name: fab fa-twitter
-      url: https://twitter.com/username/
+    - name: fab fa-gitlab
+      url: https://gitlab.com/amitjavilaventura/
       weight: 3
-    - name: fab fa-linkedin
-      url: https://www.linkedin.com/in/username/
+    - name: fab fa-twitter
+      url: https://twitter.com/adriamitjavila/
       weight: 4
-    - name: fab fa-stack-overflow
-      url: https://www.stackoverflow.com/username/
+    - name: fab fa-linkedin
+      url: https://www.linkedin.com/in/adria-mitjavila-ventura/
       weight: 5
   main:
     - name: Home
@@ -46,8 +50,17 @@ menu:
       url: /about/
       weight: 2
     - name: Posts
-      url: /post/
+      url: /posts/
       weight: 3
-    - name: Projects
-      url: /project/
+    - name: Research
+      url: /research/
       weight: 4
+    - name: Publications
+      url: /publications/
+      weight: 5
+    - name: Code
+      url: /code/
+      weight: 6
+    - name: Curriculum
+      url: /cv/
+      weight: 7
