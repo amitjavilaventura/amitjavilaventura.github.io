@@ -1,39 +1,33 @@
 html, body {
-    height: 1000px;
-    width: 1000px ;
-    text-align: center;
+    height: 100%;
+    width: 100%;
 }
 
 body {
-    justify-content: center;
-    align-items: center;
     margin-right: auto;
     margin-left: auto;
     padding-top: 50px;
     display: flex;
-    text-align: justify;
+    text-align: center;
     font-size: 15px;
     flex-direction: column;
 }
 
 main {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     margin-right: auto;
     margin-left: auto;
     padding: 20px;
     flex: 1 0 auto;
     max-width: 1000px; /*change the widh page*/
     font-size: 15px;  /*change size to fonts*/
-    text-align: justify;
+    text-align: center;
 }
 
 img {
+    margin-right: auto;
+    margin-left: auto;
     max-width: 1000px;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
     text-align: justify;
 }
 
@@ -54,10 +48,7 @@ button {
 /* Homepage */
 
 .intro {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align:center;
+    text-align: center;
     margin-right: auto;
     margin-left: auto;
     transform: translateY(22vh);
