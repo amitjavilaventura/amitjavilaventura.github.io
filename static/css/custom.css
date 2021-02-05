@@ -1,9 +1,15 @@
+html, body {
+    height: 1000px;
+    width: 1000px ;
+    text-align: center;
+}
+
 /* Buttons */
 button {
-  background-color: white;
+  background-color: black;
   border: none;
   border-radius: 12px;
-  width: 16px;
+  width: 30px;
   color: black;
   text-align: center;
   text-decoration: none;
