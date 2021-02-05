@@ -4,6 +4,7 @@
 
 <main>
         
+     <div class="intro">
         {{ with .Site.Params.profilePic }} <img class="profile" src="{{ . }}" style="width:125px;height:125px;"> {{ end }}
         <h1 style="font-size:50px; font-family:{{ .Site.Params.titleFont }}"><b>{{ .Site.Title }}</b></h1>
         <h2 style="font-size:25px; font-family:{{ .Site.Params.titleFont }}">{{ markdownify .Site.Params.Description }}</h2>
@@ -38,7 +39,8 @@
          
         {{ with .Content }} <div class="homepage-content text-center">{{ . }}</div> {{ end }}
         
-
+    </div>
+        
         <!-- to list pages, comment the <div> tags and uncomment the following line -->
         <!-- {{ range (.Paginator 5).Pages }} {{ partial "list-item" . }} {{ end }} -->
 </main>
