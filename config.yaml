@@ -10,7 +10,7 @@ params:
   profilePic: "/images/fotojo.png" ## logo in the first page
   accent: lightblue
   author: "Adrià Mitjavila Ventura"
-  #titleFont: Courier
+  titleFont: Courier
   backgroundColor: white
   description: Biotechnologist around computers
   font: Raleway
