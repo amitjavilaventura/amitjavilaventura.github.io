@@ -1,162 +1,111 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Adrià Mitjavila Ventura</title>
-    <link>https://amtitjavila.github.io/</link>
-    <description>Recent content on Adrià Mitjavila Ventura</description>
+    <title>Minimal</title>
+    <link>http://example.com/</link>
+    <description>Recent content on Minimal</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://amtitjavila.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Journal articles</title>
-      <link>https://amtitjavila.github.io/publications/001-journal_articles/</link>
+      <title>Project 1</title>
+      <link>http://example.com/project/project1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://amtitjavila.github.io/publications/001-journal_articles/</guid>
-      <description>   Begley V, Jordán-Pla A, Peñate X, Godino-Garrido A, Challal D, Cuevas-Bermúdez A, Mitjavila A, Barucco Mara, Gutiérrez G, Singh A, Alepuz P, Navarro F, Libri D, Pérez-Ortín JE, Chávez S (2020). Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration. RNA Biology. doi: 10.1080/15476286.2020.1845504.  </description>
+      <guid>http://example.com/project/project1/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Pipelines</title>
-      <link>https://amtitjavila.github.io/code/001-pipelines/</link>
+      <title>Project 2</title>
+      <link>http://example.com/project/project2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://amtitjavila.github.io/code/001-pipelines/</guid>
-      <description>  Snakemake ATACseq pipeline ongoing Simple Snakemake pipeline for ATACseq used in Pasini’s lab. Code available here. *ongoing*
-*__ArtATAC__*: **A**utomated **r**eproducible **toolkit** for **ATAC**seq data processing, analysis and visualization.
-Snakemake pipeline to analyse ATACseq data.
-Code available [here](https://github.com/amitjavilaventura/ArtATAC).
---- --  </description>
+      <guid>http://example.com/project/project2/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Web CV</title>
-      <link>https://amtitjavila.github.io/cv/001-web/</link>
+      <title>Project 3</title>
+      <link>http://example.com/project/project3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://amtitjavila.github.io/cv/001-web/</guid>
-      <description>  Look at the CV here: Web CV
-  Figure 1: Web CV | Adrià Mitjavila Ventura  </description>
+      <guid>http://example.com/project/project3/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Shiny apps</title>
-      <link>https://amtitjavila.github.io/code/002-shiny/</link>
+      <title>Project 4</title>
+      <link>http://example.com/project/project4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://amtitjavila.github.io/code/002-shiny/</guid>
-      <description>  DPomics ongoing DPomics: DP lab omics visualization and integration. DPomics is a Shiny app designed to visualize omics data from the Pasini Lab (RNA-seq, ChIP-seq and integration.) Code available here. DPomics logo
- 
- DNAme DNAme is a Shiny app designed for learning purposes that converts a word to a DNA sequence. Code available here. DNAme logo
-  </description>
+      <guid>http://example.com/project/project4/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Short CV</title>
-      <link>https://amtitjavila.github.io/cv/002-short/</link>
+      <title>Hello R Markdown</title>
+      <link>http://example.com/post/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>http://example.com/post/2020-12-01-r-rmarkdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
+    </item>
+    
+    <item>
+      <title>Creating a New Theme</title>
+      <link>http://example.com/post/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/post/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>http://example.com/post/goisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/post/goisforlovers/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
+This document is a brief primer on using go templates.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>http://example.com/post/hugoisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/post/hugoisforlovers/</guid>
+      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+ Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+    <item>
+      <title>Migrate from Jekyll</title>
+      <link>http://example.com/post/migrate-from-jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/post/migrate-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://amtitjavila.github.io/cv/002-short/</guid>
-      <description>This browser does not support PDFs. Please download the PDF to view it: Download.
-   -- 
-Look at my complete CV here.</description>
-    </item>
-    
-    <item>
-      <title>Long CV</title>
-      <link>https://amtitjavila.github.io/cv/003-long/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://amtitjavila.github.io/cv/003-long/</guid>
-      <description>This browser does not support PDFs. Please download the PDF to view it: Download.
-   -- 
-Look at my complete CV here.</description>
-    </item>
-    
-    <item>
-      <title>Miscellaneous</title>
-      <link>https://amtitjavila.github.io/code/003-misc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://amtitjavila.github.io/code/003-misc/</guid>
-      <description>  Custom R functions Simple R functions to solve diverse problems I am finding every day. Source code available here.  </description>
-    </item>
-    
-    <item>
-      <title>Istituto Europeo di Oncologia</title>
-      <link>https://amtitjavila.github.io/research/003-ieo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://amtitjavila.github.io/research/003-ieo/</guid>
-      <description>  Pasini’s lab, Istituto Europeo di Oncologia July 2019 - Present
-Bioinformatician and PhD student Insert research here My contribution to this research was:
-Development of an ATACseq pipeline to run using Snakemake. The code can be visualized here. Analysis of transcriptomics (RNAseq), cistromics (ChIPseq) and DNA accessibility data (ATACseq).  </description>
-    </item>
-    
-    <item>
-      <title>Instituto de Biomedicina de Sevilla</title>
-      <link>https://amtitjavila.github.io/research/002-ibis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://amtitjavila.github.io/research/002-ibis/</guid>
-      <description>Gene expression lab, Instituto de Biomedicina de Sevilla September 2017 - October 2018
-Master’s thesis student and research assistant In the context of the master’s thesis (Universidad de Sevilla), under the supervision of Dr. Sebastián Chávez de Diego and Dr. Gabriel Gutierrez Pozo and within Dr. Victoria Begley’s PhD project, I started studying Xrn1, a protein involved in the degradation of mRNA, and it’s role in the nucleosome localization and transcription in Saccharomyces cerevisiae.</description>
-    </item>
-    
-    <item>
-      <title>Microbial. Sistemes i aplicacions analítiques, S.L.</title>
-      <link>https://amtitjavila.github.io/research/001-microbial/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://amtitjavila.github.io/research/001-microbial/</guid>
-      <description>Intestinal microbial ecology, Microbial, S.L. September 2016 - June 2017
-Internship and Bachelor’s thesis student In the context of the bachelor’s thesis (Universitat de Girona) and under the supervision of Prof. Jesús García-Gil, I studied the diversity of the ileal mucosa-related microbiota of colorectal cancer patients submitted to an ileostomy and its changes after a butyrate treatment. Using DNA extracted from human biopsies of ileal mucosa, we performed qPCR and high-throughput sequencing followed by a SPSS-based statistical analysis of to test the differences between the butyrate-treated, placebo-treated and untreated groups, and we found that some healthy-related butyrate-producing bacteria increased in proportion after the butyrate-treated, but not in the other groups.</description>
-    </item>
-    
-    <item>
-      <title>I am not a virgin anymore!</title>
-      <link>https://amtitjavila.github.io/posts/004-xrn1_paper/</link>
-      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://amtitjavila.github.io/posts/004-xrn1_paper/</guid>
-      <description>Figure 1: Figure 1 of the article showing the model of how Xrn1 and other RNA decay factors work. Source: Begley V et al (2020). Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration. RNA Biology. doi: 10.1080/15476286.2020.1845504.  If you want to know more about it, read my post in BioBit. The article can be found at:  Begley V et al (2020).</description>
-    </item>
-    
-    <item>
-      <title>DNAme</title>
-      <link>https://amtitjavila.github.io/posts/003-dname/</link>
-      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://amtitjavila.github.io/posts/003-dname/</guid>
-      <description>What is DNAme? DNAme is an application for teaching/learning purposes which converts a word to a DNA sequence. It has some theory to understand the processes underlying this conversion, but this theroy must not be used with teaching puroposes because it may have some inaccuracies. 
- How DNAme works? Summary DNAme was designed using R/Shiny that takes your name as a sequence of one-letter aminoacids and converts them to DNA/mRNA by looking for the codon that codes for each aminoacid.</description>
-    </item>
-    
-    <item>
-      <title>BioBit</title>
-      <link>https://amtitjavila.github.io/posts/002-biobit/</link>
-      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://amtitjavila.github.io/posts/002-biobit/</guid>
-      <description>BioBit is a blog dedicated to spread and communicate bioinformatics to society. I made it using the R package distill and to publish it I used Netlify, because GitHub pages force me to have it as a subdomain of my personal website. My goal with the blog is posting basic things and recent advances about bioinformatics, as well as some biology and computer science -although I won’t post much about it, since I am a bioscientist rather than a computer one-.</description>
-    </item>
-    
-    <item>
-      <title>Biotechnologist around computers</title>
-      <link>https://amtitjavila.github.io/posts/001-welcome/</link>
-      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://amtitjavila.github.io/posts/001-welcome/</guid>
-      <description>At the beggining of my academic career, I wanted to be a wetlab scientist and, in honor to the truth, I didn’t love bioinformatics, so I focussed my bachelor’s thesis in Molecular Microbiology. However, I noticed how crucial informatics-based analyses of biological data are when we externally sequenced and processed our metagenomics data and when I had to make the statistical analysis all by myself without knowing any R.</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://amtitjavila.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://amtitjavila.github.io/about/</guid>
-      <description>My career in science began with a BSc in Biotechnology (Universitat de Girona), in which I learned the basics of biological organisms and their modification and application to develop new and useful tools for the society. During this undergraduate studies, I did a professioanl internship in a company dedicated to the pathogen detection in water and food samples, as well as food forensics, using (q)PCR. I performed the thesis in the same company, under the supervision of Prof.</description>
+      <guid>http://example.com/about/</guid>
+      <description>Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again. Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike systems that dynamically build a page with each visitor request, Hugo builds pages when you create or update your content. Since websites are viewed far more often than they are edited, Hugo is designed to provide an optimal viewing experience for your website’s end users and an ideal writing experience for website authors.</description>
     </item>
     
   </channel>
