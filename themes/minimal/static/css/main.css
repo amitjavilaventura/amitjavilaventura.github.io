@@ -49,7 +49,7 @@ button {
     text-align: center;
     margin-right: auto;
     margin-left: auto;
-    transform: translateY(22vh);
+    transform: translateY(15vh);
 }
 
 .intro > h1 {
