@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = FALSE, fig.align = "center")
 Look at the CV here: [Web CV](https://amitjavilaventura.github.io/CVs/index.html)
 
 
-```{r, fig.cap="Web CV | Adrià Mitjavila Ventura", out.height="1000"}
+```{r, fig.cap="Web CV | Adrià Mitjavila Ventura", out.height="1000", out.width="100%"}
 knitr::include_url("https://amitjavilaventura.github.io/CVs/index.html")
 ```
 

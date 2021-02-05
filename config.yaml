@@ -24,7 +24,6 @@ params:
     - swift
   highlightStyle: default
   showBorder: yes
-  #css: "/css/custom.css"
 menu:
   icon:
     - name: fas fa-at
