@@ -1,0 +1,23 @@
+---
+title: "Short CV"
+description: "Short version of my CV"
+weight: 2
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, fig.align = "center")
+```
+
+<!--
+<center>
+<object data="/documents/amitjavila_cv_short.pdf" type="application/pdf" width="700" height="700px">
+    <embed src="/documents/amitjavila_cv_short.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/documents/amitjavila_cv_short.pdf">Download</a>.</p>
+    </embed>
+</object>
+</center>
+-->
+
+<br><br>
+
+Look at my complete CV [here](https://amitjavilaventura.github.io/CVs/index.html).

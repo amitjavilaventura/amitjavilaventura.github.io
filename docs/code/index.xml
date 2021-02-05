@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Codes on ASBTEC</title>
+    <link>https://asbtec.github.io/code/</link>
+    <description>Recent content in Codes on ASBTEC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ca</language><atom:link href="https://asbtec.github.io/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pipelines</title>
+      <link>https://asbtec.github.io/code/001-pipelines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://asbtec.github.io/code/001-pipelines/</guid>
+      <description>  Snakemake ATACseq pipeline ongoing Simple Snakemake pipeline for ATACseq used in Pasini’s lab. Code available here. *ongoing*
+*__ArtATAC__*: **A**utomated **r**eproducible **toolkit** for **ATAC**seq data processing, analysis and visualization.
+Snakemake pipeline to analyse ATACseq data.
+Code available [here](https://github.com/amitjavilaventura/ArtATAC).
+--- --  </description>
+    </item>
+    
+    <item>
+      <title>Shiny apps</title>
+      <link>https://asbtec.github.io/code/002-shiny/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://asbtec.github.io/code/002-shiny/</guid>
+      <description>  DPomics ongoing DPomics: DP lab omics visualization and integration. DPomics is a Shiny app designed to visualize omics data from the Pasini Lab (RNA-seq, ChIP-seq and integration.) Code available here. DPomics logo
+ 
+ DNAme DNAme is a Shiny app designed for learning purposes that converts a word to a DNA sequence. Code available here. DNAme logo
+  </description>
+    </item>
+    
+    <item>
+      <title>Miscellaneous</title>
+      <link>https://asbtec.github.io/code/003-misc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://asbtec.github.io/code/003-misc/</guid>
+      <description>  Custom R functions Simple R functions to solve diverse problems I am finding every day. Source code available here.  </description>
+    </item>
+    
+  </channel>
+</rss>
