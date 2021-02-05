@@ -2,170 +2,170 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Minimal</title>
-    <link>http://example.com/tags/</link>
+    <link>http://amijtavilaventura.github.io/tags/</link>
     <description>Recent content in Tags on Minimal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="http://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="http://amijtavilaventura.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>plot</title>
-      <link>http://example.com/tags/plot/</link>
+      <link>http://amijtavilaventura.github.io/tags/plot/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>http://example.com/tags/plot/</guid>
+      <guid>http://amijtavilaventura.github.io/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>http://example.com/tags/r-markdown/</link>
+      <link>http://amijtavilaventura.github.io/tags/r-markdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>http://example.com/tags/r-markdown/</guid>
+      <guid>http://amijtavilaventura.github.io/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>http://example.com/tags/regression/</link>
+      <link>http://amijtavilaventura.github.io/tags/regression/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>http://example.com/tags/regression/</guid>
+      <guid>http://amijtavilaventura.github.io/tags/regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>http://example.com/tags/go/</link>
+      <link>http://amijtavilaventura.github.io/tags/go/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/go/</guid>
+      <guid>http://amijtavilaventura.github.io/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>http://example.com/tags/golang/</link>
+      <link>http://amijtavilaventura.github.io/tags/golang/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/golang/</guid>
+      <guid>http://amijtavilaventura.github.io/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>http://example.com/tags/hugo/</link>
+      <link>http://amijtavilaventura.github.io/tags/hugo/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/hugo/</guid>
+      <guid>http://amijtavilaventura.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>http://example.com/tags/themes/</link>
+      <link>http://amijtavilaventura.github.io/tags/themes/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/themes/</guid>
+      <guid>http://amijtavilaventura.github.io/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>http://example.com/tags/development/</link>
+      <link>http://amijtavilaventura.github.io/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/development/</guid>
+      <guid>http://amijtavilaventura.github.io/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>template</title>
-      <link>http://example.com/tags/template/</link>
+      <link>http://amijtavilaventura.github.io/tags/template/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/template/</guid>
+      <guid>http://amijtavilaventura.github.io/tags/template/</guid>
       <description></description>
     </item>
     
     <item>
       <title>jekyll</title>
-      <link>http://example.com/tags/jekyll/</link>
+      <link>http://amijtavilaventura.github.io/tags/jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/jekyll/</guid>
+      <guid>http://amijtavilaventura.github.io/tags/jekyll/</guid>
       <description></description>
     </item>
     
     <item>
       <title>static-site-generator</title>
-      <link>http://example.com/tags/static-site-generator/</link>
+      <link>http://amijtavilaventura.github.io/tags/static-site-generator/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/static-site-generator/</guid>
+      <guid>http://amijtavilaventura.github.io/tags/static-site-generator/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bootstrap</title>
-      <link>http://example.com/tags/bootstrap/</link>
+      <link>http://amijtavilaventura.github.io/tags/bootstrap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/bootstrap/</guid>
+      <guid>http://amijtavilaventura.github.io/tags/bootstrap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css</title>
-      <link>http://example.com/tags/css/</link>
+      <link>http://amijtavilaventura.github.io/tags/css/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/css/</guid>
+      <guid>http://amijtavilaventura.github.io/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>highlight-js</title>
-      <link>http://example.com/tags/highlight-js/</link>
+      <link>http://amijtavilaventura.github.io/tags/highlight-js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/highlight-js/</guid>
+      <guid>http://amijtavilaventura.github.io/tags/highlight-js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>http://example.com/tags/html/</link>
+      <link>http://amijtavilaventura.github.io/tags/html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/html/</guid>
+      <guid>http://amijtavilaventura.github.io/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>js</title>
-      <link>http://example.com/tags/js/</link>
+      <link>http://amijtavilaventura.github.io/tags/js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/js/</guid>
+      <guid>http://amijtavilaventura.github.io/tags/js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>responsive</title>
-      <link>http://example.com/tags/responsive/</link>
+      <link>http://amijtavilaventura.github.io/tags/responsive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/responsive/</guid>
+      <guid>http://amijtavilaventura.github.io/tags/responsive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>syntax-highlighting</title>
-      <link>http://example.com/tags/syntax-highlighting/</link>
+      <link>http://amijtavilaventura.github.io/tags/syntax-highlighting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/syntax-highlighting/</guid>
+      <guid>http://amijtavilaventura.github.io/tags/syntax-highlighting/</guid>
       <description></description>
     </item>
     
