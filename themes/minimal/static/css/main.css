@@ -1,11 +1,13 @@
 html, body {
     height: 100%;
+    width: 100% ;
 }
 
 body {
     padding-top: 55px;
     display: flex;
-    text-align: center;
+    text-align: justify;
+    font-size: 25px;
     flex-direction: column;
 }
 
@@ -13,11 +15,16 @@ main {
     margin: auto;
     padding: 25px;
     flex: 1 0 auto;
-    max-width: 1000px;
+    max-width: 700px; /*change the widh page*/
+    font-size: 25px;  /*change size to fonts*/
+    text-align: center;
 }
 
 img {
     max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* Homepage */
@@ -73,11 +80,11 @@ a:hover {
 /* Paginator */
 
 .pages {
-    padding: 15px 0;
+    padding: 10px 0;
 }
 
 .pages-icon {
-    padding: 0 15px;
+    padding: 0 10px;
 }
 
 /* List item for posts/projects */
