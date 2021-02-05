@@ -3,12 +3,8 @@ html, body {
     width: 100%;
 }
 
-html, body {
-    height: 100%;
-}
-
 body {
-    padding-top: 55px;
+    padding-top: 34px;
     display: flex;
     text-align: center;
     flex-direction: column;
@@ -26,7 +22,7 @@ img {
     margin-left: auto;
     max-width: 1000px;
     display: block;
-    text-align: justify;
+    text-align: center;
 }
 
 /* Buttons */
@@ -49,7 +45,8 @@ button {
     text-align: center;
     margin-right: auto;
     margin-left: auto;
-    transform: translateY(15vh);
+    vertical-align: middle;
+    transform: translateY(50%);
 }
 
 .intro > h1 {
