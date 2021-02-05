@@ -27,7 +27,7 @@ params:
   highlightStyle: default
   showBorder: yes
   permalink: posts
-  #css: "/css/custom.css"
+  #css: "css/custom.css"
 menu:
   icon:
     - name: fas fa-at
