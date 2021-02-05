@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on ASBTEC</title>
+    <link>https://asbtec.github.io/tags/r/</link>
+    <description>Recent content in R on ASBTEC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ca</language><atom:link href="https://asbtec.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inicia&#39;t a R.</title>
+      <link>https://asbtec.github.io/project/001-basic_r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://asbtec.github.io/project/001-basic_r/</guid>
+      <description>Objectius del curss Aquest curs, íntegrament en català, ha estat dissenyat per membres de l’ASBTEC per al benefici dels socis de l’associació.
+D’aquesta manera pretenem que els alumnes que el duguin a terme aprenguin a fer servir R des de zero i sense cap coneixement d’informàtica més enllà dels que té l’usuari mig.
+Els coneixements que es volen impartir estan relacionats amb el funcionament bàsic d’R, la transformació i visualització de dades i, per acabar, com utilitzar R per al tractament de dades biològiques.</description>
+    </item>
+    
+  </channel>
+</rss>

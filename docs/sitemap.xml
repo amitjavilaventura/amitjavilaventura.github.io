@@ -3,101 +3,87 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://amitjavilaventura.github.io/publications/001-journal_articles/</loc>
+    <loc>https://asbtec.github.io/project/001-basic_r/</loc>
   </url>
   
   <url>
-    <loc>http://amitjavilaventura.github.io/code/001-pipelines/</loc>
+    <loc>https://asbtec.github.io/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://amitjavilaventura.github.io/cv/001-web/</loc>
+    <loc>https://asbtec.github.io/categories/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://amitjavilaventura.github.io/code/002-shiny/</loc>
+    <loc>https://asbtec.github.io/post/002-rmarkdown-web/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://amitjavilaventura.github.io/cv/002-short/</loc>
+    <loc>https://asbtec.github.io/categories/cursos/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://amitjavilaventura.github.io/cv/003-long/</loc>
+    <loc>https://asbtec.github.io/tags/github/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://amitjavilaventura.github.io/code/003-misc/</loc>
+    <loc>https://asbtec.github.io/post/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://amitjavilaventura.github.io/research/003-ieo/</loc>
+    <loc>https://asbtec.github.io/tags/rmarkdown/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://amitjavilaventura.github.io/research/002-ibis/</loc>
+    <loc>https://asbtec.github.io/tags/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://amitjavilaventura.github.io/research/001-microbial/</loc>
+    <loc>https://asbtec.github.io/tags/web/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://amitjavilaventura.github.io/</loc>
-    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
+    <loc>https://asbtec.github.io/categories/asbtec/</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://amitjavilaventura.github.io/posts/004-xrn1_paper/</loc>
-    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
+    <loc>https://asbtec.github.io/tags/benvinguts/</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://amitjavilaventura.github.io/posts/</loc>
-    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
+    <loc>https://asbtec.github.io/post/001-welcome/</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://amitjavilaventura.github.io/posts/003-dname/</loc>
-    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
+    <loc>https://asbtec.github.io/tags/asbtec/</loc>
   </url>
   
   <url>
-    <loc>http://amitjavilaventura.github.io/posts/002-biobit/</loc>
-    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
+    <loc>https://asbtec.github.io/tags/cursos/</loc>
   </url>
   
   <url>
-    <loc>http://amitjavilaventura.github.io/posts/001-welcome/</loc>
-    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
+    <loc>https://asbtec.github.io/project/</loc>
   </url>
   
   <url>
-    <loc>http://amitjavilaventura.github.io/about/</loc>
+    <loc>https://asbtec.github.io/about/</loc>
   </url>
   
   <url>
-    <loc>http://amitjavilaventura.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://amitjavilaventura.github.io/code/</loc>
-  </url>
-  
-  <url>
-    <loc>http://amitjavilaventura.github.io/cv/</loc>
-  </url>
-  
-  <url>
-    <loc>http://amitjavilaventura.github.io/publications/</loc>
-  </url>
-  
-  <url>
-    <loc>http://amitjavilaventura.github.io/research/</loc>
-  </url>
-  
-  <url>
-    <loc>http://amitjavilaventura.github.io/tags/</loc>
+    <loc>https://asbtec.github.io/tags/r/</loc>
   </url>
   
 </urlset>

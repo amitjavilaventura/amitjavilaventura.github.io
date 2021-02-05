@@ -1,9 +1,9 @@
-baseURL: http://amitjavilaventura.github.io
+baseURL: https://asbtec.github.io
 publishDir: docs
-languageCode: en-us
-title: Adrià Mitjavila Ventura
+languageCode: ca
+title: ASBTEC
 theme: minimal
-disqusShortname: username
+disqusShortname: ASBTEC
 googleAnalytics: ''
 params:
   favicon: "/images/dna_numeros2.png"  ## favicon in the browser tab
@@ -13,18 +13,16 @@ params:
   #titleFont: Courier
   backgroundColor: white
   description: Biotechnologist around computers
-  font: Railway
-  githubUsername: 'amitjavilaventura'
+  font: Raleway
+  githubUsername: 'ASBTEC'
   highlight: yes
   highlightLanguages:
-    - go
-    - haskell
-    - kotlin
-    - scala
-    - swift
+    - r
+    - python
+    - markdown
+    - html
   highlightStyle: default
   showBorder: yes
-  #css: "/css/custom.css"
 menu:
   icon:
     - name: fas fa-at
