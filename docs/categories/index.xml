@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on ASBTEC</title>
-    <link>https://asbtec.github.io/categories/</link>
-    <description>Recent content in Categories on ASBTEC</description>
+    <title>Categories on Adrià Mitjavila Ventura</title>
+    <link>https://amtitjavila.github.io/categories/</link>
+    <description>Recent content in Categories on Adrià Mitjavila Ventura</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ca</language><atom:link href="https://asbtec.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language><atom:link href="https://amtitjavila.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
