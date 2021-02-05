@@ -4,20 +4,19 @@ html, body {
 }
 
 body {
-    padding-top: 55px;
+    padding-top: 50px;
     display: flex;
     text-align: justify;
-    max-width: 1000px; /*change the widh page*/
-    font-size: 20px;
+    font-size: 15px;
     flex-direction: column;
 }
 
 main {
     margin: auto;
-    padding: 25px;
+    padding: 20px;
     flex: 1 0 auto;
     max-width: 1000px; /*change the widh page*/
-    font-size: 20px;  /*change size to fonts*/
+    font-size: 15px;  /*change size to fonts*/
     text-align: center;
 }
 
@@ -83,7 +82,7 @@ a:hover {
 /* Paginator */
 
 .pages {
-    padding: 10px 0;
+    padding: 5px 0;
 }
 
 .pages-icon {
