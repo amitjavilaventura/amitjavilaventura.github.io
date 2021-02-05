@@ -1,6 +1,7 @@
 html, body {
-    height: 100%;
-    width: 100% ;
+    height: 1000px;
+    width: 1000px ;
+    text-align: center;
 }
 
 body {
@@ -21,18 +22,37 @@ main {
 }
 
 img {
-    max-width: 100%;
+    max-width: 1000px;
     display: block;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+}
 
+/* Buttons */
+button {
+  background-color: white;
+  border: none;
+  border-radius: 12px;
+  width: 60px;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 20px 20px;
+  cursor: pointer;
+  transition-duration: 0.4s;
+}
+
+.button:hover {
+  border: 2px solid black;
 }
 
 /* Homepage */
 
 .intro {
-    transform: translateY(22vh);
+    transform: translateY(14vh);
 }
 
 .intro > h1 {
@@ -49,6 +69,8 @@ img {
 
 .content {
     padding-top: 20px;
+    margin: auto;
+    max-width: 1000px;
 }
 
 /* Profile picture */

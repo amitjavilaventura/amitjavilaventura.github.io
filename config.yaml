@@ -5,7 +5,9 @@ title: Adrià Mitjavila Ventura
 theme: minimal
 disqusShortname: username
 googleAnalytics: ''
+pluralizelisttitles: no
 params:
+  homeIcons: yes
   favicon: "/images/dna_numeros2.png"  ## favicon in the browser tab
   profilePic: "/images/fotojo.png" ## logo in the first page
   accent: lightblue
@@ -24,6 +26,8 @@ params:
     - swift
   highlightStyle: default
   showBorder: yes
+  permalink: posts
+  #css: "/css/custom.css"
 menu:
   icon:
     - name: fas fa-at
@@ -35,11 +39,11 @@ menu:
     - name: fab fa-gitlab
       url: https://gitlab.com/amitjavilaventura/
       weight: 3
-    - name: fab fa-twitter
-      url: https://twitter.com/adriamitjavila/
-      weight: 4
     - name: fab fa-linkedin
       url: https://www.linkedin.com/in/adria-mitjavila-ventura/
+      weight: 4
+    - name: fab fa-twitter
+      url: https://twitter.com/adriamitjavila/
       weight: 5
   main:
     - name: Home
@@ -61,5 +65,5 @@ menu:
       url: /code/
       weight: 6
     - name: Curriculum
-      url: /cv/
+      url: /curriculum/
       weight: 7
