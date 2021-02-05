@@ -1,0 +1,35 @@
+---
+title: "Pipelines"
+description: "Workflows and pipelines I have developed/contributed to"
+weight: 1
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+---
+
+# Snakemake ATACseq pipeline
+
+<p align='justify'>*ongoing*</p>
+
+<p align='justify'>Simple Snakemake pipeline for ATACseq used in Pasini’s lab.</p>
+
+<p align='justify'>Code available [here](https://github.com/amitjavilaventura/ATACseq-snakemake).</p>
+
+---
+
+<!---
+# ArtATAC
+
+<p align='justify'>*ongoing*</p>
+
+<p align='justify'>*__ArtATAC__*: **A**utomated **r**eproducible **toolkit** for **ATAC**seq data processing, analysis and visualization.</p>
+
+<p align='justify'>Snakemake pipeline to analyse ATACseq data.</p>
+
+<p align='justify'>Code available [here](https://github.com/amitjavilaventura/ArtATAC).</p>
+
+---
+-->
