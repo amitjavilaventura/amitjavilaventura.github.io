@@ -4,17 +4,41 @@
 
 <main>
         
-     <div class="intro">
         {{ with .Site.Params.profilePic }} <img class="profile" src="{{ . }}" style="width:125px;height:125px;"> {{ end }}
         <h1 style="font-size:50px; font-family:{{ .Site.Params.titleFont }}"><b>{{ .Site.Title }}</b></h1>
         <h2 style="font-size:25px; font-family:{{ .Site.Params.titleFont }}">{{ markdownify .Site.Params.Description }}</h2>
         
-
+        {{ if .Site.Params.HomeIcons }}
+                <button type="button">
+                        <a href="mailto:adria.mitjavilaventura94@gmail.com" target = "_blank">
+                                <i class="fas fa-at" style="color:black; background-color: white"></i>
+                        </a>
+                </button>
+                <button type="button">
+                        <a href="https://www.github.com/amitjavilaventura" target = "_blank">
+                                <i class="fab fa-github" style="color:black"></i>
+                        </a>
+                </button>
+                <button type="button">
+                        <a href="https://www.gitlab.com/amitjavilaventura" target = "_blank">
+                                <i class="fab fa-gitlab" style="color:black"></i>
+                        </a>
+                </button>
+                <button type="button">
+                        <a href="https://www.linkedin.com/in/adria-mitjavila-ventura/" target = "_blank">
+                                <i class="fab fa-linkedin" style="color:black"></i>
+                        </a>
+                </button>
+                <button type="button">
+                        <a href="https://twitter.com/adriamitjavila/" target = "_blank">
+                                <i class="fab fa-twitter" style="color:black"></i>
+                        </a>
+                </button>
+        {{ end }}
          
         {{ with .Content }} <div class="homepage-content text-center">{{ . }}</div> {{ end }}
         
-    </div>
-        
+
         <!-- to list pages, comment the <div> tags and uncomment the following line -->
         <!-- {{ range (.Paginator 5).Pages }} {{ partial "list-item" . }} {{ end }} -->
 </main>
