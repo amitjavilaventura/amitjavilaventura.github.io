@@ -3,6 +3,7 @@ title: "About me"
 descritption: "Some details about my life"
 ---
 
+<p align='justify'>
 My career in science began with a BSc in Biotechnology (*Universitat de Girona*), in which I learned the basics of biological organisms and their modification and application to develop new and useful tools for the society. During this undergraduate studies, I did a professioanl internship in a company dedicated to the pathogen detection in water and food samples, as well as food forensics, using (q)PCR. I performed the thesis in the same company, under the supervision of Prof. Jesús García-Gill, studying the microbial ecology in the illeal intestinal mucosa of colorectal cancer patients submitted to a colectomy and a ileostomy in response to a butyrate treatment, gaining knowledge and experience in microbiology and basic statistics.
 </p>
 
