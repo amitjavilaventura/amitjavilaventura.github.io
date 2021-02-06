@@ -20,7 +20,7 @@ main {
 img {
     margin-right: auto;
     margin-left: auto;
-    max-width: 1000px;
+    max-width: 100%;
     display: block;
     text-align: center;
 }
