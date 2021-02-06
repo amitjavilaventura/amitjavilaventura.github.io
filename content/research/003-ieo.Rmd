@@ -1,6 +1,6 @@
 ---
 title: "Istituto Europeo di Oncologia"
-description: "Pasini's lab"
+description: "Epigenetics & Bioinformatics"
 weight: 8
 ---
 

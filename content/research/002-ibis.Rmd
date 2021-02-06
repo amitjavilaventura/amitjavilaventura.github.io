@@ -1,6 +1,6 @@
 ---
 title: "Instituto de Biomedicina de Sevilla"
-description: "Gene Expression Lab"
+description: "Gene Expression & Bioinformatics"
 weight: 9
 ---
 
