@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ---
 
-# Custom R functions
+## Custom R functions
 
 <p align='justify'>Simple R functions to solve diverse problems I am finding every day.</p>
 

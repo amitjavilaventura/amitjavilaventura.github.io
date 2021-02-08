@@ -23,6 +23,11 @@ Master's thesis student</p>
 </p>
 
 <!--
+
+---
+<span style="text-decoration:underline">Master's thesis title:</span>
+-->
+
 ---
 <span style="text-decoration:underline">Related publications:</span>
 -->

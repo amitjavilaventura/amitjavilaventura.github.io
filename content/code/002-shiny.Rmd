@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ---
 
-# DPomics
+## DPomics
 
 <p align='justify'>*ongoing*</p>
 
@@ -20,19 +20,19 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <p align='justify'>Code available [here](https://github.com/amitjavilaventura/DPomics).</p>
 
-![DPomics logo](https://raw.githubusercontent.com/amitjavilaventura/DPomics/main/www/DPomics_logo.png)
+![](https://raw.githubusercontent.com/amitjavilaventura/DPomics/main/www/DPomics_logo.png)
 
 ---
 
 <br>
 
-# DNAme
+## DNAme
 
 <p align='justify'>*DNAme* is a Shiny app designed for learning purposes that converts a word to a DNA sequence.</p>
 
 <p align='justify'>Code available [here](https://github.com/amitjavilaventura/DPomics).</p>
 
-![DNAme logo](https://raw.githubusercontent.com/amitjavilaventura/DNAme/main/www/DNAme_logo.png)
+![](https://raw.githubusercontent.com/amitjavilaventura/DNAme/main/www/DNAme_logo.png)
 
 
 

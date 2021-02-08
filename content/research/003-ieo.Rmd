@@ -11,7 +11,9 @@ Bioinformatician and PhD student</p>
 
 ---
 
-<p align='justify'>Insert research here</p>
+<p align='justify'>
+Insert research here
+</p>
 
 
 <!--

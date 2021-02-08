@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ---
 
-# Snakemake ATACseq pipeline
+## Snakemake ATACseq pipeline
 
 <p align='justify'>*ongoing*</p>
 
@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ---
 
 <!---
-# ArtATAC
+## ArtATAC
 
 <p align='justify'>*ongoing*</p>
 
