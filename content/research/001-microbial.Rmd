@@ -4,9 +4,9 @@ description: "Intestinal Microbial Ecology"
 weight: 10
 ---
 
-# Intestinal microbial ecology, <i>Microbial, S.L.</i>
+## Intestinal microbial ecology, <i>Microbial, S.L.</i>
 
-<p style='font-size:20px;color:gray'><em style='color:black;'>September 2016 - June 2017</em><br>
+<p style='font-size:15xpx;color:gray'><em style='color:black;'>September 2016 - June 2017</em><br>
 Internship and Bachelor's thesis student</p>
 
 <p align='justify'> In the context of the bachelor's thesis (<i>Universitat de Girona</i>) and under the supervision of Prof. Jesús García-Gil, I studied the diversity of the ileal mucosa-related microbiota of colorectal cancer patients submitted to an ileostomy and its changes after a butyrate treatment. Using DNA extracted from human biopsies of ileal mucosa, we performed qPCR and high-throughput sequencing followed by a SPSS-based statistical analysis of to test the differences between the butyrate-treated, placebo-treated and untreated groups, and we found that some healthy-related butyrate-producing bacteria increased in proportion after the butyrate-treated, but not in the other groups. At the same time, different disease-related bacteria were found to decrease in the butyrate group after the treatment compared to the other groups. Although the changes weren't higly robust in terms of significancy, the short-period of the treatment (4 weeks) and its conditions (ileostomy allows oxigen to enter the ileum, which is supposed to be an anoxic environment) made us think that a long-term butyrate treatment could improve microbiological conditions in the studied patients.</p>

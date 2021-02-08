@@ -1,12 +1,12 @@
 ---
 title: "Instituto de Biomedicina de Sevilla"
-description: "Gene Expression Lab"
+description: "Gene Expression & Bioinformatics"
 weight: 9
 ---
 
-# Gene expression lab, <i>Instituto de Biomedicina de Sevilla</i>
+## Gene expression lab, <i>Instituto de Biomedicina de Sevilla</i>
 
-<p style='font-size:20px;color:gray'><em style='color:black;'>*September 2017 - October 2018*</em><br>
+<p style='font-size:15px;color:gray'><em style='color:black;'>*September 2017 - October 2018*</em><br>
 Master's thesis student and research assistant</p>
 
 ---

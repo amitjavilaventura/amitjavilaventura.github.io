@@ -11,7 +11,6 @@
         <h2 style="font-size:25px; font-family:{{ .Site.Params.titleFont }}">{{ markdownify .Site.Params.Description }}</h2>
         
         {{ if .Site.Params.HomeIcons }}
-                
                 <hr>   
                 
                 <button type="button">
@@ -49,5 +48,5 @@
         <!-- {{ range (.Paginator 5).Pages }} {{ partial "list-item" . }} {{ end }} -->
 </main>
 
-{{ partial "paginator" . }}
+<!-- {{ partial "paginator" . }} -->
 {{ partial "footer" . }}

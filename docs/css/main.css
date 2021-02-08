@@ -118,7 +118,12 @@ a:hover {
 /* Navigation icons */
 
 .navbar-icon {
-    font-size: 125%;
+    font-size: 100%;
+    display: inline-block !important;
+}
+
+.navbar-name {
+    font-size: 100%;
     display: inline-block !important;
 }
 

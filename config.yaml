@@ -11,7 +11,7 @@ params:
   homeIcons: yes
   favicon: "/images/dna_numeros2.png"  ## favicon in the browser tab
   profilePic: "/images/fotojo.png" ## logo in the first page
-  accent: lightblue
+  accent: tomato
   author: "Adrià Mitjavila Ventura"
   titleFont: papyrus
   backgroundColor: white

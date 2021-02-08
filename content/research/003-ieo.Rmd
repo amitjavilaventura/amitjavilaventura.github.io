@@ -1,26 +1,49 @@
 ---
 title: "Istituto Europeo di Oncologia"
 description: "Epigenetics & Bioinformatics"
-weight: 8
+weight: 7
 ---
 
-# Pasini's lab, <i>Istituto Europeo di Oncologia</i>
+## Pasini's lab, <i>Istituto Europeo di Oncologia</i>
 
-<p style='font-size:20px;color:gray'><em style='color:black;'>*July 2019 - Present*</em><br>
+<p style='font-size:15px;color:gray'><em style='color:black;'>*July 2019 - Present*</em><br>
 Bioinformatician and PhD student</p>
 
 ---
 
 <p align='justify'>Insert research here</p>
 
+
+<!--
+<p align='justify'>
+With the goal of completing a PhD thesis, I have been involved in the analysis of transcriptomics and epigenomics data to study the effects of mutations on the Wnt pathway that stabilize &beta;catenin, constitutively overactivate the pathway and cause mouse organoids and stem cells from small intestine acquire adenoma-like phenotype and characteristics.
+</p>
+-->
+
 ---
 
 <span style="text-decoration:underline">My contribution to this research was:</span>
 
-<p align='justify'> 
-Development of an ATACseq pipeline to run using Snakemake. The code can be visualized [here](https://github.com/amitjavilaventura/ATACseq-snakemake). <br>
-Analysis of transcriptomics (RNAseq), cistromics (ChIPseq) and DNA accessibility data (ATACseq). <br>
+<p align='justify'>
+* Comparison of different ATACseq peak callers. <br>
+* Comparison of different sequencing depths in RNAseq. <br>
+* Development of an ATACseq pipeline to run using Snakemake. The code can be visualized [here](https://github.com/amitjavilaventura/ATACseq-snakemake) (still ongoing). <br>
+* Development of a ShinyApp to allow wetlab members to visualize the omics produced in the lab in an easy way. The code can be visualized [here](https://github.com/amitjavilaventura/DPomics). <br>
+* Analysis of transcriptomics (RNAseq), cistromics (ChIPseq) and DNA accessibility data (ATACseq). <br>
+
 <!--
 * Analysis of the CRC-related ignorome.
 -->
+
+<!--
+---
+<span style="text-decoration:underline">Related publications:</span>
+-->
+
+<!--
+---
+<span style="text-decoration:underline">Collaborations:</span>
+-->
+
+
 </p>
