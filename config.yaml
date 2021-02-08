@@ -9,6 +9,7 @@ pluralizelisttitles: no
 content: yes
 params:
   homeIcons: yes
+  backgroundPic: "/images/portada.png" ## background pic of the first pages
   favicon: "/images/dna_numeros2.png"  ## favicon in the browser tab
   profilePic: "/images/fotojo.png" ## logo in the first page
   accent: tomato

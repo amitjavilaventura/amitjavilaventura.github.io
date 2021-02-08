@@ -27,7 +27,8 @@ img {
 
 /* Buttons */
 button {
-  background-color: white;
+  background-color: transparent;
+  background-repeat: no-repeat;
   border: none;
   border-radius: 12px;
   width: 40px;
@@ -55,7 +56,7 @@ button {
 }
 
 .intro > h2 {
-    color: #757575;
+    color: white;
     font-size: 3vmin;
 }
 
@@ -93,6 +94,8 @@ a:hover {
 
 .copyright {
     margin: 15px 0;
+    color: black;
+    font-weight: bold;
 }
 
 /* Paginator */
