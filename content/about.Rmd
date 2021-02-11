@@ -26,12 +26,13 @@ As a plus, I have been an active member from the *Associació de Biotecnòlegs d
 <br>
 
 <p align='justify'>
-Furthermore, one of my hobbies is communicating science and for this reason I have recently started [BioBit](https://biobit.netlify.app), a blog dedicated to spread Bioinformatics.
+Furthermore, one of my hobbies is communicating science and for this reason I have recently started [BioBit](https://biobit.netlify.app), a blog dedicated to spread Bioinformatics, and [Perill Biologic](https://perillbiologic.netlify.app), another blog to communicate Biology in catalan. 
 </p>
 
 <br>
+
 <center>
-![BioBit logo](/images/logo_biobit.png "BioBit logo.")
+![BioBit | Perill Biològic](/images/biobit_perillbiologic.png "BioBit | Perill Biològic"){ width=700 }
 </center>
 
 <br>
