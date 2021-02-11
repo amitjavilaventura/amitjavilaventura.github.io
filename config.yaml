@@ -12,7 +12,7 @@ params:
   backgroundPic: "/images/portada.png" ## background pic of the first pages
   favicon: "/images/dna_numeros2.png"  ## favicon in the browser tab
   profilePic: "/images/fotojo.png" ## logo in the first page
-  accent: tomato
+  accent: darkred
   author: "Adrià Mitjavila Ventura"
   titleFont: papyrus
   backgroundColor: white
@@ -21,11 +21,9 @@ params:
   githubUsername: 'amitjavilaventura'
   highlight: yes
   highlightLanguages:
-    - go
-    - haskell
-    - kotlin
-    - scala
-    - swift
+    - r
+    - python
+    - bash
   highlightStyle: default
   showBorder: yes
   permalink: posts
@@ -41,12 +39,16 @@ menu:
     - name: fab fa-gitlab
       url: https://gitlab.com/amitjavilaventura/
       weight: 3
+    - name: fab fa-stack-overflow
+      url: https://stackoverflow.com/users/14525301/adri%c3%a0-mitjavila-ventura
+      weight: 4
     - name: fab fa-linkedin
       url: https://www.linkedin.com/in/adria-mitjavila-ventura/
-      weight: 4
+      weight: 5
     - name: fab fa-twitter
       url: https://twitter.com/adriamitjavila/
-      weight: 5
+      weight: 6
+
   main:
     - name: Home
       url: /
