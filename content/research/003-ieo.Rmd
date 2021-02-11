@@ -4,7 +4,7 @@ description: "Epigenetics & Bioinformatics"
 weight: 7
 ---
 
-## Pasini's lab, <i>Istituto Europeo di Oncologia</i>
+## Pasini's lab, <a href="https://www.research.ieo.it/" target="_blank"><i>Istituto Europeo di Oncologia</i></a>
 
 <p style='font-size:15px;color:gray'><em style='color:black;'>*July 2019 - Present*</em><br>
 Bioinformatician and PhD student</p>

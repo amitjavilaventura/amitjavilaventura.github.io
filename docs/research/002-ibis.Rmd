@@ -4,7 +4,7 @@ description: "Gene Expression & Bioinformatics"
 weight: 9
 ---
 
-## Gene expression lab, <i>Instituto de Biomedicina de Sevilla</i>
+## Gene expression lab, <a href="https://www.ibis-sevilla.es/"  target="_blank"><i>Instituto de Biomedicina de Sevilla</i></a>
 
 <p style='font-size:15px;color:gray'><em style='color:black;'>*September 2017 - October 2018*</em><br>
 Master's thesis student and research assistant</p>

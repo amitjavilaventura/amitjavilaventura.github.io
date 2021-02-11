@@ -4,9 +4,10 @@ description: "Bioinformatics"
 weight: 8
 draft: true
 ---
-<!--
-## Bioinformatics, <i>Universitat Oberta de Catalunya</i>
 
+## Bioinformatics, <a href="https://estudis.uoc.edu/ca/masters-universitaris/bioinformatica-bioestadistica/" target="_blank"><em>Universitat Oberta de Catalunya</em></a>
+
+<!--
 <p style='font-size:15px;color:gray'><em style='color:black;'>*March 2021 - Present*</em><br>
 Master's thesis student</p>
 
