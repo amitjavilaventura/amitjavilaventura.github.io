@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Adrià Mitjavila Ventura</title>
+    <link>https://amitjavilaventura.github.io/publications/</link>
+    <description>Recent content in Publications on Adrià Mitjavila Ventura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://amitjavilaventura.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Journal articles</title>
+      <link>https://amitjavilaventura.github.io/publications/001-journal_articles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/publications/001-journal_articles/</guid>
+      <description>  2020  Begley V et al (2020). Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration. RNA Biology. doi: 10.1080/15476286.2020.1845504.    </description>
+    </item>
+    
+  </channel>
+</rss>

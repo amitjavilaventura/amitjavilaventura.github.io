@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Curriculum on Adrià Mitjavila Ventura</title>
+    <link>https://amitjavilaventura.github.io/curriculum/</link>
+    <description>Recent content in Curriculum on Adrià Mitjavila Ventura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://amitjavilaventura.github.io/curriculum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web CV</title>
+      <link>https://amitjavilaventura.github.io/curriculum/001-web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/curriculum/001-web/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>Short CV</title>
+      <link>https://amitjavilaventura.github.io/curriculum/002-short/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/curriculum/002-short/</guid>
+      <description>This browser does not support PDFs. Please download the PDF to view it: Download.    
+Look at my complete CV here.</description>
+    </item>
+    
+    <item>
+      <title>Long CV</title>
+      <link>https://amitjavilaventura.github.io/curriculum/003-long/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/curriculum/003-long/</guid>
+      <description>This browser does not support PDFs. Please download the PDF to view it: Download.    
+Look at my complete CV here.</description>
+    </item>
+    
+  </channel>
+</rss>

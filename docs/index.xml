@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adrià Mitjavila Ventura</title>
+    <link>https://amitjavilaventura.github.io/</link>
+    <description>Recent content on Adrià Mitjavila Ventura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://amitjavilaventura.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Journal articles</title>
+      <link>https://amitjavilaventura.github.io/publications/001-journal_articles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/publications/001-journal_articles/</guid>
+      <description>  2020  Begley V et al (2020). Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration. RNA Biology. doi: 10.1080/15476286.2020.1845504.    </description>
+    </item>
+    
+    <item>
+      <title>Pipelines</title>
+      <link>https://amitjavilaventura.github.io/code/001-pipelines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/code/001-pipelines/</guid>
+      <description>  Snakemake ATACseq pipeline ongoing Simple Snakemake pipeline for ATACseq used in Pasini’s lab. Code available here. *ongoing*
+*__ArtATAC__*: **A**utomated **r**eproducible **toolkit** for **ATAC**seq data processing, analysis and visualization.
+Snakemake pipeline to analyse ATACseq data.
+Code available [here](https://github.com/amitjavilaventura/ArtATAC).
+--- --  </description>
+    </item>
+    
+    <item>
+      <title>Web CV</title>
+      <link>https://amitjavilaventura.github.io/curriculum/001-web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/curriculum/001-web/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>Shiny apps</title>
+      <link>https://amitjavilaventura.github.io/code/002-shiny/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/code/002-shiny/</guid>
+      <description>  DPomics ongoing DPomics: DP lab omics visualization and integration. DPomics is a Shiny app designed to visualize omics data from the Pasini Lab (RNA-seq, ChIP-seq and integration.) Code available here. DPomics logo
+ 
+ DNAme DNAme is a Shiny app designed for learning purposes that converts a word to a DNA sequence. Code available here. DNAme logo
+  </description>
+    </item>
+    
+    <item>
+      <title>Short CV</title>
+      <link>https://amitjavilaventura.github.io/curriculum/002-short/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/curriculum/002-short/</guid>
+      <description>This browser does not support PDFs. Please download the PDF to view it: Download.    
+Look at my complete CV here.</description>
+    </item>
+    
+    <item>
+      <title>Long CV</title>
+      <link>https://amitjavilaventura.github.io/curriculum/003-long/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/curriculum/003-long/</guid>
+      <description>This browser does not support PDFs. Please download the PDF to view it: Download.    
+Look at my complete CV here.</description>
+    </item>
+    
+    <item>
+      <title>Miscellaneous</title>
+      <link>https://amitjavilaventura.github.io/code/003-misc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/code/003-misc/</guid>
+      <description>  Custom R functions Simple R functions to solve diverse problems I am finding every day. Source code available here.  </description>
+    </item>
+    
+    <item>
+      <title>Istituto Europeo di Oncologia</title>
+      <link>https://amitjavilaventura.github.io/research/003-ieo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/research/003-ieo/</guid>
+      <description>Pasini’s lab, Istituto Europeo di Oncologia July 2019 - Present
+Bioinformatician and PhD student Insert research here With the goal of completing a PhD thesis, I have been involved in the analysis of transcriptomics and epigenomics data to study the effects of mutations on the Wnt pathway that stabilize &amp;beta;catenin, constitutively overactivate the pathway and cause mouse organoids and stem cells from small intestine acquire adenoma-like phenotype and characteristics.</description>
+    </item>
+    
+    <item>
+      <title>Instituto de Biomedicina de Sevilla</title>
+      <link>https://amitjavilaventura.github.io/research/002-ibis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/research/002-ibis/</guid>
+      <description>Gene expression lab, Instituto de Biomedicina de Sevilla September 2017 - October 2018
+Master’s thesis student and research assistant In the context of the master’s thesis (Universidad de Sevilla), under the supervision of Dr. Sebastián Chávez de Diego and Dr. Gabriel Gutierrez Pozo and within Dr. Victoria Begley’s PhD project, I started studying Xrn1, a protein involved in the degradation of mRNA, and it’s role in the nucleosome localization and transcription in Saccharomyces cerevisiae.</description>
+    </item>
+    
+    <item>
+      <title>Microbial. Sistemes i aplicacions analítiques, S.L.</title>
+      <link>https://amitjavilaventura.github.io/research/001-microbial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/research/001-microbial/</guid>
+      <description>Intestinal microbial ecology, Microbial, S.L. September 2016 - June 2017
+Internship and Bachelor’s thesis student In the context of the bachelor’s thesis (Universitat de Girona) and under the supervision of Prof. Jesús García-Gil, I studied the diversity of the ileal mucosa-related microbiota of colorectal cancer patients submitted to an ileostomy and its changes after a butyrate treatment. Using DNA extracted from human biopsies of ileal mucosa, we performed qPCR and high-throughput sequencing followed by a SPSS-based statistical analysis of to test the differences between the butyrate-treated, placebo-treated and untreated groups, and we found that some healthy-related butyrate-producing bacteria increased in proportion after the butyrate-treated, but not in the other groups.</description>
+    </item>
+    
+    <item>
+      <title>I am not a virgin anymore!</title>
+      <link>https://amitjavilaventura.github.io/posts/004-xrn1_paper/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/posts/004-xrn1_paper/</guid>
+      <description>Figure 1: Figure 1 of the article showing the model of how Xrn1 and other RNA decay factors work. Source: Begley V et al (2020). Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration. RNA Biology. doi: 10.1080/15476286.2020.1845504.  If you want to know more about it, read my post in BioBit. The article can be found at:  Begley V et al (2020).</description>
+    </item>
+    
+    <item>
+      <title>DNAme</title>
+      <link>https://amitjavilaventura.github.io/posts/003-dname/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/posts/003-dname/</guid>
+      <description>What is DNAme? DNAme is an application for teaching/learning purposes which converts a word to a DNA sequence. It has some theory to understand the processes underlying this conversion, but this theroy must not be used with teaching puroposes because it may have some inaccuracies. 
+ How DNAme works? Summary DNAme was designed using R/Shiny that takes your name as a sequence of one-letter aminoacids and converts them to DNA/mRNA by looking for the codon that codes for each aminoacid.</description>
+    </item>
+    
+    <item>
+      <title>BioBit</title>
+      <link>https://amitjavilaventura.github.io/posts/002-biobit/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/posts/002-biobit/</guid>
+      <description>BioBit is a blog dedicated to spread and communicate bioinformatics to society. I made it using the R package distill and to publish it I used Netlify, because GitHub pages force me to have it as a subdomain of my personal website. My goal with the blog is posting basic things and recent advances about bioinformatics, as well as some biology and computer science -although I won’t post much about it, since I am a bioscientist rather than a computer one-.</description>
+    </item>
+    
+    <item>
+      <title>Biotechnologist around computers</title>
+      <link>https://amitjavilaventura.github.io/posts/001-welcome/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/posts/001-welcome/</guid>
+      <description>At the beggining of my academic career, I wanted to be a wetlab scientist and, in honor to the truth, I didn’t love bioinformatics, so I focussed my bachelor’s thesis in Molecular Microbiology. However, I noticed how crucial informatics-based analyses of biological data are when we externally sequenced and processed our metagenomics data and when I had to make the statistical analysis all by myself without knowing any R.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://amitjavilaventura.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/about/</guid>
+      <description>My career in science began with a BSc in Biotechnology (Universitat de Girona), in which I learned the basics of biological organisms and their modification and application to develop new and useful tools for the society. During this undergraduate studies, I did a professioanl internship in a company dedicated to the pathogen detection in water and food samples, as well as food forensics, using (q)PCR. I performed the thesis in the same company, under the supervision of Prof.</description>
+    </item>
+    
+  </channel>
+</rss>
