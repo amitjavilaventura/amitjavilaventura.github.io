@@ -1,8 +1,7 @@
 ---
 title: "I am not a virgin anymore!"
+description: "My first paper has been published"
 date: 2020-12-07
-featuredImage: "graphical_abstract.jpg"
-
 ---
 
 ```{r setup, include=FALSE}

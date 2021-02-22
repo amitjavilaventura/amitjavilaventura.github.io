@@ -3,7 +3,7 @@ publishDir: docs
 languageCode: en-us
 title: Adrià Mitjavila Ventura
 theme: minimal
-disqusShortname: username
+disqusShortname: amitjavila
 googleAnalytics: ''
 pluralizelisttitles: no
 content: yes
