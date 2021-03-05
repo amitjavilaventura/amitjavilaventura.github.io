@@ -1,0 +1,41 @@
+---
+title: "DPomics"
+description: "A ShinyApp to visualize omics data from my lab."
+date: 2021-03-05
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, fig.align = "center")
+```
+
+_**DPomics**_: **DP** lab **omics** data visualization and integration. 
+
+Look at the source code [here](https://github.com/amitjavilaventura/DPomics).
+
+---
+
+## Goal
+
+*DPomics* is a ShinyAPP to visualize RNA-seq and ChIP-seq data coming from the analysis we do in our lab. 
+
+It has been made in order to be easy for the wetlab members to use it, hence I would like to deploy it to shinyapps.io, like I have done with [DNAme](https://amitjavilaventura.shinyapps.io/DNAme/). However, I am having issues with the deployment, most likely due to shortage of memory in the server. 
+
+Nevertheless, the app is completely functional by running it locally with RStudio and you are all invited to use it and comment the issues you find and things you would improve.
+
+
+
+
+
+## To do
+* **Include download options for lists and plots**: `write.table()` and `ggsave()`/`png()` + `actionButton()`?
+* Include more parameters in the RNA-seq Heatmaps.
+* Put gene ontology in DEGs --> will be very slow using `clusterProfiler`.
+* Integrate RNAseq and ChIPseq data. --> at the moment,  the integration does not work.
+* Upload app to my shinyapps.io server.
+* Make a Desktop app with `electron`/`photon` (make 2 different apps: 1 for MAC and 1 for Windows).
+
+## CRAZY ideas
+
+* Allow more omics data, like ChIPs from histone modifications (i.e. H3K4me1, H3K4me3, H3K27me3, H3K27ac), so we will able to predict some enhancers.
+* Integrate all the data with the preexisting one. It can be done in R, so it should not be difficult
+  

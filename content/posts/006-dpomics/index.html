@@ -1,0 +1,76 @@
+---
+title: "DPomics"
+description: "A ShinyApp to visualize omics data from my lab."
+date: 2021-03-05
+---
+
+<script src="{{< blogdown/postref >}}index_files/header-attrs/header-attrs.js"></script>
+
+
+<center>
+<strong><a href="https://amitjavilaventura.github.io" target="_blank">Adrià Mitjavila</a></strong> on <em>March 5, 2021</em>
+</center>
+<hr />
+<p><em><strong>DPomics</strong></em>: <strong>DP</strong> lab <strong>omics</strong> data visualization and integration.</p>
+<p>Look at the source code <a href="https://github.com/amitjavilaventura/DPomics">here</a>.</p>
+<hr />
+<div id="goal" class="section level2">
+<h2>Goal</h2>
+<p><em>DPomics</em> is a ShinyAPP to visualize omics data coming from the analysis we do in our lab.</p>
+<p>It has been made in order to be easy for the wetlab members to use it, hence I would like to deploy it to shinyapps.io, like I have done with <a href="https://amitjavilaventura.shinyapps.io/DNAme/">DNAme</a>. However, I am having issues with the deployment, most likely due to shortage of memory in the server.</p>
+<p>Nevertheless, the app is completely functional by running it locally with RStudio and you are all invited to use it and comment the issues you find and things you would improve.</p>
+<hr />
+</div>
+<div id="instructions" class="section level2">
+<h2>Instructions</h2>
+<div id="input-data" class="section level3">
+<h3>Input data</h3>
+<p><strong><em>DPomics</em> allows you to upload your own data.</strong></p>
+<p>Currently, you can visualize basic things from RNA-seq and ChIP-seq data coming from the Snakemake pipelines made by <a href="https://github.com/dfernandezperez">dfernandezperez</a> with some extra modifications to include all the conditions in one dataframe. However, is not necessary to use them, just have the input data as follows (column names must be exact and the file in TSV format):</p>
+<ul>
+<li><p>For the RNA-seq, the input data is a DESeq2-like table from that binds different contrasts and have (at least) the following columns: .</p>
+<ul>
+<li><code>Contrast</code>: extra column with the name of the contrasts where the gene in the corresponding row comes from.</li>
+<li><code>Geneid</code>: ID of the gene (i.e. Gene symbol), <em>by defalut from the DESeq2 analysis</em>.</li>
+<li><code>log2FoldChange</code>: log<sup>2</sup>(FC), <em>by default from the DESeq2 analysis</em>.</li>
+<li><code>padj</code>: adjusted p-value, <em>by default from the DESeq2 analysis</em>.</li>
+<li><code>DEG</code>: extra column with the differential expression of the corresponding genes, values are “Upregulated”, “Downregulated”, “NS”.</li>
+</ul></li>
+</ul>
+<p><br></p>
+<ul>
+<li><p>For the ChIP-seq, the input data comes from <code>annotatePeak()</code> with all the conditions merged in one dataframe, which has the following columns (column names must be exact and the file in TSV format):</p>
+<ul>
+<li><code>seqnames</code>: chromosome name (i.e. chr1, chr19, chrX, chrM…), <em>by default from the peak calling step (i.e. MACS2)</em>.</li>
+<li><code>start</code>: starting position from the peak in the chromosome, <em>by default from the peak calling step (i.e. MACS2)</em>.</li>
+<li><code>end</code>: ending position from the peak in the chromosome, <em>by default from the peak calling step (i.e. MACS2)</em>.</li>
+<li><code>log10pval</code>: negative decimal logarithm of the p-value (or q-value) of the detected peak, <em>by default from the peak calling step (i.e. MACS2)</em>.</li>
+<li><code>annotation</code>: annotation comming from the <code>annotatePeak()</code> function.</li>
+<li><code>SYMBOL</code>: gene symbol (i.e. Nanog, MYC…), <em>by default from <code>annotatePeak()</code></em>.</li>
+<li><code>distanceToTSS</code>: distance to the transcription starting site, <em>by default from <code>annotatePeak()</code></em>.</li>
+<li><code>sample</code>: extra column with the sample where the peaks come from (ideally should be “condition_protein”).</li>
+<li><code>condition</code>: extra column with the condition of the sample where the peaks come from.</li>
+<li><code>protein</code>: extra column with the protein chipped in the sample where the peaks come from.</li>
+</ul></li>
+</ul>
+</div>
+<div id="visualize" class="section level3">
+<h3>Visualize</h3>
+<p>Inside <em>DPomics</em> there is an instructions tab where you can read all you can do in the app.</p>
+<hr />
+</div>
+</div>
+<div id="to-dos" class="section level2">
+<h2>To do’s</h2>
+<p>As I said, you can currently visualize RNA-seq (differential expression) and ChIP-seq data, but there are several things that I want to do:</p>
+<ul>
+<li><strong>Include download options for lists and plots</strong>.</li>
+<li>Include more parameters in the current functionalities.</li>
+<li>Include gene ontology option in the RNA-seq visualization.</li>
+<li>Integrate RNA-seq and ChIP-seq data.</li>
+<li>Include ATAC-seq data.</li>
+</ul>
+<p>As well as split the app in several smaller apps to see if I can deploy them to shinyapps.io.</p>
+<hr />
+<p>I hope you like this app and, if you use it, please give a star to the <a href="https://github.com/amitjavilaventura/DPomics">DPomics Github repository</a></p>
+</div>
