@@ -6,7 +6,19 @@
     <description>Recent content in Posts on Adrià Mitjavila Ventura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://amitjavilaventura.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://amitjavilaventura.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DPomics</title>
+      <link>https://amitjavilaventura.github.io/posts/006-dpomics/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/posts/006-dpomics/</guid>
+      <description>Adrià Mitjavila on March 5, 2021  DPomics: DP lab omics data visualization and integration.
+Look at the source code here.
+Goal DPomics is a ShinyAPP to visualize omics data coming from the analysis we do in our lab.
+It has been made in order to be easy for the wetlab members to use it, hence I would like to deploy it to shinyapps.io, like I have done with DNAme.</description>
+    </item>
+    
     <item>
       <title>Perill biològic</title>
       <link>https://amitjavilaventura.github.io/posts/005-perillbiologic/</link>

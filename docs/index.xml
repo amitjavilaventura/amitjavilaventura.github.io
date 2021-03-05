@@ -6,7 +6,7 @@
     <description>Recent content on Adrià Mitjavila Ventura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://amitjavilaventura.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://amitjavilaventura.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Journal articles</title>
       <link>https://amitjavilaventura.github.io/publications/001-journal_articles/</link>
@@ -107,6 +107,18 @@ Master’s thesis student and research assistant In the context of the master’
       <guid>https://amitjavilaventura.github.io/research/001-microbial/</guid>
       <description>Intestinal microbial ecology, Microbial, S.L. September 2016 - June 2017
 Internship and Bachelor’s thesis student In the context of the bachelor’s thesis (Universitat de Girona) and under the supervision of Prof. Jesús García-Gil, I studied the diversity of the ileal mucosa-related microbiota of colorectal cancer patients submitted to an ileostomy and its changes after a butyrate treatment. Using DNA extracted from human biopsies of ileal mucosa, we performed qPCR and high-throughput sequencing followed by a SPSS-based statistical analysis of to test the differences between the butyrate-treated, placebo-treated and untreated groups, and we found that some healthy-related butyrate-producing bacteria increased in proportion after the butyrate-treated, but not in the other groups.</description>
+    </item>
+    
+    <item>
+      <title>DPomics</title>
+      <link>https://amitjavilaventura.github.io/posts/006-dpomics/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/posts/006-dpomics/</guid>
+      <description>Adrià Mitjavila on March 5, 2021  DPomics: DP lab omics data visualization and integration.
+Look at the source code here.
+Goal DPomics is a ShinyAPP to visualize omics data coming from the analysis we do in our lab.
+It has been made in order to be easy for the wetlab members to use it, hence I would like to deploy it to shinyapps.io, like I have done with DNAme.</description>
     </item>
     
     <item>

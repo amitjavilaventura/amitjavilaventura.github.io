@@ -83,3 +83,6 @@ As well as split the app in several smaller apps to see if I can deploy them to 
 
 I hope you like this app and, if you use it, please give a star to the [DPomics Github repository](https://github.com/amitjavilaventura/DPomics)
 
+<center>
+![](/images/DPomics_logo.png)
+</center>
