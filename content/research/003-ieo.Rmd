@@ -4,23 +4,18 @@ description: "Epigenetics & Bioinformatics"
 weight: 7
 ---
 
+<style> 
+  p { text-align: justify; }
+</style>
+
 ## Pasini's lab, <a href="https://www.research.ieo.it/" target="_blank"><i>Istituto Europeo di Oncologia</i></a>
 
 <p style='font-size:15px;color:gray'><em style='color:black;'>*July 2019 - Present*</em><br>
-Bioinformatician and PhD student</p>
+Bioinformatician and PhD candidate</p>
 
 ---
 
-<p align='justify'>
-Insert research here
-</p>
-
-
-<!--
-<p align='justify'>
-With the goal of completing a PhD thesis, I have been involved in the analysis of transcriptomics and epigenomics data to study the effects of mutations on the Wnt pathway that stabilize &beta;catenin, constitutively overactivate the pathway and cause mouse organoids and stem cells from small intestine acquire adenoma-like phenotype and characteristics.
-</p>
--->
+In the context of my PhD, under the direct supervision of Dr. Diego Pasini and together with Dr. Daria Manganaro, I started my project with the aim of dissecting the role of the Wnt/&beta;catenin pathway in colorectal cancer initiation and progression.
 
 ---
 
@@ -32,6 +27,8 @@ With the goal of completing a PhD thesis, I have been involved in the analysis o
 * Development of an ATACseq pipeline to run using Snakemake. The code can be visualized [here](https://github.com/amitjavilaventura/ATACseq-snakemake) (still ongoing). <br>
 * Development of a ShinyApp to allow wetlab members to visualize the omics produced in the lab in an easy way. The code can be visualized [here](https://github.com/amitjavilaventura/DPomics). <br>
 * Analysis of transcriptomics (RNAseq), cistromics (ChIPseq) and DNA accessibility data (ATACseq). <br>
+</p>
+
 
 <!--
 * Analysis of the CRC-related ignorome.
@@ -48,4 +45,3 @@ With the goal of completing a PhD thesis, I have been involved in the analysis o
 -->
 
 
-</p>
