@@ -9,7 +9,6 @@ draft: false
   p { text-align: justify; }
 </style>
 
-
 ## Bioinformatics, <a href="https://estudis.uoc.edu/ca/masters-universitaris/bioinformatica-bioestadistica/" target="_blank"><em>Universitat Oberta de Catalunya</em></a>
 
 

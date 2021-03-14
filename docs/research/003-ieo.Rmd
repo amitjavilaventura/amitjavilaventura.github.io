@@ -27,6 +27,8 @@ In the context of my PhD, under the direct supervision of Dr. Diego Pasini and t
 * Development of an ATACseq pipeline to run using Snakemake. The code can be visualized [here](https://github.com/amitjavilaventura/ATACseq-snakemake) (still ongoing). <br>
 * Development of a ShinyApp to allow wetlab members to visualize the omics produced in the lab in an easy way. The code can be visualized [here](https://github.com/amitjavilaventura/DPomics). <br>
 * Analysis of transcriptomics (RNAseq), cistromics (ChIPseq) and DNA accessibility data (ATACseq). <br>
+</p>
+
 
 <!--
 * Analysis of the CRC-related ignorome.
@@ -43,4 +45,3 @@ In the context of my PhD, under the direct supervision of Dr. Diego Pasini and t
 -->
 
 
-</p>

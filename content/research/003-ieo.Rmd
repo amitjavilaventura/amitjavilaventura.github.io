@@ -4,9 +4,6 @@ description: "Epigenetics & Bioinformatics"
 weight: 7
 ---
 
-<style> 
-  p { text-align: justify; }
-</style>
 
 ## Pasini's lab, <a href="https://www.research.ieo.it/" target="_blank"><i>Istituto Europeo di Oncologia</i></a>
 
@@ -15,7 +12,9 @@ Bioinformatician and PhD candidate</p>
 
 ---
 
+<p style='text-align: justify;'>
 In the context of my PhD, under the direct supervision of Dr. Diego Pasini and together with Dr. Daria Manganaro, I started my project with the aim of dissecting the role of the Wnt/&beta;catenin pathway in colorectal cancer initiation and progression.
+</p>
 
 ---
 
