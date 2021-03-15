@@ -85,9 +85,9 @@ Look at my complete CV here.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://amitjavilaventura.github.io/research/003-ieo/</guid>
-      <description>p { text-align: justify; }  Pasini’s lab, Istituto Europeo di Oncologia July 2019 - Present
-Bioinformatician and PhD candidate In the context of my PhD, under the direct supervision of Dr. Diego Pasini and together with Dr. Daria Manganaro, I started my project with the aim of dissecting the role of the Wnt/βcatenin pathway in colorectal cancer initiation and progression.
-My contribution to this research was:</description>
+      <description>Pasini’s lab, Istituto Europeo di Oncologia July 2019 - Present
+Bioinformatician and PhD candidate In the context of my PhD, under the direct supervision of Dr. Diego Pasini and together with Dr. Daria Manganaro, I started my project with the aim of dissecting the role of the Wnt/βcatenin pathway in colorectal cancer initiation and progression. My contribution to this research was:
+ Comparison of different ATACseq peak callers.  Comparison of different sequencing depths in RNAseq.</description>
     </item>
     
     <item>
@@ -96,7 +96,7 @@ My contribution to this research was:</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://amitjavilaventura.github.io/research/004-uoc_tfm/</guid>
-      <description>p { text-align: justify; }  Bioinformatics, Universitat Oberta de Catalunya March 2021 - Present
+      <description>Computational Biology, Universitat Oberta de Catalunya March 2021 - Present
 Master’s thesis student In the context of my master’s thesis (MSc in Bioinformatics &amp;amp; Biostatsistics), and under the suprevision of Dr. Izaskun Mallona, I decided to unravel the ignorome of colon cancer. The ignorome, defined by Pandey et al, consists in the genes that can be important in the biological context of a tissue or disease, but that haven’t been well studied or related to that context because of publication biases or due to other reasons.</description>
     </item>
     

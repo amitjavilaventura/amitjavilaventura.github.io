@@ -39,15 +39,18 @@ menu:
     - name: fab fa-gitlab
       url: https://gitlab.com/amitjavilaventura/
       weight: 3
+    - name: fab fa-bitbucket
+      url: https://bitbucket.org/amitjavilaventura/
+      weight: 4
     - name: fab fa-stack-overflow
       url: https://stackoverflow.com/users/14525301/adri%c3%a0-mitjavila-ventura
-      weight: 4
+      weight: 5
     - name: fab fa-linkedin
       url: https://www.linkedin.com/in/adria-mitjavila-ventura/
-      weight: 5
+      weight: 6
     - name: fab fa-twitter
       url: https://twitter.com/adriamitjavila/
-      weight: 6
+      weight: 7
 
   main:
     - name: Home
