@@ -47,7 +47,7 @@ button {
     margin-right: auto;
     margin-left: auto;
     vertical-align: middle;
-    transform: translateY(50%);
+    transform: translateY(10%);
 }
 
 .intro > h1 {
