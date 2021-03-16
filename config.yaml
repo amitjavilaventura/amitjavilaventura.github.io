@@ -57,7 +57,7 @@ menu:
       url: /
       weight: 1
     - name: About
-      url: /about/index.html
+      url: /about/
       weight: 2
     - name: Posts
       url: /posts/
@@ -69,7 +69,7 @@ menu:
       url: /publications/
       weight: 5
     - name: Code
-      url: /code/index.html
+      url: /code/
       weight: 6
     - name: Curriculum
       url: /curriculum/
