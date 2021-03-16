@@ -145,5 +145,17 @@ The blog is entirely in catalan and is focussed to communicate general Biology k
       <description>At the beggining of my academic career, I wanted to be a wetlab scientist and, in honor to the truth, I didn’t love bioinformatics, so I focussed my bachelor’s thesis in Molecular Microbiology. However, I noticed how crucial informatics-based analyses of biological data are when we externally sequenced and processed our metagenomics data and when I had to make the statistical analysis all by myself without knowing any R.</description>
     </item>
     
+    <item>
+      <title>Code development</title>
+      <link>https://amitjavilaventura.github.io/code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/code/</guid>
+      <description>Repositories of code I have developped or contributed to    p{text-align: justify;}  Snakemake ATACseq Snakemake: simple Snakemake pipeline for ATAC-seq data processing and analyses used in Pasini’s lab. ongoing
+ R Packages crhomHMMviewR: ggplot2-based functions that draw heatmaps from ChromHMM output data.
+ Shiny apps DPomics: shiny app designed to visualize omics data from the Pasini Lab (RNA-seq and ChIP-seq). ongoing
+DNAme: shiny app designed for learning purposes that converts a word to a DNA sequence.</description>
+    </item>
+    
   </channel>
 </rss>

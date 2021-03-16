@@ -10,7 +10,7 @@ title: "Code development"
 
 ## **Snakemake**
 
-[**ATACseq Snakemake**](https://github.com/amitjavilaventura/ATACseq-snakemake): Simple Snakemake pipeline for ATAC-seq data used in Pasini’s lab. *ongoing*
+[**ATACseq Snakemake**](https://github.com/amitjavilaventura/ATACseq-snakemake): simple Snakemake pipeline for ATAC-seq data processing and analyses used in Pasini’s lab. *ongoing*
 
 <!--
 [**ArtATAC**](https://github.com/amitjavilaventura/ArtATAC): Snakemake pipeline for ATAC-seq data processing and analysis.  *ongoing*
