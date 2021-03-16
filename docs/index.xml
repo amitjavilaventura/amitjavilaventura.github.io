@@ -17,12 +17,35 @@
     </item>
     
     <item>
+      <title>Pipelines</title>
+      <link>https://amitjavilaventura.github.io/code/001-pipelines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/code/001-pipelines/</guid>
+      <description>  Snakemake ATACseq pipeline ongoing Simple Snakemake pipeline for ATACseq used in Pasini’s lab. Code available here. *ongoing*
+*__ArtATAC__*: **A**utomated **r**eproducible **toolkit** for **ATAC**seq data processing, analysis and visualization.
+Snakemake pipeline to analyse ATACseq data.
+Code available [here](https://github.com/amitjavilaventura/ArtATAC).
+--- --  </description>
+    </item>
+    
+    <item>
       <title>Web CV</title>
       <link>https://amitjavilaventura.github.io/curriculum/001-web/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://amitjavilaventura.github.io/curriculum/001-web/</guid>
       <description>  </description>
+    </item>
+    
+    <item>
+      <title>Shiny apps</title>
+      <link>https://amitjavilaventura.github.io/code/002-shiny/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/code/002-shiny/</guid>
+      <description>  DPomics ongoing DPomics: DP lab omics visualization and integration. DPomics is a Shiny app designed to visualize omics data from the Pasini Lab (RNA-seq, ChIP-seq and integration.) Code available here. 
+ DNAme DNAme is a Shiny app designed for learning purposes that converts a word to a DNA sequence. Code available here.  </description>
     </item>
     
     <item>
@@ -43,6 +66,24 @@ Look at my complete CV here.</description>
       <guid>https://amitjavilaventura.github.io/curriculum/003-long/</guid>
       <description>This browser does not support PDFs. Please download the PDF to view it: Download.    
 Look at my complete CV here.</description>
+    </item>
+    
+    <item>
+      <title>Miscellaneous</title>
+      <link>https://amitjavilaventura.github.io/code/004-misc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/code/004-misc/</guid>
+      <description>  Custom R functions Simple R functions to solve diverse problems I am finding every day. Source code available here.  </description>
+    </item>
+    
+    <item>
+      <title>Packages</title>
+      <link>https://amitjavilaventura.github.io/code/003-packages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/code/003-packages/</guid>
+      <description>  ChromHMMviewR R package that draws ggplot2-based heatmaps to visualize data from ChromHMM. ChromHMMviewR has been developed as a practical lesson following the guides in this this repository. The source code and the instructions to install are is available here.  </description>
     </item>
     
     <item>
