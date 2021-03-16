@@ -2,8 +2,6 @@
 title: "Code development"
 ---
 
-<center><h4>Repositories of code I have developped or contributed to</h4></center>
-
 <style> p{text-align: justify;} </style>
 
 ---
