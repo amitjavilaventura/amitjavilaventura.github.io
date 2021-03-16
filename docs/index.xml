@@ -80,6 +80,24 @@ Look at my complete CV here.</description>
     </item>
     
     <item>
+      <title>Miscellaneous</title>
+      <link>https://amitjavilaventura.github.io/code/004-misc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/code/004-misc/</guid>
+      <description>  Custom R functions Simple R functions to solve diverse problems I am finding every day. Source code available here.  </description>
+    </item>
+    
+    <item>
+      <title>Packages</title>
+      <link>https://amitjavilaventura.github.io/code/003-packages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/code/003-packages/</guid>
+      <description>  ChromHMMviewR R package that draws ggplot2-based heatmaps to visualize data from ChromHMM. ChromHMMviewR has been developed as a practical lesson following the guides in this this repository. The source code and the instructions to install are is available here.  </description>
+    </item>
+    
+    <item>
       <title>Istituto Europeo di Oncologia</title>
       <link>https://amitjavilaventura.github.io/research/003-ieo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
