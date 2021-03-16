@@ -1,0 +1,25 @@
+  ---
+title: "Packages"
+description: "Some packages that I have developed"
+weight: 3
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+---
+
+## ChromHMMviewR
+
+<p align='justify'>R package that draws ggplot2-based heatmaps to visualize data from ChromHMM.</p>
+
+<p align='justify'>ChromHMMviewR has been developed as a practical lesson following the guides in this [this repository](https://github.com/ASPteaching/2017-03-Rpackages_and_Github).</p>
+
+<p align='justify'>The source code and the instructions to install are is available [here](https://github.com/amitjavilaventura/custom-R-functions).</p>
+
+---
+
+
+
+
