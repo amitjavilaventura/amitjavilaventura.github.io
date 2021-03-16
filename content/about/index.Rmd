@@ -21,7 +21,7 @@ As a plus, I have been an active member from the *Associació de Biotecnòlegs d
 
 <br>
 <center>
-![ASBTEC's directive board 2019-20](/images/jd_asbtec_19_20.png "ASBTEC's directive board 2019-20")
+![ASBTEC's directive board 2019-20](jd_asbtec_19_20.png "ASBTEC's directive board 2019-20")
 </center>
 <br>
 
@@ -32,7 +32,7 @@ Furthermore, one of my hobbies is communicating science and for this reason I ha
 <br>
 
 <center>
-![BioBit | Perill Biològic](/images/biobit_perillbiologic.png "BioBit | Perill Biològic"){ width=700 }
+![BioBit | Perill Biològic](biobit_perillbiologic.png "BioBit | Perill Biològic"){ width=700 }
 </center>
 
 <br>
@@ -49,7 +49,7 @@ I started rowing in 2007 and my first international competition was *La Coupe de
 
 <br>
 <center>
-![My crewmate, my coach and I after winning the 2016 U23 World Rowing Championship in the lightweight men's double scull.](/images/after_wru23c2016.png "My crewmate, my coach and I after winning the 2016 U23 World Rowing Championship in the lightweight men's double scull.")
+![My crewmate, my coach and I after winning the 2016 U23 World Rowing Championship in the lightweight men's double scull.](after_wru23c2016.png "My crewmate, my coach and I after winning the 2016 U23 World Rowing Championship in the lightweight men's double scull.")
 </center>
 <br>
 
