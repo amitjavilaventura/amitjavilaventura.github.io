@@ -1,14 +1,15 @@
 ---
 title: "Code development"
+description: "Repositories of code I developed or contributed to"
 ---
 
 <style> p{text-align: justify;} </style>
 
 ---
 
-## **Snakemake**
+### <ins>**Snakemake**</ins>
 
-[**ATACseq Snakemake**](https://github.com/amitjavilaventura/ATACseq-snakemake): simple Snakemake pipeline for ATAC-seq data processing and analyses used in Pasini’s lab. *ongoing*
+[**ATACseq Snakemake**](https://github.com/amitjavilaventura/ATACseq-snakemake): simple Snakemake pipeline for ATAC-seq data processing and analyses used in Pasini’s lab. *ongoing*   
 
 <!--
 [**ArtATAC**](https://github.com/amitjavilaventura/ArtATAC): Snakemake pipeline for ATAC-seq data processing and analysis.  *ongoing*
@@ -16,23 +17,22 @@ title: "Code development"
 
 ---
 
-## **R**
+### <ins>**R**</ins>
 
-### Packages
+#### Packages
 
 [**crhomHMMviewR**](https://github.com/amitjavilaventura/chromHMMviewR): ggplot2-based functions that draw heatmaps from ChromHMM output data.
 
-
-### Shiny apps
+#### Shiny apps
 
 [**DPomics**](https://github.com/amitjavilaventura/DPomics): shiny app designed to visualize omics data from the Pasini Lab (RNA-seq and ChIP-seq). *ongoing*
 
+[**DNAapp**](https://github.com/amitjavilaventura/DNApp): simple shiny app with several DNA-related tools. *ongoing*
+
 [**DNAme**](https://github.com/amitjavilaventura/DNAme): shiny app designed for learning purposes that converts a word to a DNA sequence.
 
-[**DNAapp**](https://github.com/amitjavilaventura/DNApp): simple shiny app with several DNA-related tools.
 
-
-### Miscellaneous
+#### Miscellaneous
 
 [**Custom R functions**](https://github.com/amitjavilaventura/custom-R-functions): simple R functions to solve diverse problems I am finding every day.
 
