@@ -13,25 +13,24 @@ Master's thesis student</p>
 
 ---
 
-<p style='text-align: justify;'>In the context of my master's thesis (*MSc in Bioinformatics & Biostatsistics*), and under the suprevision of [Dr. Izaskun Mallona](https://imallona.bitbucket.io/), I decided to unravel the *ignorome* of colon cancer. The ignorome, defined by [Pandey *et al*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0088889), consists in the genes that can be important in the biological context of a tissue or disease, but that haven't been well studied or related to that context because of publication biases or due to other reasons.</p>
+In the context of my master's thesis (*MSc in Bioinformatics & Biostatsistics*), and under the suprevision of [Dr. Izaskun Mallona](https://imallona.bitbucket.io/), I decided to unravel the *ignorome* of colon cancer. The ignorome, defined by [Pandey *et al*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0088889), consists in the genes that can be important in the biological context of a tissue or disease, but that haven't been well studied or related to that context because of publication biases or due to other reasons (see [Stoeger *et al*](https://doi.org/10.1371/journal.pbio.2006643)).
 
 <!--
 ---
 
-<span style="text-decoration:underline">My contribution to this research was:</span>
+<ins>My contribution to this research was:</ins>
 
-<p align='justify'>
-* Analysis of the colon adenocarcinoma-related ignorome.
-</p>
+* Build the colon cancer-related ignorome gens: analysis of microarray data from colon cancer and normal colon to define a list of genes putatively involved in colon cancer and linkage of that list to publications to define the ones that do not have any colon-related publication.
 
-
----
-
-<span style="text-decoration:underline">Master's thesis title:</span>
 
 
 ---
 
-<span style="text-decoration:underline">Related publications:</span>
+<ins>Master's thesis title:</ins>
+
+
+---
+
+<ins>Related publications:</ins>
 -->
 

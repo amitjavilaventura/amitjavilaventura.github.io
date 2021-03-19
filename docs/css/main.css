@@ -25,6 +25,10 @@ img {
     text-align: center;
 }
 
+p { 
+  text-align: justify;
+}
+
 /* Buttons */
 button {
   background-color: transparent;
@@ -138,4 +142,5 @@ a:hover {
 
 footer {
     border-bottom: var(--border-width) solid var(--accent);
+    text-align: center;
 }
