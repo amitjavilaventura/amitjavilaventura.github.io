@@ -29,6 +29,14 @@ p {
   text-align: justify;
 }
 
+strong {
+  font-weight: 900;
+}
+
+b {
+  font-weight: 900;
+}
+
 /* Buttons */
 button {
   background-color: transparent;

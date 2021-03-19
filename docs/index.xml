@@ -151,7 +151,7 @@ The blog is entirely in catalan and is focussed to communicate general Biology k
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://amitjavilaventura.github.io/code/</guid>
-      <description>p{text-align: justify;}  Snakemake ATACseq Snakemake: simple Snakemake pipeline for ATAC-seq data processing and analyses used in Pasini’s lab. ongoing
+      <description>Snakemake ATACseq Snakemake: simple Snakemake pipeline for ATAC-seq data processing and analyses used in Pasini’s lab. ongoing
  R Packages crhomHMMviewR: ggplot2-based functions that draw heatmaps from ChromHMM output data.
  Shiny apps DPomics: shiny app designed to visualize omics data from the Pasini Lab (RNA-seq and ChIP-seq). ongoing
 DNAapp: simple shiny app with several DNA-related tools. ongoing
@@ -164,7 +164,8 @@ DNAme: shiny app designed for learning purposes that converts a word to a DNA se
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://amitjavilaventura.github.io/publications/</guid>
-      <description>  Journal articles Begley V et al (2020). Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration. RNA Biology. doi: 10.1080/15476286.2020.1845504. **Pre prints** ### **Posters** --  </description>
+      <description>  Journal articles Begley V et al (2020). Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration. RNA Biology. doi: 10.1080/15476286.2020.1845504.
+**Pre prints** ### **Posters** --  </description>
     </item>
     
   </channel>
