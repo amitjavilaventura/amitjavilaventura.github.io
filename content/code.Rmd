@@ -35,3 +35,7 @@ description: "Repositories of code I developed or contributed to"
 [**Custom R functions**](https://github.com/amitjavilaventura/custom-R-functions): simple R functions to solve diverse problems I am finding every day.
 
 ---
+
+### <ins>**Other**</ins>
+
+[**Docker files**](https://github.com/amitjavilaventura/Dockerfiles) containing the code to run some of my code.
