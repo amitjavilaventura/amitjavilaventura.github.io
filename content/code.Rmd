@@ -38,4 +38,4 @@ description: "Repositories of code I developed or contributed to"
 
 ### <ins>**Other**</ins>
 
-[**Docker files**](https://github.com/amitjavilaventura/Dockerfiles) containing the code to run some of my code.
+[**Docker files**](https://github.com/amitjavilaventura/Dockerfiles) with software needed to run some of my code.
