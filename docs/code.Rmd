@@ -25,7 +25,7 @@ description: "Repositories of code I developed or contributed to"
 
 <a target="_blank" href="https://github.com/amitjavilaventura/DPomics">**DPomics**</a>: shiny app designed to visualize omics data from the Pasini Lab (RNA-seq and ChIP-seq). *ongoing*
 
-<a target="_blank" href="https://github.com/amitjavilaventura/DNAapp">**DNAapp**</a>: simple shiny app with several DNA-related tools. *ongoing*
+<a target="_blank" href="https://github.com/amitjavilaventura/DNApp">**DNApp**</a>: simple shiny app with several DNA-related tools. *ongoing*
 
 <a target="_blank" href="https://github.com/amitjavilaventura/DNAme">**DNAme**</a>: shiny app designed for learning purposes that converts a word to a DNA sequence.
 
