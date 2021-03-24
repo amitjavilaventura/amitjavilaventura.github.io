@@ -19,23 +19,23 @@ description: "Repositories of code I developed or contributed to"
 
 #### **Packages**
 
-[**crhomHMMviewR**](https://github.com/amitjavilaventura/chromHMMviewR): ggplot2-based functions that draw heatmaps from ChromHMM output data.
+<a target="_blank" href="https://github.com/amitjavilaventura/chromHMMviewR">**crhomHMMviewR**</a>:ggplot2-based functions that draw heatmaps from ChromHMM output data.
 
 #### **Shiny apps**
 
-[**DPomics**](https://github.com/amitjavilaventura/DPomics): shiny app designed to visualize omics data from the Pasini Lab (RNA-seq and ChIP-seq). *ongoing*
+<a target="_blank" href="https://github.com/amitjavilaventura/DPomics">**DPomics**</a>: shiny app designed to visualize omics data from the Pasini Lab (RNA-seq and ChIP-seq). *ongoing*
 
-[**DNAapp**](https://github.com/amitjavilaventura/DNApp): simple shiny app with several DNA-related tools. *ongoing*
+<a target="_blank" href="https://github.com/amitjavilaventura/DNAapp">**DNAapp**</a>: simple shiny app with several DNA-related tools. *ongoing*
 
-[**DNAme**](https://github.com/amitjavilaventura/DNAme): shiny app designed for learning purposes that converts a word to a DNA sequence.
+<a target="_blank" href="https://github.com/amitjavilaventura/DNAme">**DNAme**</a>: shiny app designed for learning purposes that converts a word to a DNA sequence.
 
 
 #### **Miscellaneous**
 
-[**Custom R functions**](https://github.com/amitjavilaventura/custom-R-functions): simple R functions to solve diverse problems I am finding every day.
+<a target="_blank" href="https://github.com/amitjavilaventura/custom-R-functions">**Custom R functions**</a>: simple R functions to solve diverse problems I am finding every day.
 
 ---
 
 ### <ins>**Other**</ins>
 
-[**Docker files**](https://github.com/amitjavilaventura/Dockerfiles) with software needed to run some of my code.
+<a target="_blank" href="https://github.com/amitjavilaventura/Dockerfiles">**Docker files**</a> with software needed to run some of my code.
