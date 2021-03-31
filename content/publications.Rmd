@@ -6,6 +6,13 @@ description: "Selected publications where I appear as an author"
 
 ---
 
+<div align="left">
+<a href="https://orcid.org/0000-0002-0337-1929"> <img align="left" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" /></a>
+</div>
+
+<br>
+
+
 ### <ins>**Journal articles**</ins>
 
 Begley V *et al* (2020). **Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration**. *RNA Biology*. [doi: 10.1080/15476286.2020.1845504](https://doi.org/10.1080/15476286.2020.1845504).
