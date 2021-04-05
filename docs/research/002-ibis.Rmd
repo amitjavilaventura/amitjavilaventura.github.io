@@ -15,7 +15,7 @@ In the context of the master's thesis (*Universidad de Sevilla*), under the supe
 
 ---
 
-<ins>My contribution to this research was:</ins>
+<ins>My contributions to this research were:</ins>
 
 * Bioinformatic analysis of the MNase-seq data. <br>
 * MNase-qPCR validation, including the yeast culture, the MNase-driven DNA digestion, the design of the primers and the following qPCRs.

@@ -18,7 +18,11 @@ In the context of my master's thesis (*MSc in Bioinformatics & Biostatsistics*),
 <!--
 ---
 
-<ins>My contribution to this research was:</ins>
+<ins>My contributions to this research were:</ins>
+
+* Analysis of microarray expression data from cancerous and normal colon samples (*data from *EO*).
+* Build a list of CRC-specific genes and link them to publications using strinDB.
+* Analysis of the interactivity of these genes.
 
 * Build the colon cancer-related ignorome gens: analysis of microarray data from colon cancer and normal colon to define a list of genes putatively involved in colon cancer and linkage of that list to publications to define the ones that do not have any colon-related publication.
 
@@ -32,5 +36,6 @@ In the context of my master's thesis (*MSc in Bioinformatics & Biostatsistics*),
 ---
 
 <ins>Related publications:</ins>
+
 -->
 
