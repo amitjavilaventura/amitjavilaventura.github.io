@@ -43,8 +43,8 @@ Look at my complete CV here.</description>
       
       <guid>https://amitjavilaventura.github.io/research/003-ieo/</guid>
       <description>Pasini’s lab, Istituto Europeo di Oncologia July 2019 - Present
-Bioinformatician and PhD candidate In the context of my PhD and under the supervision of Dr. Diego Pasini, I am investigating several molecular signaling pathways and epigenetic mechanisms underlying cellular differentiation and oncogenesis.
- My contributions to this research were:   Comparison of different ATAC-seq peak callers.  Comparison of different sequencing depths in RNA-seq.  Development of an ATAC-seq pipeline to run using Snakemake.</description>
+Bioinformatician During my stage in Dr. Diego Pasini’s lab, I am investigating several molecular signaling pathways and epigenetic mechanisms underlying cellular differentiation and oncogenesis.
+ My contributions to this research were:   Comparison of different ATAC-seq peak callers.  Comparison of different sequencing depths in RNA-seq.  Development of an ATAC-seq pipeline to run using Snakemake. The code can be visualized here (still ongoing).</description>
     </item>
     
     <item>
@@ -153,7 +153,8 @@ The blog is entirely in catalan and is focussed to communicate general Biology k
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://amitjavilaventura.github.io/about/</guid>
-      <description>Academic career I begun my journey in science with a BSc in Biotechnology, during which I did a professional internship in a company dedicated to molecular and microbial analyses of food and water for pathogen detection and food forensics. I carried the bachelor’s thesis in the same company by analyzing the microbial composition of the illeal mucosa of colorectal cancer patients submitted to a colectomy and ileostomy in response to a butyrate treatment.</description>
+      <description>Research interests My research interests are mainly focused in the analysis of transcriptomics and epigenomics omics data related, as well as in software and pipeline development.
+ Academic career I begun my journey in science with a BSc in Biotechnology, during which I did a professional internship in a company dedicated to molecular and microbial analyses of food and water for pathogen detection and food forensics. I carried the bachelor’s thesis in the same company by analyzing the microbial composition of the illeal mucosa of colorectal cancer patients submitted to a colectomy and ileostomy in response to a butyrate treatment.</description>
     </item>
     
     <item>

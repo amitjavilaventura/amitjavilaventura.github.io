@@ -13,8 +13,8 @@
       
       <guid>https://amitjavilaventura.github.io/research/003-ieo/</guid>
       <description>Pasini’s lab, Istituto Europeo di Oncologia July 2019 - Present
-Bioinformatician and PhD candidate In the context of my PhD and under the supervision of Dr. Diego Pasini, I am investigating several molecular signaling pathways and epigenetic mechanisms underlying cellular differentiation and oncogenesis.
- My contributions to this research were:   Comparison of different ATAC-seq peak callers.  Comparison of different sequencing depths in RNA-seq.  Development of an ATAC-seq pipeline to run using Snakemake.</description>
+Bioinformatician During my stage in Dr. Diego Pasini’s lab, I am investigating several molecular signaling pathways and epigenetic mechanisms underlying cellular differentiation and oncogenesis.
+ My contributions to this research were:   Comparison of different ATAC-seq peak callers.  Comparison of different sequencing depths in RNA-seq.  Development of an ATAC-seq pipeline to run using Snakemake. The code can be visualized here (still ongoing).</description>
     </item>
     
     <item>
