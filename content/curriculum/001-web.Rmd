@@ -1,6 +1,0 @@
----
-title: "Web CV"
-description: "Web version of my CV"
-weight: 1
-link: https://amitjavilaventura.github.io/CVs/index.html
----
