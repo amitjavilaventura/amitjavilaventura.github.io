@@ -13,7 +13,7 @@
       <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://amitjavilaventura.github.io/posts/007-chromhmmviewr/</guid>
-      <description>Adrià Mitjavila on March 23, 2021  Look at the source code here.
+      <description>p {text-align: justify;}   Adrià Mitjavila on March 23, 2021  Look at the source code here.
 Goal chromHMMviewR is an R package to visualize data from ChromHMM.
 After running chromHMM, I always had problems to integrate the results in my reports, so I started developping some functions to visualize the heatmaps that chromHMM shows you, but using ggplot2 instead. Finally, in order to practice the creation of R packages, I decided to follow these guides to turn the functions into a package.</description>
     </item>
@@ -36,7 +36,7 @@ It has been made in order to be easy for the wetlab members to use it, hence I w
       <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://amitjavilaventura.github.io/posts/005-perillbiologic/</guid>
-      <description>I have recently started a blog named Perill Biològic.
+      <description>Adrià Mitjavila on February 10, 2021  I have recently started a blog named Perill Biològic.
 The blog is entirely in catalan and is focussed to communicate general Biology knowledge to society.</description>
     </item>
     
@@ -46,7 +46,7 @@ The blog is entirely in catalan and is focussed to communicate general Biology k
       <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://amitjavilaventura.github.io/posts/004-xrn1_paper/</guid>
-      <description>Figure 1: Figure 1 of the article showing the model of how Xrn1 and other RNA decay factors work. Source: Begley V et al (2020). Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration. RNA Biology. doi: 10.1080/15476286.2020.1845504.  If you want to know more about it, read my post in BioBit. The article can be found at:  Begley V et al (2020).</description>
+      <description>Adrià Mitjavila on December 7, 2020   Figure 1: Figure 1 of the article showing the model of how Xrn1 and other RNA decay factors work. Source: Begley V et al (2020). Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration. RNA Biology. doi: 10.1080/15476286.2020.1845504.  If you want to know more about it, read my post in BioBit.</description>
     </item>
     
     <item>
@@ -55,7 +55,7 @@ The blog is entirely in catalan and is focussed to communicate general Biology k
       <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://amitjavilaventura.github.io/posts/003-dname/</guid>
-      <description>What is DNAme? DNAme is an application for teaching/learning purposes which converts a word to a DNA sequence. It has some theory to understand the processes underlying this conversion, but this theroy must not be used with teaching puroposes because it may have some inaccuracies. 
+      <description>Adrià Mitjavila on November 24, 2020  What is DNAme? DNAme is an application for teaching/learning purposes which converts a word to a DNA sequence. It has some theory to understand the processes underlying this conversion, but this theroy must not be used with teaching puroposes because it may have some inaccuracies. 
  How DNAme works? Summary DNAme was designed using R/Shiny that takes your name as a sequence of one-letter aminoacids and converts them to DNA/mRNA by looking for the codon that codes for each aminoacid.</description>
     </item>
     

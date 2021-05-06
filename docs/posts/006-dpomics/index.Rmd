@@ -4,6 +4,10 @@ description: "A ShinyApp to visualize omics data from my lab."
 date: 2021-03-05
 ---
 
+<style>
+    p    {text-align: justify;}
+</style>
+
 <center>
 <strong><a href="https://amitjavilaventura.github.io" target="_blank">Adrià Mitjavila</a></strong> on <em>March 5, 2021</em>
 </center>

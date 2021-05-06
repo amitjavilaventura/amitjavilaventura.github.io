@@ -4,6 +4,12 @@ description: "Discovering Bioinformatics"
 date: 2020-11-20
 ---
 
+<center>
+<strong><a href="https://amitjavilaventura.github.io" target="_blank">Adrià Mitjavila</a></strong> on <em>November 20, 2020</em>
+</center>
+
+---
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```

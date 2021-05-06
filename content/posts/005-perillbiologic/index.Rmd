@@ -4,6 +4,13 @@ description: "Biologia per a tots i en català"
 date: 2021-02-10
 ---
 
+<center>
+<strong><a href="https://amitjavilaventura.github.io" target="_blank">Adrià Mitjavila</a></strong> on <em>February 10, 2021</em>
+</center>
+
+---
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, fig.align = "center")
 ```

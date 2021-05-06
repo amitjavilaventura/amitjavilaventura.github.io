@@ -4,11 +4,16 @@ description: "A Shiny app that converts your name to DNA"
 date: 2020-11-24
 ---
 
-<!--
+<center>
+<strong><a href="https://amitjavilaventura.github.io" target="_blank">Adrià Mitjavila</a></strong> on <em>November 24, 2020</em>
+</center>
+
+---
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, error = FALSE, message = FALSE, warning = FALSE, fig.align = "center")
 ```
--->
 
 ## What is DNAme? 
 
