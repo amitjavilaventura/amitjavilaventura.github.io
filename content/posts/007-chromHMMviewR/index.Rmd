@@ -61,7 +61,9 @@ If you use this package, please cite this repository and give it an star.
 
 ## More
 
-Go to the ChromHMM official website to get more information about how to use ChromHMM: <http://compbio.mit.edu/ChromHMM/>.
+Go to the [ChromHMM official website](http://compbio.mit.edu/ChromHMM/) to get more information about how to use ChromHMM.
+
+ChromHMM paper: Ernst J, Kellis M. (2012) **ChromHMM: automating chromatin-state discovery and characterization**. *Nature Methods*. doi: https://doi.org/10.1038/nmeth.1906
 
 ---
 

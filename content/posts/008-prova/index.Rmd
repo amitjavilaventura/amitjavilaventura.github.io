@@ -1,0 +1,24 @@
+---
+title: "prova"
+description: "ggplot2-based functions that draw heatmaps from ChromHMM output data"
+date: 2021-03-23
+---
+
+<style>
+    p {text-align: justify;}
+</style>
+
+<center>
+<strong><a href="https://amitjavilaventura.github.io" target="_blank">Adrià Mitjavila</a></strong> on <em>March 23, 2021</em>
+</center>
+
+---
+
+
+
+---
+
+<center>
+![](https://amitjavilaventura.github.io/chromHMMviewR/logo.png)
+</center>
+
