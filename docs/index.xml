@@ -50,10 +50,10 @@ Internship and Bachelor’s thesis student In the context of my bachelor’s the
     
     <item>
       <title>chromHMMviewR</title>
-      <link>https://amitjavilaventura.github.io/posts/007-chromhmmviewr_/</link>
+      <link>https://amitjavilaventura.github.io/posts/007-chromhmmviewr/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://amitjavilaventura.github.io/posts/007-chromhmmviewr_/</guid>
+      <guid>https://amitjavilaventura.github.io/posts/007-chromhmmviewr/</guid>
       <description>p {text-align: justify;}   Adrià Mitjavila on March 23, 2021  Look at the source code here.
 Look at the documentation here.
 Goal chromHMMviewR is an R package to visualize data from ChromHMM.
