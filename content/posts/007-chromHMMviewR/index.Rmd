@@ -65,5 +65,5 @@ Go to the ChromHMM official website to get more information about how to use Chr
 ---
 
 <center>
-![](logo.png)
+![](https://amitjavilaventura.github.io/chromHMMviewR/logo.png)
 </center>
