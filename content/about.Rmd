@@ -5,9 +5,9 @@ description: "Some details about my life"
 
 ---
 
-### Research interests
+### Interests
 
-My research interests are mainly focused in the analysis of transcriptomics and epigenomics omics data related, as well as in software and pipeline development. 
+My interests are mainly focused in the analysis of transcriptomics and epigenomics omics data related, as well as in software and pipeline development. Moreover I declare myself as an R and R Markdown lover, but I am in an open relationship with them, so I am open to learn and use other languages such as Bash and Python.
 
 ### Academic career
 
@@ -15,9 +15,9 @@ I begun my journey in science with a BSc in Biotechnology, during which I did a 
 
 After graduating, I studied a MSc in Molecular Genetics, where I initiated to bioinformatics. During the thesis, I spent the whole year studying the role of the protein Xrn1 in nucleosome architecture and gene transcription in budding yeast. 
 
-Then, I enrolled on an online MSc in Bioinformatics in which I am learning the basic tools and statistical knowledge behind the analyses of large amounts of biological data. 
+Then, I enrolled on a MSc in Bioinformatics in which I am learning the basic tools and statistical knowledge behind the analyses of large amounts of biological data. 
 
-Recently, I moved to Milan where I am working as a bioinformatician and collaborating in several projects studying epigenetics mechanisms and signaling pathways underlying cell differentiation and oncogenesis.
+Recently, I moved to Milan where I am working as a bioinformatician and collaborating in several projects studying epigenetic mechanisms and signaling pathways underlying cell differentiation and oncogenesis.
 
 <!--
 
@@ -27,7 +27,7 @@ Recently, I moved to Milan where I am working as a bioinformatician and collabor
 
 ### Outside of academia
 
-As a plus, I have been an active member from the *Associació de Biotecnòlegs de Catalunya (ASBTEC)* -an association dedicated to promotion of the biotechnologists to Catalan society- since 2018 and board member since 2019, collaborating in the organization of diverse Biotechnology-related events (topics: job search, entrepreneurship, divulgation, research...) and leading the team in charge of communication and divulgation through social networks and our webpage.
+As a plus, I have been an active member from the [*Associació de Biotecnòlegs de Catalunya (ASBTEC)*](https://asbtec.cat) -an association dedicated to promotion of the biotechnologists to Catalan society- since 2018 and board member since 2019, collaborating in the organization of diverse Biotechnology-related events (e.g. job search, entrepreneurship, divulgation, different research topics...) and leading the team in charge of communication and divulgation through social networks, our webpage and other activities.
 
 
 <br>
@@ -61,4 +61,4 @@ I started rowing in 2007 and my first international competition was *La Coupe de
 </center>
 <br>
 
-After many years training at my highest level, I left elite rowing in 2019, after being 7^th^ in the European Rowing Championship, just before starting the PhD. I haven't competed since then, but one cannot leave rowing that easily and I pretend to compete again at a more local level.
+After many years training at my highest level, I left elite rowing in 2019, after being 7^th^ in the European Rowing Championship, just before moving to Milan to work as a bioinformatician. I haven't competed since then, but one cannot leave rowing that easily and I pretend to compete again at a more local level.
