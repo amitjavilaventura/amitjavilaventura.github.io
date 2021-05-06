@@ -71,4 +71,3 @@ ChromHMM paper: Ernst J, Kellis M. (2012) **ChromHMM: automating chromatin-state
 <center>
 ![](https://amitjavilaventura.github.io/chromHMMviewR/logo.png)
 </center>
-
