@@ -7,7 +7,9 @@ description: "Some details about my life"
 
 ### Interests
 
-My interests are mainly focused in the analysis of transcriptomics and epigenomics omics data related, as well as in software and pipeline development. Moreover I declare myself as an R and R Markdown lover, but I am in an open relationship with them, so I am open to learn and use other languages such as Bash and Python.
+My interests are mainly focused in the analysis of transcriptomics and epigenomics omics data related, as well as in software and pipeline development. 
+
+On the other hand, I declare myself as an R and R Markdown lover, but I am in an open relationship with them, so I am open to learn and use other languages such as Bash and Python.
 
 ### Academic career
 
