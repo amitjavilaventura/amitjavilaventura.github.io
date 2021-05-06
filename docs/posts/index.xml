@@ -9,10 +9,10 @@
     <lastBuildDate>Tue, 23 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://amitjavilaventura.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>chromHMMviewR</title>
-      <link>https://amitjavilaventura.github.io/posts/007-chromhmmviewr/</link>
+      <link>https://amitjavilaventura.github.io/posts/007-chromhmmviewr_/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://amitjavilaventura.github.io/posts/007-chromhmmviewr/</guid>
+      <guid>https://amitjavilaventura.github.io/posts/007-chromhmmviewr_/</guid>
       <description>p {text-align: justify;}   Adrià Mitjavila on March 23, 2021  Look at the source code here.
 Look at the documentation here.
 Goal chromHMMviewR is an R package to visualize data from ChromHMM.
