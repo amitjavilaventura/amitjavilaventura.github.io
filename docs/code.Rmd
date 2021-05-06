@@ -3,6 +3,10 @@ title: "Code development"
 description: "Repositories of code I developed or contributed to"
 ---
 
+<style>
+    p {text-align: justify;}
+</style>
+
 ---
 
 ### <ins>**Snakemake**</ins>

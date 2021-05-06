@@ -4,6 +4,10 @@ description: "Intestinal Microbial Ecology"
 weight: 10
 ---
 
+<style>
+    p {text-align: justify;}
+</style>
+
 ## Intestinal microbial ecology, <a href="https://www.microbial-systems.com/"  target="_blank"><em>Microbial, S.L.</em></a>
 
 <p style='font-size:15xpx;color:gray'><em style='color:black;'>September 2016 - June 2017</em><br>

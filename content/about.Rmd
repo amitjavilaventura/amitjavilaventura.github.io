@@ -5,6 +5,10 @@ description: "Some details about my life"
 
 ---
 
+<style>
+    p {text-align: justify;}
+</style>
+
 ### Interests
 
 My interests are mainly focused in the analysis of transcriptomics and epigenomics omics data related, as well as in software and pipeline development. 

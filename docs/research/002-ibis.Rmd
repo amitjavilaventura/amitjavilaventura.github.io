@@ -4,6 +4,10 @@ description: "Gene Expression & Bioinformatics"
 weight: 9
 ---
 
+<style>
+    p {text-align: justify;}
+</style>
+
 ## <a href="https://www.ibis-sevilla.es/investigacion/oncohematologia-y-genetica/expresion-genica/chavez-de-diego-sebastian.aspx" target="_blank">Gene expression lab</a>, <a href="https://www.ibis-sevilla.es/"  target="_blank"><i>Instituto de Biomedicina de Sevilla</i></a>
 
 <p style='font-size:15px;color:gray'><em style='color:black;'>*September 2017 - October 2018*</em><br>

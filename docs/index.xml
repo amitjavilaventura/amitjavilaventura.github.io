@@ -13,9 +13,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://amitjavilaventura.github.io/research/003-ieo/</guid>
-      <description>Pasini’s lab, Istituto Europeo di Oncologia July 2019 - Present
+      <description>p {text-align: justify;}  Pasini’s lab, Istituto Europeo di Oncologia July 2019 - Present
 Bioinformatician During my stage in Dr. Diego Pasini’s lab, I am investigating several molecular signaling pathways and epigenetic mechanisms underlying cellular differentiation and oncogenesis.
- My contributions to this research were:   Comparison of different ATAC-seq peak callers.  Comparison of different sequencing depths in RNA-seq.  Development of an ATAC-seq pipeline to run using Snakemake. The code can be visualized here (still ongoing).</description>
+ My contributions to this research were:   Comparison of different ATAC-seq peak callers.  Comparison of different sequencing depths in RNA-seq.  Development of an ATAC-seq pipeline to run using Snakemake.</description>
     </item>
     
     <item>
@@ -24,7 +24,7 @@ Bioinformatician During my stage in Dr. Diego Pasini’s lab, I am investigatin
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://amitjavilaventura.github.io/research/004-uoc_tfm/</guid>
-      <description>Computational Biology, Universitat Oberta de Catalunya March 2021 - Present
+      <description>p {text-align: justify;}  Computational Biology, Universitat Oberta de Catalunya March 2021 - Present
 Master’s thesis student In the context of my master’s thesis (MSc in Bioinformatics &amp;amp; Biostatsistics), and under the suprevision of Dr. Izaskun Mallona, I decided to unravel the ignorome of colon cancer. The ignorome, defined by Pandey et al, consists in the genes that can be important in the biological context of a tissue or disease, but that haven’t been well studied or related to that context because of publication biases or due to other reasons (see Stoeger et al).</description>
     </item>
     
@@ -34,7 +34,7 @@ Master’s thesis student In the context of my master’s thesis (MSc in Bioinfo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://amitjavilaventura.github.io/research/002-ibis/</guid>
-      <description>Gene expression lab, Instituto de Biomedicina de Sevilla September 2017 - October 2018
+      <description>p {text-align: justify;}  Gene expression lab, Instituto de Biomedicina de Sevilla September 2017 - October 2018
 Master’s thesis student and research assistant In the context of the master’s thesis (MSc in Molecular Genetics &amp;amp; Biotechnology), under the supervision of Dr. Sebastián Chávez de Diego and Dr. Gabriel Gutierrez Pozo and within Dr. Victoria Begley’s PhD project, I started studying Xrn1, a protein involved in the degradation of mRNA, and it’s role in the nucleosome localization and transcription in Saccharomyces cerevisiae.</description>
     </item>
     
@@ -44,8 +44,8 @@ Master’s thesis student and research assistant In the context of the master’
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://amitjavilaventura.github.io/research/001-microbial/</guid>
-      <description>Intestinal microbial ecology, Microbial, S.L. September 2016 - June 2017
-Internship and Bachelor’s thesis student In the context of the bachelor’s thesis (BSc in Biotechnology) and under the supervision of Prof. Jesús García-Gil, I studied the diversity of the ileal mucosa-related microbiota of colorectal cancer patients submitted to an ileostomy and its changes after a butyrate treatment. Using DNA extracted from human biopsies of ileal mucosa, we performed qPCR and high-throughput sequencing followed by a SPSS-based statistical analysis to search for the differences between the butyrate-treated, placebo-treated and untreated groups, and we found that some healthy-related butyrate-producing bacteria increased in proportion after the butyrate-treated, but not in the other groups.</description>
+      <description>p {text-align: justify;}  Intestinal microbial ecology, Microbial, S.L. September 2016 - June 2017
+Internship and Bachelor’s thesis student In the context of my bachelor’s thesis (BSc in Biotechnology) and under the supervision of Prof. Jesús García-Gil, I studied the diversity of the ileal mucosa-related microbiota of colorectal cancer patients submitted to an ileostomy and its changes after a butyrate treatment. Using DNA extracted from human biopsies of ileal mucosa, we performed qPCR and high-throughput sequencing followed by a SPSS-based statistical analysis to search for the differences between the butyrate-treated, placebo-treated and untreated groups, and we found that some healthy-related butyrate-producing bacteria increased in proportion after the butyrate-treated, but not in the other groups.</description>
     </item>
     
     <item>
@@ -55,6 +55,7 @@ Internship and Bachelor’s thesis student In the context of the bachelor’s th
       
       <guid>https://amitjavilaventura.github.io/posts/007-chromhmmviewr/</guid>
       <description>p {text-align: justify;}   Adrià Mitjavila on March 23, 2021  Look at the source code here.
+Look at the documentation here.
 Goal chromHMMviewR is an R package to visualize data from ChromHMM.
 After running chromHMM, I always had problems to integrate the results in my reports, so I started developping some functions to visualize the heatmaps that chromHMM shows you, but using ggplot2 instead. Finally, in order to practice the creation of R packages, I decided to follow these guides to turn the functions into a package.</description>
     </item>

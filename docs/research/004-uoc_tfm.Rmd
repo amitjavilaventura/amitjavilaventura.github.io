@@ -5,6 +5,10 @@ weight: 8
 draft: false
 ---
 
+<style>
+    p {text-align: justify;}
+</style>
+
 ## Computational Biology, <a href="https://estudis.uoc.edu/ca/masters-universitaris/bioinformatica-bioestadistica/" target="_blank"><em>Universitat Oberta de Catalunya</em></a>
 
 
