@@ -11,6 +11,8 @@ My interests are mainly focused in the analysis of transcriptomics and epigenomi
 
 On the other hand, I declare myself as an R and R Markdown lover, but I am in an open relationship with them, so I am open to learn and use other languages such as Bash and Python.
 
+***
+
 ### Academic career
 
 I begun my journey in science with a BSc in Biotechnology, during which I did a professional internship in a company dedicated to molecular and microbial analyses of food and water for pathogen detection and food forensics. I carried the bachelor's thesis in the same company by analyzing the microbial composition of the illeal mucosa of colorectal cancer patients submitted to a colectomy and ileostomy in response to a butyrate treatment. 
@@ -20,10 +22,6 @@ After graduating, I studied a MSc in Molecular Genetics, where I initiated to bi
 Then, I enrolled on a MSc in Bioinformatics in which I am learning the basic tools and statistical knowledge behind the analyses of large amounts of biological data. 
 
 Recently, I moved to Milan where I am working as a bioinformatician and collaborating in several projects studying epigenetic mechanisms and signaling pathways underlying cell differentiation and oncogenesis.
-
-<!--
-
--->
 
 ***
 
@@ -40,9 +38,7 @@ As a plus, I have been an active member from the [*Associació de Biotecnòlegs 
 
 Furthermore, one of my hobbies is communicating science and for this reason I have recently started [BioBit](https://biobit.netlify.app), a blog dedicated to spread Bioinformatics, and [Perill Biologic](https://perillbiologic.netlify.app), another blog to communicate Biology in catalan. 
 
-
 <br>
-
 <center>
 ![BioBit | Perill Biològic](/images/biobit_perillbiologic.png "BioBit | Perill Biològic"){ width=700 }
 </center>
