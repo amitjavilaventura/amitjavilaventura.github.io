@@ -36,7 +36,7 @@ After running chromHMM, I always had problems to integrate the results in my rep
 
 To install `chromHMMveiwR`, you have to run:
 
-```{r eval = FALSE, echo = T} 
+```
 # install the devtools package from CRAN (only if you don't have it)
 install.packages("devtools")
 
