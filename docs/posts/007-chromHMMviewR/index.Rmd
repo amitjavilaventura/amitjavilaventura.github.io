@@ -15,7 +15,7 @@ date: 2021-03-23
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE, fig.align = "center")
+knitr::opts_chunk$set(echo = FALSE)
 ```
 
 Look at the source code [here](https://github.com/amitjavilaventura/chromHMMviewR).
@@ -68,3 +68,4 @@ Go to the ChromHMM official website to get more information about how to use Chr
 <center>
 ![](https://amitjavilaventura.github.io/chromHMMviewR/logo.png)
 </center>
+
