@@ -23,8 +23,8 @@ During my stage in Dr. Diego Pasini's lab, I am investigating several molecular 
 
 * Comparison of different ATAC-seq peak callers. <br>
 * Comparison of different sequencing depths in RNA-seq. <br>
-* Development of an ATAC-seq pipeline to run using Snakemake. The code can be visualized [here](https://github.com/amitjavilaventura/ATACseq-snakemake) (still ongoing). <br>
-* Development of a ShinyApp to allow wetlab members to visualize the omics produced in the lab in an easy way. The code can be visualized [here](https://github.com/amitjavilaventura/DPomics). <br>
+* Development of an ATAC-seq pipeline to run using Snakemake. The code can be visualized [here](https://github.com/amitjavilaventura/ATACseq-snakemake){target="_blank"} (still ongoing). <br>
+* Development of a ShinyApp to allow wetlab members to visualize the omics produced in the lab in an easy way. The code can be visualized [here](https://github.com/amitjavilaventura/DPomics){target="_blank"} (still ongoing). <br>
 * Analysis of bulk RNA-seq, ChIP-seq and ATAC-seq. <br>
 
 
