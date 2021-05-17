@@ -72,5 +72,5 @@ menu:
       url: /code/
       weight: 6
     - name: Curriculum
-      url: https://amitjavilaventura.github.io/CVs/cv_pdf_long.html
+      url: https://amitjavilaventura.github.io/CVs/
       weight: 7
