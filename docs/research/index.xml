@@ -7,12 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://amitjavilaventura.github.io/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Institut Josep Carreras</title>
+      <link>https://amitjavilaventura.github.io/research/005-ijc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/research/005-ijc/</guid>
+      <description>   p {text-align: justify;}  Vavouri’s lab, Institut Josep Carreras August 2021 - Present
+Bioinformatician My contributions to this research were: * xxx. --- Related publications: --  </description>
+    </item>
+    
+    <item>
       <title>Istituto Europeo di Oncologia</title>
       <link>https://amitjavilaventura.github.io/research/003-ieo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://amitjavilaventura.github.io/research/003-ieo/</guid>
-      <description>p {text-align: justify;}  Pasini’s lab, Istituto Europeo di Oncologia July 2019 - Present
+      <description>p {text-align: justify;}  Pasini’s lab, Istituto Europeo di Oncologia July 2019 - July 2021
 Bioinformatician During my stage in Dr. Diego Pasini’s lab, I am investigating several molecular signaling pathways and epigenetic mechanisms underlying cellular differentiation and oncogenesis.
  My contributions to this research were:   Comparison of different ATAC-seq peak callers.  Comparison of different sequencing depths in RNA-seq.  Development of an ATAC-seq pipeline to run using Snakemake.</description>
     </item>

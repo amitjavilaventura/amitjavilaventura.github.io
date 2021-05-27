@@ -1,0 +1,34 @@
+---
+title: "Institut Josep Carreras"
+description: "Bioinformatics & Regulatory Genomics"
+weight: 6
+draft: false
+---
+
+<style>
+    p {text-align: justify;}
+</style>
+
+## <a href="https://www.carrerasresearch.org/en/regulatory-genomics" target="_blank">Vavouri's lab</a>, <a href="https://www.carrerasresearch.org/en" target="_blank"><i>Institut Josep Carreras</i></a>
+
+
+<p style='font-size:15px;color:gray'><em style='color:black;'>*August 2021 - Present*</em><br>
+Bioinformatician</p>
+
+---
+
+<!--
+xxxx
+
+---
+
+<ins>My contributions to this research were:</ins>
+
+* xxx.
+
+---
+
+<ins>Related publications:</ins>
+
+-->
+
