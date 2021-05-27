@@ -1,6 +1,6 @@
 ---
 title: "Microbial. Sistemes i aplicacions analítiques, S.L."
-description: "Intestinal Microbial Ecology"
+description: "Molecular Microbiology"
 weight: 10
 ---
 
