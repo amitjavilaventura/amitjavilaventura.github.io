@@ -42,15 +42,18 @@ menu:
     - name: fab fa-bitbucket
       url: https://bitbucket.org/amitjavilaventura/
       weight: 4
+    - name: fab fa-orcid
+      url: https://orcid.org/0000-0002-0337-1929
+      weight: 5
     - name: fab fa-stack-overflow
       url: https://stackoverflow.com/users/14525301/adri%c3%a0-mitjavila-ventura
-      weight: 5
+      weight: 6
     - name: fab fa-linkedin
       url: https://www.linkedin.com/in/adria-mitjavila-ventura/
-      weight: 6
+      weight: 7
     - name: fab fa-twitter
       url: https://twitter.com/adriamitjavila/
-      weight: 7
+      weight: 9
 
   main:
     - name: Home
