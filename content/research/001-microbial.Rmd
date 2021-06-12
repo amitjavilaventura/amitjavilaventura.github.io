@@ -21,7 +21,7 @@ In the context of my bachelor's thesis (*BSc in Biotechnology*) and under the su
 
 
 * Performing the DNA extractions of the intestinal biopsies. <br>
-* Performing qPCR analyses to detect and quantify some of the crucial bacterial families and genders. <br>
+* Performing qPCR analyses to detect and quantify some of the crucial bacterial families and genera. <br>
 * Performing the SPSS-based statistical analysis for the high-throughput sequencing-derived data. <br>
 * Performing qPCR analyses to detect and quantify some of the species found to be increased in the sequencing data. <br>
 
