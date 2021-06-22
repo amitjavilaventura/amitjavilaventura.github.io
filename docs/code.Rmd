@@ -25,7 +25,7 @@ description: "Repositories of code I developed or contributed to"
 
 <a target="_blank" href="https://amitjavilaventura.github.io/chromHMMviewR/">**crhomHMMviewR**</a>: ggplot2-based functions that draw heatmaps from ChromHMM output data.
 
-<a target="_blank" href="https://amitjavilaventura.github.io/plotmics/">**plotmics**</a>: functions to visualize omics and sequencing data.
+<a target="_blank" href="https://amitjavilaventura.github.io/plotmics/">**plotmics**</a>: functions to visualize omics and sequencing data. *ongoing*
 
 #### **Shiny apps**
 
