@@ -176,9 +176,12 @@
 <div id="install-plotmics" class="section level2">
 <h2>Install <code>plotmics</code></h2>
 <p>To install <code>plotmics</code>, you have to run:</p>
-<pre><code>## Loading required package: devtools</code></pre>
-<pre><code>## Loading required package: usethis</code></pre>
-<pre><code>## Loading required package: plotmics</code></pre>
+<pre><code># install the devtools package from CRAN (only if you don&#39;t have it)
+if(!require(devtools)){ install.packages(&quot;devtools&quot;); library(devtools) }
+
+# install plotmics from the GitHub repository
+if(!require(plotmics)){ devtools::install_github(&quot;amitjavilaventura/plotmics&quot;) }</code></pre>
+<p>If you want to use <code>plotmics</code>, go to the <a href="https://amitjavilaventura.github.io/plotmics/">documentation</a> to see how to run each function.</p>
 <hr />
 </div>
 <div id="contributors" class="section level2">

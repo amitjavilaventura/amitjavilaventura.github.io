@@ -6,7 +6,7 @@
     <description>Recent content on Adrià Mitjavila Ventura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://amitjavilaventura.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://amitjavilaventura.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Institut Josep Carreras</title>
       <link>https://amitjavilaventura.github.io/research/005-ijc/</link>
@@ -59,6 +59,18 @@ Internship and Bachelor’s thesis student In the context of my bachelor’s the
     </item>
     
     <item>
+      <title>plotmics</title>
+      <link>https://amitjavilaventura.github.io/posts/008-plotmics/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/posts/008-plotmics/</guid>
+      <description>p {text-align: justify;}   Adrià Mitjavila on June 23, 2021  Look at the source code here.
+Look at the documentation here.
+plotmics is an R package to visualize omics and sequencing data in R. It has many functions to plot differnt kinds of omics data:
+ chromReads(): draws a ggplot2-based horizontal barplot with the number and the percentage of reads mapped to each chromosome. barDEGs(): draws a ggplot2-based horizontal barplot with the upregulated and downregulated genes coming from DESeq2.</description>
+    </item>
+    
+    <item>
       <title>chromHMMviewR</title>
       <link>https://amitjavilaventura.github.io/posts/007-chromhmmviewr_/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
@@ -68,18 +80,6 @@ Internship and Bachelor’s thesis student In the context of my bachelor’s the
 Look at the documentation here.
 Goal chromHMMviewR is an R package to visualize data from ChromHMM.
 After running chromHMM, I always had problems to integrate the results in my reports, so I started developping some functions to visualize the heatmaps that chromHMM shows you, but using ggplot2 instead. Finally, in order to practice the creation of R packages, I decided to follow these guides to turn the functions into a package.</description>
-    </item>
-    
-    <item>
-      <title>plotmics</title>
-      <link>https://amitjavilaventura.github.io/posts/008-plotmics/</link>
-      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://amitjavilaventura.github.io/posts/008-plotmics/</guid>
-      <description>p {text-align: justify;}   Adrià Mitjavila on June 23, 2021  Look at the source code here.
-Look at the documentation here.
-plotmics is an R package to visualize omics and sequencing data in R. It has many functions to plot differnt kinds of omics data:
- chromReads(): draws a ggplot2-based horizontal barplot with the number and the percentage of reads mapped to each chromosome. barDEGs(): draws a ggplot2-based horizontal barplot with the upregulated and downregulated genes coming from DESeq2.</description>
     </item>
     
     <item>

@@ -42,16 +42,15 @@ Look at the documentation [here](https://amitjavilaventura.github.io/plotmics/).
 
 To install `plotmics`, you have to run:
 
-```{r results=FALSE}
+```
 # install the devtools package from CRAN (only if you don't have it)
 if(!require(devtools)){ install.packages("devtools"); library(devtools) }
 
 # install plotmics from the GitHub repository
 if(!require(plotmics)){ devtools::install_github("amitjavilaventura/plotmics") }
-
-# load plotmics
-library(plotmics)
 ```
+
+If you want to use `plotmics`, go to the [documentation](https://amitjavilaventura.github.io/plotmics/) to see how to run each function.
 
 ---
 
