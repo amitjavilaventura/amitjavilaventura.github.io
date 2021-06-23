@@ -71,6 +71,18 @@ After running chromHMM, I always had problems to integrate the results in my rep
     </item>
     
     <item>
+      <title>plotmics</title>
+      <link>https://amitjavilaventura.github.io/posts/008-plotmics/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/posts/008-plotmics/</guid>
+      <description>p {text-align: justify;}   Adrià Mitjavila on June 23, 2021  Look at the source code here.
+Look at the documentation here.
+plotmics is an R package to visualize omics and sequencing data in R. It has many functions to plot differnt kinds of omics data:
+ chromReads(): draws a ggplot2-based horizontal barplot with the number and the percentage of reads mapped to each chromosome. barDEGs(): draws a ggplot2-based horizontal barplot with the upregulated and downregulated genes coming from DESeq2.</description>
+    </item>
+    
+    <item>
       <title>DPomics</title>
       <link>https://amitjavilaventura.github.io/posts/006-dpomics/</link>
       <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>

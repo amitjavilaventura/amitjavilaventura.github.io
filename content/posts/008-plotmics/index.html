@@ -1,0 +1,54 @@
+---
+title: "plotmics"
+description: "Visualize omics and sequancing data in R"
+date: 2021-03-23
+---
+
+<script src="{{< blogdown/postref >}}index_files/header-attrs/header-attrs.js"></script>
+
+
+<style>
+    p {text-align: justify;}
+</style>
+<center>
+<strong><a href="https://amitjavilaventura.github.io" target="_blank">Adrià Mitjavila</a></strong> on <em>June 23, 2021</em>
+</center>
+<hr />
+<p>Look at the source code <a href="https://github.com/amitjavilaventura/plotmics">here</a>.</p>
+<p>Look at the documentation <a href="https://amitjavilaventura.github.io/plotmics/">here</a>.</p>
+<hr />
+<p><em>plotmics</em> is an R package to visualize omics and sequencing data in R. It has many functions to plot differnt kinds of omics data:</p>
+<ul>
+<li><code>chromReads()</code>: draws a <code>ggplot2</code>-based horizontal barplot with the number and the percentage of reads mapped to each chromosome.</li>
+<li><code>barDEGs()</code>: draws a <code>ggplot2</code>-based horizontal barplot with the upregulated and downregulated genes coming from DESeq2.</li>
+<li><code>volcanoPlot()</code>: draws a <code>ggplot2</code>-based volcano plot with the DE data coming out from DESeq2.</li>
+<li><code>DEcompare()</code>: draws a <code>ggplot2</code>-based scatter plot comparing the Log2FCs of two different contrasts.</li>
+<li><code>barAnno()</code>: takes a list of modified outputs from <code>ChIPseeker::annotatePeak()</code>, computes the proportion of peaks in distal or promoter regions and draws a <code>ggplot2</code>-based barplot with the correseponding proportion for each sample.</li>
+<li><code>getVennCounts()</code>: helper function that calls <code>ChIPpeakAnno::makeVennDiagram()</code> to intersect different sets of peaks and returns the Venn counts and a list of the peaks present in each set of peaks.</li>
+<li><code>upsetPeaks()</code>: calls <code>getVennCounts()</code> and draws an UpSet plot using the Venn counts and the <code>UpSetR</code> package.</li>
+<li><code>ggUpsetPeaks()</code>: calls <code>getVennCounts()</code> and draws a <code>ggplot2</code>-based UpSet plot using the Venn counts.</li>
+<li><code>ggVennCounts()</code>: calls <code>getVennCounts()</code> and draws a Venn diagram using the package <code>ggvenn</code>.</li>
+</ul>
+<hr />
+<div id="install-plotmics" class="section level2">
+<h2>Install <code>plotmics</code></h2>
+<p>To install <code>plotmics</code>, you have to run:</p>
+<pre><code>## Loading required package: devtools</code></pre>
+<pre><code>## Loading required package: usethis</code></pre>
+<pre><code>## Loading required package: plotmics</code></pre>
+<hr />
+</div>
+<div id="contributors" class="section level2">
+<h2>Contributors</h2>
+<p>This package has been developed by <a href="https://amitjavilaventura.github.io">Adrià Mitjavila Ventura</a>, with some contributions from <a href="https://github.com/dfernandezperez">dfernandezperez</a></p>
+<p>If you want to contribute to this package, make a post in the issues section in this repository or fork this repository adding your code and do a pull request.</p>
+<hr />
+</div>
+<div id="cite" class="section level2">
+<h2>Cite</h2>
+<p>If you use this package, please cite <a href="https://github.com/amitjavilaventura/plotmics">this repository</a> and give it a star.</p>
+<hr />
+<center>
+<img src="https://raw.githubusercontent.com/amitjavilaventura/plotmics/main/plotmics.png" />
+</center>
+</div>
