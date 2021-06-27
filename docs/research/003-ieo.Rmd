@@ -15,15 +15,15 @@ Bioinformatician</p>
 
 ---
 
-During my stage in Dr. Diego Pasini's lab, I am investigating several molecular signaling pathways and epigenetic mechanisms underlying cellular differentiation and oncogenesis. 
+During my stage in Dr. Diego Pasini's lab, I investigateed several molecular signaling pathways and epigenetic mechanisms underlying cellular differentiation and oncogenesis. 
 
 ---
 
 <ins>My contributions to this research were:</ins>
 
 * Comparison of different ATAC-seq peak callers. <br>
-* Comparison of different sequencing depths in RNA-seq. <br>
-* Development of an ATAC-seq pipeline to run using Snakemake. The code can be visualized [here](https://github.com/amitjavilaventura/ATACseq-snakemake){target="_blank"} (still ongoing). <br>
+* Comparison of different sequencing depths in RNA-seq for differential expression analysis. <br>
+* Development of a Snakemake pipepline for ATAC-seq. The code can be visualized [here](https://github.com/amitjavilaventura/ATACseq-snakemake){target="_blank"} (still ongoing). <br>
 * Development of a ShinyApp to allow wetlab members to visualize the omics produced in the lab in an easy way. The code can be visualized [here](https://github.com/amitjavilaventura/DPomics){target="_blank"} (still ongoing). <br>
 * Analysis of bulk RNA-seq, ChIP-seq and ATAC-seq. <br>
 
