@@ -18,13 +18,20 @@ Bioinformatician</p>
 ---
 
 <!--
-xxxx
+Under the supervision of Dr. Tanya Vavouri, I am analizing small RNA-seq data in order to study PIWI-interacting RNAs (piRNAs), their biogenesis mechanisms and their conservation across species.
+-->
+
+<!--
+Under the supervision of Dr. Tanya Vavouri, I am analyzing smallRNA-seq data in order to study PIWI-interacting RNAs (piRNAs) biogenesis mechanisms and differences in the expression leveles of these RNAs both, intra-species and inter-species.
 
 ---
 
-<ins>My contributions to this research were:</ins>
+<ins>My contributions to this research have been:</ins>
 
-* xxx.
+* Analysis of smallRNA-seq data.
+* Retrieve and analyze multiple-sequence alignments using [ENSEMBL Compara Perl API](https://www.ensembl.org/info/docs/api/compara/index.html).
+* Differential expression analysis (from smallRNA-seq data) with multiple species.
+
 
 ---
 
