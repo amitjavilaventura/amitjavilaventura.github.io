@@ -27,7 +27,7 @@ Then, I enrolled on a MSc in Bioinformatics in which I am learning the basic too
 
 In 2019, until 2021, I moved to Milan where I worked as a bioinformatician and collaborated in several projects studying epigenetic mechanisms and signaling pathways -mainly Wnt/$\beta$catenin- underlying cell differentiation and oncogenesis.
 
-Recently, I returned home to continue my career in bioinformatics in the Regulatory Genomics group of the Josep Carreras Leukaemia Research Institute.
+Recently, I returned home to continue my career in bioinformatics in the [Regulatory Genomics group](https://www.carrerasresearch.org/en/regulatory-genomics) of the [Josep Carreras Leukaemia Research Institute](https://www.carrerasresearch.org/en).
 
 ***
 
@@ -35,19 +35,9 @@ Recently, I returned home to continue my career in bioinformatics in the Regulat
 
 As a plus, I have been an active member from the [*Associació de Biotecnòlegs de Catalunya (ASBTEC)*](https://asbtec.cat) -an association dedicated to promotion of the biotechnologists to Catalan society- since 2018 and board member since 2019, collaborating in the organization of diverse Biotechnology-related events (e.g. job search, entrepreneurship, divulgation, different research topics...) and leading the team in charge of communication and divulgation through social networks, our webpage and other activities.
 
-
-<br>
-<center>
-![ASBTEC's directive board 2019-20](/images/jd_asbtec_19_20.png "ASBTEC's directive board 2019-20")
-</center>
 <br>
 
-Furthermore, one of my hobbies is communicating science and for this reason I have recently started [BioBit](https://biobit.netlify.app), a blog dedicated to spread Bioinformatics, and [Perill Biologic](https://perillbiologic.netlify.app), another blog to communicate Biology in catalan. 
-
-<br>
-<center>
-![BioBit | Perill Biològic](/images/biobit_perillbiologic.png "BioBit | Perill Biològic"){ width=700 }
-</center>
+Furthermore, one of my hobbies is communicating science and for this reason I have recently started [BioBit](https://biobit.netlify.app), a blog dedicated to spread Bioinformatics, although its main goal is to study about what I write. Also I started [Perill Biologic](https://perillbiologic.netlify.app), another blog to communicate Biology in Catalan. 
 
 <br>
 
@@ -57,12 +47,8 @@ Furthermore, one of my hobbies is communicating science and for this reason I ha
 
 On the other hand, during most of my academic career, I have combined the science studies with high-level training and competition in rowing, achieving excellent results in both, national and international competitions.
 
-I started rowing in 2007 and my first international competition was *La Coupe de la Jeunesse* in 2011. In 2016, together with my double mate, I missed the olympic qualification for only one place and, after that, we became World Rowing Under-23 Champions in the lightweight men's double scull (BLM2x).
+I started rowing in 2007 and my first international competition was *La Coupe de la Jeunesse* in 2011. In 2016, together with my double mate, I missed the Olympic qualification for only one place and, after that, we became World Rowing Under-23 Champions in the lightweight men's double scull (BLM2x).
 
-<br>
-<center>
-![My crewmate, my coach and I after winning the 2016 U23 World Rowing Championship in the lightweight men's double scull.](/images/after_wru23c2016.png "My crewmate, my coach and I after winning the 2016 U23 World Rowing Championship in the lightweight men's double scull.")
-</center>
 <br>
 
 After many years training at my highest level, I left elite rowing in 2019, after being 7^th^ in the European Rowing Championship, just before moving to Milan to work as a bioinformatician. I haven't competed since then, but one cannot leave rowing that easily and I pretend to compete again at a more local level.
