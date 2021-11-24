@@ -11,15 +11,15 @@ description: "Some details about my life"
 
 ### Interests
 
-My interests are mainly focused in the analysis of transcriptomics and epigenomics data, as well as in software and pipeline development. 
+My interests are mainly focused in the analysis of transcriptomics and epigenomics data, as well as in software and pipeline development. Currently, I am interested in small RNAs, more specifically piRNAs
 
-On the other hand, I declare myself as an R and R Markdown lover, but I am in an open relationship with them, so I am open to learn and use other languages such as Bash and Python.
+On the other hand, I declare myself as an R and R Markdown lover, but I am in an open relationship with them, so I am eager to learn and use other languages such as Bash and Python.
 
 ***
 
 ### Academic career
 
-I begun my journey in science with a BSc in Biotechnology, during which I did a professional internship in a company dedicated to molecular and microbial analyses of food and water for pathogen detection and food forensics. I carried the bachelor's thesis in the same company by analyzing the microbial composition of the illeal mucosa of colorectal cancer patients submitted to a colectomy and ileostomy in response to a butyrate treatment. 
+I began my journey in science with a BSc in Biotechnology, during which I did a professional internship in a company dedicated to molecular and microbial analyses of food and water for pathogen detection and food forensics. I carried the bachelor's thesis in the same company by analyzing the microbial composition of the illeal mucosa of colorectal cancer patients submitted to a colectomy and ileostomy in response to a butyrate treatment. 
 
 After graduating, I studied a MSc in Molecular Genetics, where I initiated to bioinformatics. During the thesis, I spent the whole year studying the role of the protein Xrn1 in nucleosome architecture and gene transcription in budding yeast. 
 
