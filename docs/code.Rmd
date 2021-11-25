@@ -7,15 +7,19 @@ description: "Repositories of code I developed or contributed to"
     p {text-align: justify;}
 </style>
 
+<head>
+  <!-- Place this tag in your head or just before your close body tag. -->
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+</head>
+
 ---
 
 ### <ins>**Snakemake**</ins>
 
-<a target="_blank" href="https://amitjavilaventura.github.io/snakemake/">**ATACseq Snakemake**</a>: Snakemake pipeline for ATAC-seq data processing and analyses used in Pasini’s lab. *ongoing*   
-
-<!--
-[**ArtATAC**](https://github.com/amitjavilaventura/ArtATAC): Snakemake pipeline for ATAC-seq data processing and analysis.  *ongoing*
--->
+<!-- Atac-seq snakemake -->
+<a target="_blank" href="https://amitjavilaventura.github.io/atacseq_snakemake/">**ATACseq Snakemake**</a>: Snakemake pipeline for ATAC-seq data processing and analyses used in Pasini’s lab. *ongoing*  
+<a class="github-button" href="https://github.com/amitjavilaventura/ATACseq-snakemake/subscription" data-icon="octicon-eye" aria-label="Watch amitjavilaventura/ATACseq-snakemake on GitHub"></a>
+<a class="github-button" href="https://github.com/amitjavilaventura/ATACseq-snakemake" data-icon="octicon-star" aria-label="Star amitjavilaventura/ATACseq-snakemake on GitHub"></a>
 
 ---
 
@@ -23,22 +27,40 @@ description: "Repositories of code I developed or contributed to"
 
 #### **Packages**
 
+<!-- chromHMMviewR -->
 <a target="_blank" href="https://amitjavilaventura.github.io/chromHMMviewR/">**crhomHMMviewR**</a>: ggplot2-based functions that draw heatmaps from ChromHMM output data.
+<a class="github-button" href="https://github.com/amitjavilaventura/chromHMMviewR/subscription" data-icon="octicon-eye" aria-label="Watch amitjavilaventura/chromHMMviewR on GitHub"></a>
+<a class="github-button" href="https://github.com/amitjavilaventura/chromHMMviewR" data-icon="octicon-star" aria-label="Star amitjavilaventura/chromHMMviewR on GitHub"></a>
 
-<a target="_blank" href="https://amitjavilaventura.github.io/plotmics/">**plotmics**</a>: functions to visualize omics and sequencing data.
+<!-- plotmics -->
+<a target="_blank" href="https://amitjavilaventura.github.io/plotmics/">**plotmics**</a>: functions to visualize omics and sequencing data. 
+<a class="github-button" href="https://github.com/amitjavilaventura/plotmics/subscription" data-icon="octicon-eye" aria-label="Watch amitjavilaventura/plotmics on GitHub"></a>
+<a class="github-button" href="https://github.com/amitjavilaventura/plotmics" data-icon="octicon-star" aria-label="Star amitjavilaventura/plotmics on GitHub"></a>
 
 #### **Shiny apps**
 
+<!-- DPomics/MYomics -->
 <a target="_blank" href="https://github.com/amitjavilaventura/DPomics">**DPomics**</a>: shiny app designed to visualize omics data from the Pasini Lab (RNA-seq and ChIP-seq). *ongoing*
+<a class="github-button" href="https://github.com/amitjavilaventura/DPomics/subscription" data-icon="octicon-eye" aria-label="Watch amitjavilaventura/DPomics on GitHub"></a>
+<a class="github-button" href="https://github.com/amitjavilaventura/DPomics" data-icon="octicon-star" aria-label="Star amitjavilaventura/DPomics on GitHub"></a>
 
+<!-- DNApp -->
 <a target="_blank" href="https://github.com/amitjavilaventura/DNApp">**DNApp**</a>: simple shiny app with several DNA-related tools. *ongoing*
+<a class="github-button" href="https://github.com/amitjavilaventura/DNApp/subscription" data-icon="octicon-eye" aria-label="Watch amitjavilaventura/DNApp on GitHub"></a>
+<a class="github-button" href="https://github.com/amitjavilaventura/DNApp" data-icon="octicon-star" aria-label="Star amitjavilaventura/DNApp on GitHub"></a>
 
+<!-- DNAme -->
 <a target="_blank" href="https://github.com/amitjavilaventura/DNAme">**DNAme**</a>: shiny app designed for learning purposes that converts a word to a DNA sequence.
-
+<a class="github-button" href="https://github.com/amitjavilaventura/DNAme/subscription" data-icon="octicon-eye" aria-label="Watch amitjavilaventura/DNAme on GitHub"></a>
+<a class="github-button" href="https://github.com/amitjavilaventura/DNAme" data-icon="octicon-star" aria-label="Star amitjavilaventura/DNAme on GitHub"></a>
 
 #### **Miscellaneous**
 
+<!-- Custom R functions -->
 <a target="_blank" href="https://github.com/amitjavilaventura/custom-R-functions">**Custom R functions**</a>: simple R functions to solve diverse problems I am finding every day.
+<a class="github-button" href="https://github.com/amitjavilaventura/custom-R-functionse/subscription" data-icon="octicon-eye" aria-label="Watch amitjavilaventura/custom-R-functions on GitHub"></a>
+<a class="github-button" href="https://github.com/amitjavilaventura/custom-R-functions" data-icon="octicon-star" aria-label="Star amitjavilaventura/custom-R-functions on GitHub"></a>
+
 
 ---
 
