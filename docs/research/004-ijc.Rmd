@@ -12,13 +12,12 @@ draft: false
 ## <a href="https://www.carrerasresearch.org/en/regulatory-genomics" target="_blank">Vavouri's lab</a>, <a href="https://www.carrerasresearch.org/en" target="_blank"><i>Institut Josep Carreras</i></a>
 
 <p style='font-size:15px;color:gray'><em style='color:black;'>*August 2021 - Present*</em><br>
-Bioinformatician & Master's thesis student</p>
+Bioinformatician & master's thesis student</p>
 
 ---
 
-Under the supervision of Dr. Tanya Vavouri, I am analizing small RNA-seq data in order to study PIWI-interacting RNAs (piRNAs), their biogenesis mechanisms and their conservation across species.
+Under the supervision of Dr. Tanya Vavouri, I am studying the PIWI-interacting RNAs (piRNAs) and their biogenesis. I have recently completed a master's thesis (MSc in Bioinformatics and Biostatistics) with honors, where I analyzed the piRNA variation across closely related species and the factors influencing this variation.
 
-<!--
 
 ---
 
@@ -26,12 +25,18 @@ Under the supervision of Dr. Tanya Vavouri, I am analizing small RNA-seq data in
 
 * Analysis of smallRNA-seq data.
 * Retrieve and analyze multiple-sequence alignments using [ENSEMBL Compara Perl API](https://www.ensembl.org/info/docs/api/compara/index.html).
-* Differential expression analysis (from smallRNA-seq data) with multiple species.
+* Develop an approach for differential expression analysis without gene length differences when comparing multiple species. 
 
-
+<!--
 ---
 
 <ins>Related publications:</ins>
 
 -->
+
+---
+
+<ins>Master's thesis:</ins>
+
+* *Analysis of the variation in piRNA expression across three </em>Mus<em> species.*
 
