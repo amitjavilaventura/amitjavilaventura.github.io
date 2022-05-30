@@ -5,7 +5,7 @@
 
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>ggmitji</title>
+        <title>Adrià Mitjavila Ventura</title>
         
             <link rel="icon" href="https://amitjavilaventura.github.io/images/dna_numeros2.png">
         
@@ -66,6 +66,9 @@
 <script>$(document).on('click', function() { $('.collapse').collapse('hide'); })</script>
  <meta name="generator" content="Hugo 0.88.1" />
         
+            <link href="/index.xml" rel="alternate" type="application/rss&#43;xml" title="Adrià Mitjavila Ventura" />
+            <link href="/index.xml" rel="feed" type="application/rss&#43;xml" title="Adrià Mitjavila Ventura" />
+        
 
         
 
@@ -83,7 +86,7 @@
         <nav class="navbar navbar-default navbar-fixed-top">
             <div class="container">
                 <div class="navbar-header">
-                    <a class="navbar-brand visible-xs" href="#">ggmitji</a>
+                    <a class="navbar-brand visible-xs" href="#">Adrià Mitjavila Ventura</a>
                     <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
@@ -137,92 +140,87 @@
         </nav>
 
 
+
+
 <main>
-
-    <div>
-        <h2>ggmitji</h2>
-        <h5>Useful functions to complement ggplots</h5>
+    
+    
+    <style>
+        body {
+            background-image: url('/images/portada.png');
+        }
+    </style>
+    
+    
+    <div class="intro">
         
-
+        
+         <img class="profile" src="/images/fotojo.png" style="width:125px;height:125px;"> 
+        <h1 style="font-size:50px; font-family:papyrus"><b>Adrià Mitjavila Ventura</b></h1>
+        <h2 style="color:black; font-size:25px; font-family:papyrus;">Biotechnologist around computers</h2>
+        
+        
+                <hr style="color:black; background-color:black; height:2px;border-width:2;">   
+                
+                        
+                            <button type="button" style="color:black; background-color:transparent;">
+                                <a href="mailto:adria.mitjavila94@gmail.com" target = "_blank">
+                                    <i class="fas fa-at" style="color:black; background-color:transparent; font-size:25px;"></i>
+                                </a>
+                            </button>
+                        
+                            <button type="button" style="color:black; background-color:transparent;">
+                                <a href="https://github.com/amitjavilaventura/" target = "_blank">
+                                    <i class="fab fa-github" style="color:black; background-color:transparent; font-size:25px;"></i>
+                                </a>
+                            </button>
+                        
+                            <button type="button" style="color:black; background-color:transparent;">
+                                <a href="https://gitlab.com/amitjavilaventura/" target = "_blank">
+                                    <i class="fab fa-gitlab" style="color:black; background-color:transparent; font-size:25px;"></i>
+                                </a>
+                            </button>
+                        
+                            <button type="button" style="color:black; background-color:transparent;">
+                                <a href="https://bitbucket.org/amitjavilaventura/" target = "_blank">
+                                    <i class="fab fa-bitbucket" style="color:black; background-color:transparent; font-size:25px;"></i>
+                                </a>
+                            </button>
+                        
+                            <button type="button" style="color:black; background-color:transparent;">
+                                <a href="https://orcid.org/0000-0002-0337-1929" target = "_blank">
+                                    <i class="fab fa-orcid" style="color:black; background-color:transparent; font-size:25px;"></i>
+                                </a>
+                            </button>
+                        
+                            <button type="button" style="color:black; background-color:transparent;">
+                                <a href="https://stackoverflow.com/users/14525301/adri%c3%a0-mitjavila-ventura" target = "_blank">
+                                    <i class="fab fa-stack-overflow" style="color:black; background-color:transparent; font-size:25px;"></i>
+                                </a>
+                            </button>
+                        
+                            <button type="button" style="color:black; background-color:transparent;">
+                                <a href="https://www.linkedin.com/in/adria-mitjavila-ventura/" target = "_blank">
+                                    <i class="fab fa-linkedin" style="color:black; background-color:transparent; font-size:25px;"></i>
+                                </a>
+                            </button>
+                        
+                            <button type="button" style="color:black; background-color:transparent;">
+                                <a href="https://twitter.com/adriamitjavila/" target = "_blank">
+                                    <i class="fab fa-twitter" style="color:black; background-color:transparent; font-size:25px;"></i>
+                                </a>
+                            </button>
+                        
+                
+                
+        
+         
+        
+        
     </div>
-
-    <div align="start" class="content">
-
-
-<style>
-    p {text-align: justify;}
-</style>
-<center>
-<strong><a href="https://amitjavilaventura.github.io" target="_blank">Adrià Mitjavila</a></strong> on <em>May 20, 2022</em>
-</center>
-<hr />
-<p>Look at the source code <a href="https://github.com/amitjavilaventura/ggmitji">here</a>.</p>
-<p>Look at the documentation <a href="https://amitjavilaventura.github.io/ggmitji/">here</a>.</p>
-<hr />
-<p><em>ggmitji</em> is an R package with cool functions to complement ggplots.</p>
-<div id="dependencies" class="section level2">
-<h2>Dependencies</h2>
-<p><code>ggmitji</code> depends on several packages, such as: <code>ggplot2</code>, <code>magrittr</code>, <code>polyclip</code>, <code>cowplot</code>, and <code>ggpubr</code>.</p>
-</div>
-<div id="functions" class="section level2">
-<h2>Functions</h2>
-<div id="boxplots" class="section level3">
-<h3>Boxplots</h3>
-<div id="without-outliers" class="section level4">
-<h4>without outliers</h4>
-<p>If you don’t like to show the outliers in your boxplots, you can use <code>stat_summary_boxplot()</code>.</p>
-<pre><code>## Warning: Ignoring unknown parameters: stat</code></pre>
-<p><img src="https://amitjavilaventura.github.io/posts/009-ggmitji/index_files/figure-html/unnamed-chunk-1-1.png" width="672" /></p>
-<ul>
-<li><em>Note that the outliers are still there for further computations, but they are not plot.</em></li>
-</ul>
-</div>
-<div id="with-extra-information" class="section level4">
-<h4>with extra information</h4>
-<p>If you want to add more information on your boxplots, you can use <code>stat_info_boxplot()</code> and <code>stat_point_boxplot()</code>.</p>
-<ul>
-<li><code>stat_info_boxplot()</code> adds information about the number, mean, median or standard deviation of each boxplot. It allows to add a label and specify the size, color and vertical position of the label.</li>
-</ul>
-<p><img src="https://amitjavilaventura.github.io/posts/009-ggmitji/index_files/figure-html/unnamed-chunk-2-1.png" width="672" /></p>
-<ul>
-<li><code>stat_point_boxplot()</code> draws a point at the mean, maximum, minimum or any quartile of each boxplot. It allows to specify color and size of the point.</li>
-</ul>
-<p><img src="https://amitjavilaventura.github.io/posts/009-ggmitji/index_files/figure-html/unnamed-chunk-3-1.png" width="672" /></p>
-</div>
-</div>
-</div>
-<div id="facets" class="section level2">
-<h2>Facets</h2>
-<p>Facets are nice features to make the plots better. However, if you want to paint the strips with different colors, you have to go through tricky workarounds. Hence, I created the functions <code>fill_strips_top()</code> and <code>fill_strips_right()</code> to fill the top and right facet strips, respectively.</p>
-<p>They are not like a normal <code>ggplot2</code> function, so you cannot use <code>+</code> and you have to input the object directly into the function. Another drawback is that the resulting object cannot be modified by <code>theme()</code>, <code>scale_*_*()</code>, so all the required modifications have to be done before the coloring.</p>
-<pre><code>## 
-## Attaching package: &#39;cowplot&#39;</code></pre>
-<pre><code>## The following object is masked from &#39;package:patchwork&#39;:
-## 
-##     align_plots</code></pre>
-<p><img src="https://amitjavilaventura.github.io/posts/009-ggmitji/index_files/figure-html/unnamed-chunk-4-1.png" width="672" /><img src="https://amitjavilaventura.github.io/posts/009-ggmitji/index_files/figure-html/unnamed-chunk-4-2.png" width="672" /><img src="https://amitjavilaventura.github.io/posts/009-ggmitji/index_files/figure-html/unnamed-chunk-4-3.png" width="672" /></p>
-<div id="shaded-venn-diagrams" class="section level3">
-<h3>Shaded Venn diagrams</h3>
-<p>Venn diagrams are useful to show intersections of different sets. Sometimes, the intersections, unions or other areas of the Venn are used to draw other plots. In these ocasions, you can draw a Venn diagram with shaded areas to specify what are you plotting.</p>
-<p>For this cases, you can use <code>shaded_2d_venn()</code> and <code>shaded_3d_venn()</code> for 2D and 3D Venn diagrams respecitvely.</p>
-<pre><code>## Loading required package: polyclip</code></pre>
-<pre><code>## polyclip 1.10-0 built from Clipper C++ version 6.4.0</code></pre>
-<pre><code>## Loading required package: magrittr</code></pre>
-<p><img src="https://amitjavilaventura.github.io/posts/009-ggmitji/index_files/figure-html/unnamed-chunk-5-1.png" width="480" /></p>
-</div>
-<div id="polygons" class="section level3">
-<h3>Polygons</h3>
-<p>I have also add a <code>draw_polygon()</code> to draw several polygons and shapes. It allows to draw squares, circles, triangles, inverted-L-like polygons, hearts and diamonds.</p>
-<p>It may not be very useful, but it is cool.</p>
-<p><img src="https://amitjavilaventura.github.io/posts/009-ggmitji/index_files/figure-html/unnamed-chunk-6-1.png" width="672" /></p>
-</div>
-<div id="themes" class="section level3">
-<h3>Themes</h3>
-<p><code>ggmitji</code> have several themes to customize almost everything in a ggplot.</p>
-</div>
-</div>
-</div>
-
+        
+        
+        
 </main>
 
         <footer>

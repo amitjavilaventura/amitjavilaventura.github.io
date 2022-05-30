@@ -6,7 +6,7 @@
     <description>Recent content on Adrià Mitjavila Ventura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://amitjavilaventura.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://amitjavilaventura.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Institut Josep Carreras</title>
       <link>https://amitjavilaventura.github.io/research/004-ijc/</link>
@@ -47,6 +47,19 @@ Master’s thesis student and research assistant In the context of the master’
       <guid>https://amitjavilaventura.github.io/research/001-microbial/</guid>
       <description>p {text-align: justify;}  Molecular Microbiology, Microbial, S.L. September 2016 - June 2017
 Internship and Bachelor’s thesis student In the context of my bachelor’s thesis (BSc in Biotechnology) and under the supervision of Prof. Jesús García-Gil, I studied the diversity of the ileal mucosa-related microbiota of colorectal cancer patients submitted to an ileostomy and its changes after a butyrate treatment. Using DNA extracted from human biopsies of ileal mucosa, we performed qPCR and high-throughput sequencing followed by a SPSS-based statistical analysis to search for the differences between the butyrate-treated, placebo-treated and untreated groups, and we found that some healthy-related butyrate-producing bacteria increased in proportion after the butyrate-treated, but not in the other groups.</description>
+    </item>
+    
+    <item>
+      <title>ggmitji</title>
+      <link>https://amitjavilaventura.github.io/posts/009-ggmitji/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/posts/009-ggmitji/</guid>
+      <description>p {text-align: justify;}   Adrià Mitjavila on May 20, 2022  Look at the source code here.
+Look at the documentation here.
+ggmitji is an R package with cool functions to complement ggplots.
+Dependencies ggmitji depends on several packages, such as: ggplot2, magrittr, polyclip, cowplot, and ggpubr.
+ Functions Boxplots without outliers If you don’t like to show the outliers in your boxplots, you can use stat_summary_boxplot().</description>
     </item>
     
     <item>
