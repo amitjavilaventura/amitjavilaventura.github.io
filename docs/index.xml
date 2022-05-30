@@ -143,6 +143,19 @@ On the other hand, I declare myself as an R and R Markdown lover, but I am in an
     </item>
     
     <item>
+      <title>Code development</title>
+      <link>https://amitjavilaventura.github.io/code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/code/</guid>
+      <description>p {text-align: justify;}     Snakemake ATACseq Snakemake: Snakemake pipeline for ATAC-seq data processing and analyses used in Pasini’s lab. ongoing
+ R Packages plotmics: functions to visualize omics and sequencing data.
+ggmitji: cool functions for ggplots.
+crhomHMMviewR: ggplot2-based functions that draw heatmaps from ChromHMM output data.
+ Shiny apps DPomics: shiny app designed to visualize omics data from the Pasini Lab (RNA-seq and ChIP-seq). ongoing</description>
+    </item>
+    
+    <item>
       <title>Publications</title>
       <link>https://amitjavilaventura.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
