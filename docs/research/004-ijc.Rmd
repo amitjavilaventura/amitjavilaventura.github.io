@@ -18,7 +18,6 @@ Bioinformatician & master's thesis student</p>
 
 Under the supervision of Dr. Tanya Vavouri, I am studying the PIWI-interacting RNAs (piRNAs) and their biogenesis. I have recently completed a master's thesis (MSc in Bioinformatics and Biostatistics) with honors, where I analyzed the piRNA variation across closely related species and the factors influencing this variation.
 
-
 ---
 
 <ins>My contributions to this research have been:</ins>

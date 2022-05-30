@@ -1,0 +1,22 @@
+---
+title: "Master's thesis with honours"
+description: "Analysis of piRNA variation across closely related species"
+date: '2022-02-10'
+draft: true
+---
+
+<style>
+    p {text-align: justify;}
+</style>
+
+<center>
+<strong><a href="https://amitjavilaventura.github.io" target="_blank">Adrià Mitjavila</a></strong> on <em>February 10, 2022</em>
+</center>
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+---
