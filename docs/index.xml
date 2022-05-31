@@ -6,7 +6,7 @@
     <description>Recent content on Adrià Mitjavila Ventura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://amitjavilaventura.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://amitjavilaventura.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Institut Josep Carreras</title>
       <link>https://amitjavilaventura.github.io/research/004-ijc/</link>
@@ -47,6 +47,17 @@ Master’s thesis student and research assistant In the context of the master’
       <guid>https://amitjavilaventura.github.io/research/001-microbial/</guid>
       <description>p {text-align: justify;}  Molecular Microbiology, Microbial, S.L. September 2016 - June 2017
 Internship and Bachelor’s thesis student In the context of my bachelor’s thesis (BSc in Biotechnology) and under the supervision of Prof. Jesús García-Gil, I studied the diversity of the ileal mucosa-related microbiota of colorectal cancer patients submitted to an ileostomy and its changes after a butyrate treatment. Using DNA extracted from human biopsies of ileal mucosa, we performed qPCR and high-throughput sequencing followed by a SPSS-based statistical analysis to search for the differences between the butyrate-treated, placebo-treated and untreated groups, and we found that some healthy-related butyrate-producing bacteria increased in proportion after the butyrate-treated, but not in the other groups.</description>
+    </item>
+    
+    <item>
+      <title>RNA-seq and count normalizations</title>
+      <link>https://amitjavilaventura.github.io/posts/010-rnaseq-normalizations/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/posts/010-rnaseq-normalizations/</guid>
+      <description>Adrià Mitjavila on May 31, 2022   Reposted from BioBit.  
+  
+When analyzing RNA-seq data and studying gene expression levels, we usually start from counts, which are sequencing reads mapped to genomic features such as genes. However, using counts as they are to compare different samples (gene A in sample 1 vs gene A in sample 2) or even genes within a sample (gene is not a good option, since the amount of counts in a gene will vary a lot depending on how much the sample has been sequenced (sequencing depth; different between samples) and the length of the gene (different between genes): the more reads mapped in a sample, the more counts the genes in that sample will have, and the longer a gene is, the more counts will it have.</description>
     </item>
     
     <item>
