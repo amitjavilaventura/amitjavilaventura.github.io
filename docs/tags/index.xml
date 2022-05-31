@@ -16,5 +16,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>ggplot</title>
+      <link>https://amitjavilaventura.github.io/tags/ggplot/</link>
+      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/tags/ggplot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R package</title>
+      <link>https://amitjavilaventura.github.io/tags/r-package/</link>
+      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/tags/r-package/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
