@@ -3,13 +3,8 @@ title: "How does DESeq2 normalize the counts?"
 description: "The workflow of DESeq2, part 1"
 author: "Adrià Mitjavila"
 tags:
-  - Sequencing
-  - RNA-seq
-  - Normalization
-  - Differential expression
-  - DESeq2
+  - BioBit
 date: 2022-06-01
-draft: no
 ---
 
 <style> p{text-align: justify;} caption{color:darkblue; font-size:12px} </style>
@@ -19,7 +14,7 @@ __Adrià Mitjavila__ on *May 31, 2022*
 </center>
 
 <center>
-Reposted from [BioBit](https://biobit.netlify.app/post/005-rnaseq-normalizations/).
+Reposted from [BioBit](https://biobit.netlify.app/post/006-deseq2-normalization/).
 </center>
 
 ---
@@ -138,7 +133,7 @@ counts_matrix <-
 ```
 
 <center>
-```{r echo = FALSE, out.width="100%", fig.align="center"}
+```{r echo = T, out.width="100%", fig.align="center"}
 total = colSums(counts_matrix)
 
 counts_matrix %>% 

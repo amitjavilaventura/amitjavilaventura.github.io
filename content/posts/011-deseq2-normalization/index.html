@@ -3,13 +3,8 @@ title: "How does DESeq2 normalize the counts?"
 description: "The workflow of DESeq2, part 1"
 author: "Adrià Mitjavila"
 tags:
-  - Sequencing
-  - RNA-seq
-  - Normalization
-  - Differential expression
-  - DESeq2
+  - BioBit
 date: 2022-06-01
-draft: no
 ---
 
 <script src="{{< blogdown/postref >}}index_files/kePrint/kePrint.js"></script>
@@ -21,7 +16,7 @@ draft: no
 <strong>Adrià Mitjavila</strong> on <em>May 31, 2022</em>
 </center>
 <center>
-Reposted from <a href="https://biobit.netlify.app/post/005-rnaseq-normalizations/">BioBit</a>.
+Reposted from <a href="https://biobit.netlify.app/post/006-deseq2-normalization/">BioBit</a>.
 </center>
 <hr />
 <p><br></p>
@@ -123,6 +118,12 @@ counts_matrix &lt;-
          sampleC  = sample(x = 50:150, size = 6, replace = F)) %&gt;% 
   column_to_rownames(&quot;gene&quot;)</code></pre>
 <center>
+<pre class="r"><code>total = colSums(counts_matrix)
+
+counts_matrix %&gt;% 
+  bind_rows(total) %&gt;% 
+  set_rownames(c(rownames(counts_matrix), &quot;Total&quot;)) %&gt;%
+  knitr::kable(caption = &quot;&lt;span style=&#39;color:darkblue; font-size:12px&#39;&gt;Raw (unnormalized) counts in genes from each sample. Note that the total number of counts has been added to illustrate differences in sequencing depth, but it won&#39;t be used for the calculation of normalization (or scaling) factors. Moreover, no genes with 0 counts have been added to make the example easier.&lt;/span&gt;&quot;, align = &quot;c&quot;, format = &quot;html&quot;) %&gt;% kableExtra::kable_styling(full_width = T)</code></pre>
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
 <span id="tab:unnamed-chunk-3">Table 1: </span><span style="color:darkblue; font-size:12px">Raw (unnormalized) counts in genes from each sample. Note that the total number of counts has been added to illustrate differences in sequencing depth, but it won’t be used for the calculation of normalization (or scaling) factors. Moreover, no genes with 0 counts have been added to make the example easier.</span>
