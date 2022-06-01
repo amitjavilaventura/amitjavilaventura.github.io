@@ -2,6 +2,10 @@
 title: "plotmics"
 description: "Visualize omics and sequancing data in R"
 date: 2021-06-23
+tags: 
+- R package
+- ggplot
+- Omics
 ---
 
 <style>

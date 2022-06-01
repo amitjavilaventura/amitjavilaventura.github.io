@@ -20,5 +20,17 @@ Dependencies ggmitji depends on several packages, such as: ggplot2, magrittr, po
  Functions # Load packages library(ggplot2) library(ggmitji) library(patchwork) Boxplots without outliers If you don’t like to show the outliers in your boxplots, you can use stat_summary_boxplot().</description>
     </item>
     
+    <item>
+      <title>plotmics</title>
+      <link>https://amitjavilaventura.github.io/posts/008-plotmics/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/posts/008-plotmics/</guid>
+      <description>p {text-align: justify;}   Adrià Mitjavila on June 23, 2021 Edited on October 05, 2021  Look at the source code here.
+Look at the documentation here.
+plOtMICS is an R package to visualize omics and sequencing data in R using simple but useful functions:
+ chromReads(): draws a ggplot2-based horizontal barplot with the number and the percentage of reads mapped to each chromosome. barDEGs(): draws a ggplot2-based horizontal barplot with the upregulated and downregulated genes coming from DESeq2.</description>
+    </item>
+    
   </channel>
 </rss>

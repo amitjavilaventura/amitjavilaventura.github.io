@@ -34,5 +34,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Omics</title>
+      <link>https://amitjavilaventura.github.io/tags/omics/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/tags/omics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chromHMM</title>
+      <link>https://amitjavilaventura.github.io/tags/chromhmm/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/tags/chromhmm/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
