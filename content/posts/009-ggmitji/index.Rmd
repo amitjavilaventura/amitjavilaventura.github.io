@@ -18,7 +18,7 @@ tags:
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(echo = TRUE, error = FALSE, warning = FALSE, message = FALSE)
 ```
 
 Look at the source code [here](https://github.com/amitjavilaventura/ggmitji).
@@ -36,7 +36,7 @@ _ggmitji_ is an R package with cool functions to complement ggplots.
 
 ## Functions
 
-```{r load packages}
+```{r load packages, results=FALSE}
 # Load packages
 library(ggplot2)
 library(ggmitji)

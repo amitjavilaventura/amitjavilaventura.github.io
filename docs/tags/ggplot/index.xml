@@ -17,7 +17,7 @@
 Look at the documentation here.
 ggmitji is an R package with cool functions to complement ggplots.
 Dependencies ggmitji depends on several packages, such as: ggplot2, magrittr, polyclip, cowplot, and ggpubr.
- Functions Boxplots without outliers If you don’t like to show the outliers in your boxplots, you can use stat_summary_boxplot().</description>
+ Functions # Load packages library(ggplot2) library(ggmitji) library(patchwork) Boxplots without outliers If you don’t like to show the outliers in your boxplots, you can use stat_summary_boxplot().</description>
     </item>
     
   </channel>
