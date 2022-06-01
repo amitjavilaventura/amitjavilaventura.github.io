@@ -20,12 +20,14 @@ Under the supervision of Dr. Tanya Vavouri, I am studying the PIWI-interacting R
 
 ---
 
-<ins>My contributions to this research have been:</ins>
+<ins>My tasks in this position have been::</ins>
 
 * Development of a pipeline to pre-process small RNA-seq data with focus to the analysis of piRNAs.
-* Retrieve and analyze multiple-sequence alignments using [ENSEMBL Compara Perl API](https://www.ensembl.org/info/docs/api/compara/index.html).
 * Development of an approach for differential expression analysis without gene length differences when comparing multiple species. 
-* Mentoring bachelor's and master's thesis students.
+* Mentoring of bachelor's and master's thesis students.
+
+<!-- Retrieve and analyze multiple-sequence alignments using [ENSEMBL Compara Perl API](https://www.ensembl.org/info/docs/api/compara/index.html). -->
+
 
 <!--
 ---
