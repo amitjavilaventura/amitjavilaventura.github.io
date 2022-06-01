@@ -16,15 +16,16 @@ Bioinformatician & master's thesis student</p>
 
 ---
 
-Under the supervision of Dr. Tanya Vavouri, I am studying the PIWI-interacting RNAs (piRNAs) and their biogenesis. I have recently completed a master's thesis (MSc in Bioinformatics and Biostatistics) with honors, where I analyzed the piRNA variation across closely related species and the factors influencing this variation.
+Under the supervision of Dr. Tanya Vavouri, I am studying the PIWI-interacting RNAs (piRNAs) and their biogenesis. In January of 2022, I completed my master's thesis (MSc in Bioinformatics and Biostatistics, UOC) with honors, where I analyzed the piRNA variation across closely related species and the factors influencing this variation.
 
 ---
 
 <ins>My contributions to this research have been:</ins>
 
-* Analysis of smallRNA-seq data.
+* Development of a pipeline to pre-process small RNA-seq data with focus to the analysis of piRNAs.
 * Retrieve and analyze multiple-sequence alignments using [ENSEMBL Compara Perl API](https://www.ensembl.org/info/docs/api/compara/index.html).
-* Develop an approach for differential expression analysis without gene length differences when comparing multiple species. 
+* Development of an approach for differential expression analysis without gene length differences when comparing multiple species. 
+* Mentoring bachelor's and master's thesis students.
 
 <!--
 ---
