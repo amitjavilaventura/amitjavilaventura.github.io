@@ -189,15 +189,5 @@ crhomHMMviewR: ggplot2-based functions that draw heatmaps from ChromHMM output d
  Shiny apps DPomics: shiny app designed to visualize omics data from the Pasini Lab (RNA-seq and ChIP-seq).</description>
     </item>
     
-    <item>
-      <title>Publications</title>
-      <link>https://amitjavilaventura.github.io/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://amitjavilaventura.github.io/publications/</guid>
-      <description>Journal articles Begley V et al (2020). Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration. RNA Biology. doi: 10.1080/15476286.2020.1845504.
-**Pre prints** --  Posters and presentations Mitjavila &amp;amp; Vavouri (March 2022). Analysis of piRNA variation across three Mus species (in Catalan). Oral presentation at the Jornades de Biologia de la Reproducció from the Catalan Society of Biology.</description>
-    </item>
-    
   </channel>
 </rss>
