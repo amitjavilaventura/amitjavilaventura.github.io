@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Adrià Mitjavila Ventura</title>
+    <link>https://amitjavilaventura.github.io/research/</link>
+    <description>Recent content in Research on Adrià Mitjavila Ventura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://amitjavilaventura.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Institut Josep Carreras</title>
+      <link>https://amitjavilaventura.github.io/research/004-ijc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/research/004-ijc/</guid>
+      <description>p {text-align: justify;}  Vavouri’s lab, Institut Josep Carreras August 2021 - Present
+Bioinformatician &amp;amp; master’s thesis student Under the supervision of Dr. Tanya Vavouri, I am studying the PIWI-interacting RNAs (piRNAs) and their biogenesis. In January of 2022, I completed my master’s thesis (MSc in Bioinformatics and Biostatistics, UOC) with honors, in which I analyzed the piRNA variation across closely related species and the factors influencing this variation.</description>
+    </item>
+    
+    <item>
+      <title>Istituto Europeo di Oncologia</title>
+      <link>https://amitjavilaventura.github.io/research/003-ieo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/research/003-ieo/</guid>
+      <description>p {text-align: justify;}  Pasini’s lab, Istituto Europeo di Oncologia July 2019 - July 2021
+Bioinformatician During my stage in Dr. Diego Pasini’s lab, I investigated several molecular signaling pathways and epigenetic mechanisms underlying cellular differentiation and oncogenesis.
+ My contributions to this research were:   Comparison of different ATAC-seq peak callers.  Comparison of different sequencing depths in RNA-seq for differential expression analysis.  Development of a Snakemake pipepline for ATAC-seq.</description>
+    </item>
+    
+    <item>
+      <title>Instituto de Biomedicina de Sevilla</title>
+      <link>https://amitjavilaventura.github.io/research/002-ibis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/research/002-ibis/</guid>
+      <description>p {text-align: justify;}  Gene expression lab, Instituto de Biomedicina de Sevilla September 2017 - October 2018
+Master’s thesis student and research assistant In the context of the master’s thesis (MSc in Molecular Genetics &amp;amp; Biotechnology), under the supervision of Dr. Sebastián Chávez de Diego and Dr. Gabriel Gutierrez Pozo and within Dr. Victoria Begley’s PhD project, I started studying Xrn1, a protein involved in the degradation of mRNA, and it’s role in the nucleosome localization and transcription in Saccharomyces cerevisiae.</description>
+    </item>
+    
+    <item>
+      <title>Microbial. Sistemes i aplicacions analítiques, S.L.</title>
+      <link>https://amitjavilaventura.github.io/research/001-microbial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/research/001-microbial/</guid>
+      <description>p {text-align: justify;}  Molecular Microbiology, Microbial, S.L. September 2016 - June 2017
+Internship and Bachelor’s thesis student In the context of my bachelor’s thesis (BSc in Biotechnology) and under the supervision of Prof. Jesús García-Gil, I studied the diversity of the ileal mucosa-related microbiota of colorectal cancer patients submitted to an ileostomy and its changes after a butyrate treatment. Using DNA extracted from human biopsies of ileal mucosa, we performed qPCR and high-throughput sequencing followed by a SPSS-based statistical analysis to search for the differences between the butyrate-treated, placebo-treated and untreated groups, and we found that some healthy-related butyrate-producing bacteria increased in proportion after the butyrate-treated, but not in the other groups.</description>
+    </item>
+    
+  </channel>
+</rss>

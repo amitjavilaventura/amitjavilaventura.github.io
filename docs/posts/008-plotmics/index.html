@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>plotmics</title>
+        
+            <link rel="icon" href="https://amitjavilaventura.github.io/images/dna_numeros2.png">
+        
+        <style>
+
+    html body {
+        font-family: 'Raleway', sans-serif;
+        background-color: white;
+    }
+
+    :root {
+        --accent: darkred;
+        --border-width:  5px ;
+    }
+
+</style>
+
+
+<link rel="stylesheet" href="https://amitjavilaventura.github.io/css/main.css">
+
+
+
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+
+
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"> 
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" crossorigin="anonymous">
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
+ 
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/r.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/python.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/bash.min.js"></script>
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+<script>$(document).on('click', function() { $('.collapse').collapse('hide'); })</script>
+ <meta name="generator" content="Hugo 0.88.1" />
+        
+
+        
+
+        
+            <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+        
+
+        
+
+    </head>
+
+    <body>
+        
+
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <a class="navbar-brand visible-xs" href="#">plotmics</a>
+                    <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="collapse navbar-collapse">
+                    
+                        <ul class="nav navbar-nav">
+                            
+                                <li><a href="/">Home</a></li>
+                            
+                                <li><a href="/about/">About</a></li>
+                            
+                                <li><a href="/posts/">Posts</a></li>
+                            
+                                <li><a href="/research/">Research</a></li>
+                            
+                                <li><a href="/publications/">Publications</a></li>
+                            
+                                <li><a href="/code/">Code</a></li>
+                            
+                                <li><a href="https://amitjavilaventura.github.io/CVs/">Curriculum</a></li>
+                            
+                        </ul>
+                    
+                    
+                    
+                        <ul class="nav navbar-nav navbar-right">
+                            
+                                <li class="navbar-icon"><a href="mailto:adria.mitjavila94@gmail.com" target="_blank"><i class="fas fa-at"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://github.com/amitjavilaventura/" target="_blank"><i class="fab fa-github"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://gitlab.com/amitjavilaventura/" target="_blank"><i class="fab fa-gitlab"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://bitbucket.org/amitjavilaventura/" target="_blank"><i class="fab fa-bitbucket"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://orcid.org/0000-0002-0337-1929" target="_blank"><i class="fab fa-orcid"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://stackoverflow.com/users/14525301/adri%c3%a0-mitjavila-ventura" target="_blank"><i class="fab fa-stack-overflow"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://www.linkedin.com/in/adria-mitjavila-ventura/" target="_blank"><i class="fab fa-linkedin"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://twitter.com/adriamitjavila/" target="_blank"><i class="fab fa-twitter"></i></a></li>
+                            
+                        </ul>
+                    
+                </div>
+            </div>
+        </nav>
+
+
+<main>
+
+    <div>
+        <h2>plotmics</h2>
+        <h5>Visualize omics and sequancing data in R</h5>
+        
+<a href="https://amitjavilaventura.github.io/tags/r-package"><kbd class="item-tag">R package</kbd></a>
+
+<a href="https://amitjavilaventura.github.io/tags/ggplot"><kbd class="item-tag">ggplot</kbd></a>
+
+<a href="https://amitjavilaventura.github.io/tags/omics"><kbd class="item-tag">Omics</kbd></a>
+
+
+    </div>
+
+    <div align="start" class="content">
+
+
+<style>
+    p {text-align: justify;}
+</style>
+<center>
+<strong><a href="https://amitjavilaventura.github.io" target="_blank">Adrià Mitjavila</a></strong> on <em>June 23, 2021</em>
+Edited on <em>October 05, 2021</em>
+</center>
+<hr />
+<p>Look at the source code <a href="https://github.com/amitjavilaventura/plotmics">here</a>.</p>
+<p>Look at the documentation <a href="https://amitjavilaventura.github.io/plotmics/">here</a>.</p>
+<hr />
+<p><em>pl<strong>O</strong>t<strong>MICS</strong></em> is an R package to visualize omics and sequencing data in R using simple but useful functions:</p>
+<ul>
+<li><code>chromReads()</code>: draws a <code>ggplot2</code>-based horizontal barplot with the number and the percentage of reads mapped to each chromosome.</li>
+<li><code>barDEGs()</code>: draws a <code>ggplot2</code>-based horizontal barplot with the upregulated and downregulated genes coming from DESeq2.</li>
+<li><code>volcanoPlot()</code>: draws a <code>ggplot2</code>-based volcano plot with the DE data coming out from DESeq2.</li>
+<li><code>DEcompare()</code>: draws a <code>ggplot2</code>-based scatter plot comparing the Log2FCs of two different contrasts.</li>
+<li><code>barAnno()</code>: takes a list of modified outputs from <code>ChIPseeker::annotatePeak()</code>, computes the proportion of peaks in distal or promoter regions and draws a <code>ggplot2</code>-based barplot with the correseponding proportion for each sample.</li>
+<li><code>getVennCounts()</code>: helper function that calls <code>ChIPpeakAnno::makeVennDiagram()</code> to intersect different sets of peaks and returns the Venn counts and a list of the peaks present in each set of peaks.</li>
+<li><code>upsetPeaks()</code>: calls <code>getVennCounts()</code> and draws an UpSet plot using the Venn counts and the <code>UpSetR</code> package.</li>
+<li><code>ggUpsetPeaks()</code>: calls <code>getVennCounts()</code> and draws a <code>ggplot2</code>-based UpSet plot using the Venn counts.</li>
+<li><code>ggVennPeaks()</code>: calls <code>getVennCounts()</code> and draws a Venn diagram using the package <code>ggvenn</code>.</li>
+<li><code>plotDendogram()</code>: helper function to draw a dendogram for the heatmaps in <code>expressionHeatmap()</code> and <code>expressionHeatmap2()</code>.</li>
+<li><code>expressionHeatmap()</code>: function that takes a data frame of expression data (including <em>Geneid</em>) and plots a heatmap of the selected genes. It can be any expression data, but it is better for expression values, counts, normalized counts in which the frist column is the <em>Geneid</em> and the other columns are each of the samples that are to be plotted.</li>
+<li><code>expressionHeatmap2()</code>: function that takes a list of data frames with the columns <em>Geneid</em> and <em>log2FoldChange</em> (it can be another type data, such as FPKMs, but its easier to maintain the name of <em>log2FoldChange</em> since it is how it output from <code>DESeq2</code>) and plots a heatmap with the selected genes. It is better for <em>log2FoldChange</em> heatmaps in which each element in the list is a data frame that outputs from <code>DESeq2</code>.</li>
+<li><code>chromRegions()</code>: function that takes the chromosome size information and a list of regions (e.g. BED files) to draw the positions of that regions in the genome.</li>
+<li><code>circleRegions()</code>: function that takes a list of chromosome size information and a list of regions (e.g. BED files) to draw the positions of that regions in the genome. Similar to <code>chromRegions()</code>, but in a circular plot, allowing different assemblies, pairing regions, etc.</li>
+</ul>
+<hr />
+<div id="install-plotmics" class="section level2">
+<h2>Install <code>plotmics</code></h2>
+<p>To install <code>plotmics</code>, you have to run:</p>
+<pre><code># install the devtools package from CRAN (only if you don&#39;t have it)
+if(!require(devtools)){ install.packages(&quot;devtools&quot;); library(devtools) }
+
+# install plotmics from the GitHub repository
+devtools::install_github(&quot;amitjavilaventura/plotmics&quot;)</code></pre>
+<p>If you want to use <code>plotmics</code>, go to the <a href="https://amitjavilaventura.github.io/plotmics/">documentation</a> to see how to run each function.</p>
+<hr />
+</div>
+<div id="versions" class="section level2">
+<h2>Versions</h2>
+<p><code>plotmics</code> versions have the structure of <code>1.2.3</code>. The first number (<code>1</code>, <em>major</em>) implies the addition of a function and/or major changes in the packages; the second number (<code>2</code>,<em>minor</em>) implies the addition of new features to a function and possible corrections; the third number (<code>3</code>, <em>micro</em>) implies the correction of minor bugs or addition of minor features.</p>
+<p>The version history of <code>plotmics</code> is shown below:</p>
+<ul>
+<li><p><code>v1.0.0</code>:</p>
+<ul>
+<li>First version.</li>
+</ul></li>
+</ul>
+<p><br></p>
+<ul>
+<li><code>v1.1.0</code>:
+<ul>
+<li>Rescale <code>ggVennPeaks()</code> output to remove blank space around the Venn diagram.</li>
+<li>Add possibility to scale (<code>scale()</code>) data by rows or columns in <code>expressionHeatmap()</code> and <code>expressionHeatmap2()</code>.</li>
+</ul></li>
+</ul>
+<p><br></p>
+<ul>
+<li><code>v1.1.1</code>:
+<ul>
+<li>Add minor formatting options in <code>expressionHeatmap()</code> and <code>expressionHeatmap2()</code>, such as the possibility to remove the gene names, change sizes of texts and titles, change the color of the border of each cell, etc.</li>
+<li>Add minor changes in <code>ggVennPeaks()</code> in order to make it easier to visualize more peaks sets.</li>
+</ul></li>
+</ul>
+<p><br></p>
+<ul>
+<li><code>v1.1.2</code>:
+<ul>
+<li>Change chromosome filtering method in <code>chromReads()</code>.</li>
+<li>Allow dataframes without <code>DEG</code> column as input for <code>volcanoPlot()</code>.</li>
+<li>Change <code>scale = FALSE</code> for <code>scale = "none"</code> in <code>volcanoPlot()</code>.</li>
+</ul></li>
+</ul>
+<p><br></p>
+<ul>
+<li><code>v1.1.3</code>:
+<ul>
+<li>Fix error in labelling of <code>expressionHeatmap()</code> and <code>expressionHeatmap2()</code>.</li>
+</ul></li>
+</ul>
+<p><br></p>
+<ul>
+<li><code>v1.1.4</code>:
+<ul>
+<li>Add possibility to color the NA values in <code>expressionHeatmap()</code> and <code>expressionHeatmap2()</code>.</li>
+<li>Change title format in <code>barDEGs()</code>.</li>
+</ul></li>
+</ul>
+<p><br></p>
+<ul>
+<li><code>v2.0.0</code> <em>(2021-09-22)</em>:
+<ul>
+<li>Add new function <code>chromRegions()</code>.</li>
+</ul></li>
+</ul>
+<p><br></p>
+<ul>
+<li><code>v2.1.0</code> <em>(2021-09-26)</em>:
+<ul>
+<li>Allow <code>chromRegions()</code> to take a list of regions as input.</li>
+<li>Allow <code>chromRegions()</code> to order the region sets.</li>
+</ul></li>
+</ul>
+<p><br></p>
+<ul>
+<li><code>v3.0.0</code> <em>(2021-09-28)</em>:
+<ul>
+<li>Add new function <code>circleRegions()</code>.</li>
+<li>Allow <code>chromRegions()</code> to color by different parameters.</li>
+<li>Allow <code>chromRegions()</code> to add extra info.</li>
+<li>Allow <code>chromRegions()</code> to remove or change size of text in the Y axis.</li>
+</ul></li>
+</ul>
+<p><br></p>
+<ul>
+<li><code>v3.0.1</code> <em>(2021-09-30)</em>:
+<ul>
+<li>Fix a minor bug about plotting the chromosome labels in <code>circleRegions()</code>.</li>
+<li>Fix a minor bug in <code>ggVennPeaks()</code> that caused a intersection with one region more than expected.</li>
+<li>Remove <code>pkgcond</code> from required packages of <code>getVennCounts()</code>.</li>
+</ul></li>
+</ul>
+<p><br></p>
+<ul>
+<li><code>v3.1.0</code> <em>(2021-10-04)</em>:
+<ul>
+<li>Allow <code>ggVennPeaks()</code> and <code>getVennCounts()</code> to consider strand information.</li>
+</ul></li>
+</ul>
+<p><br></p>
+<hr />
+</div>
+<div id="contributors" class="section level2">
+<h2>Contributors</h2>
+<p>This package has been developed by <a href="https://amitjavilaventura.github.io">Adrià Mitjavila Ventura</a>, with some contributions from <a href="https://github.com/dfernandezperez">dfernandezperez</a></p>
+<p>If you want to contribute to this package, post an issue in <a href="https://github.com/amitjavilaventura/plotmics/">this repository</a> or fork it adding your code and do a pull request.</p>
+<hr />
+</div>
+<div id="cite" class="section level2">
+<h2>Cite</h2>
+<p>If you use this package, please cite <a href="https://github.com/amitjavilaventura/plotmics">this repository</a> and give it a star.</p>
+<hr />
+<center>
+<img src="https://raw.githubusercontent.com/amitjavilaventura/plotmics/main/plotmics.png" />
+</center>
+</div>
+</div>
+
+</main>
+
+        <footer>
+            <center>
+            <p class="copyright text-muted" style="color:black; font-weight:bold; text-align:center;">© All rights reserved. Powered by <a href="https://gohugo.io">Hugo</a> and <a href="https://github.com/calintat/minimal">Minimal</a>.</p>
+            </center>
+        </footer>
+
+        
+
+        
+    </body>
+
+</html>
+

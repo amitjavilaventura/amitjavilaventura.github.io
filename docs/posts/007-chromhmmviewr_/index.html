@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>chromHMMviewR</title>
+        
+            <link rel="icon" href="https://amitjavilaventura.github.io/images/dna_numeros2.png">
+        
+        <style>
+
+    html body {
+        font-family: 'Raleway', sans-serif;
+        background-color: white;
+    }
+
+    :root {
+        --accent: darkred;
+        --border-width:  5px ;
+    }
+
+</style>
+
+
+<link rel="stylesheet" href="https://amitjavilaventura.github.io/css/main.css">
+
+
+
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+
+
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"> 
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" crossorigin="anonymous">
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
+ 
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/r.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/python.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/bash.min.js"></script>
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+<script>$(document).on('click', function() { $('.collapse').collapse('hide'); })</script>
+ <meta name="generator" content="Hugo 0.88.1" />
+        
+
+        
+
+        
+            <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+        
+
+        
+
+    </head>
+
+    <body>
+        
+
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <a class="navbar-brand visible-xs" href="#">chromHMMviewR</a>
+                    <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="collapse navbar-collapse">
+                    
+                        <ul class="nav navbar-nav">
+                            
+                                <li><a href="/">Home</a></li>
+                            
+                                <li><a href="/about/">About</a></li>
+                            
+                                <li><a href="/posts/">Posts</a></li>
+                            
+                                <li><a href="/research/">Research</a></li>
+                            
+                                <li><a href="/publications/">Publications</a></li>
+                            
+                                <li><a href="/code/">Code</a></li>
+                            
+                                <li><a href="https://amitjavilaventura.github.io/CVs/">Curriculum</a></li>
+                            
+                        </ul>
+                    
+                    
+                    
+                        <ul class="nav navbar-nav navbar-right">
+                            
+                                <li class="navbar-icon"><a href="mailto:adria.mitjavila94@gmail.com" target="_blank"><i class="fas fa-at"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://github.com/amitjavilaventura/" target="_blank"><i class="fab fa-github"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://gitlab.com/amitjavilaventura/" target="_blank"><i class="fab fa-gitlab"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://bitbucket.org/amitjavilaventura/" target="_blank"><i class="fab fa-bitbucket"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://orcid.org/0000-0002-0337-1929" target="_blank"><i class="fab fa-orcid"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://stackoverflow.com/users/14525301/adri%c3%a0-mitjavila-ventura" target="_blank"><i class="fab fa-stack-overflow"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://www.linkedin.com/in/adria-mitjavila-ventura/" target="_blank"><i class="fab fa-linkedin"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://twitter.com/adriamitjavila/" target="_blank"><i class="fab fa-twitter"></i></a></li>
+                            
+                        </ul>
+                    
+                </div>
+            </div>
+        </nav>
+
+
+<main>
+
+    <div>
+        <h2>chromHMMviewR</h2>
+        <h5>ggplot2-based functions that draw heatmaps from ChromHMM output data</h5>
+        
+<a href="https://amitjavilaventura.github.io/tags/r-package"><kbd class="item-tag">R package</kbd></a>
+
+<a href="https://amitjavilaventura.github.io/tags/chromhmm"><kbd class="item-tag">chromHMM</kbd></a>
+
+
+    </div>
+
+    <div align="start" class="content">
+
+
+<style>
+    p {text-align: justify;}
+</style>
+<center>
+<strong><a href="https://amitjavilaventura.github.io" target="_blank">Adrià Mitjavila</a></strong> on <em>March 23, 2021</em>
+</center>
+<hr />
+<p>Look at the source code <a href="https://github.com/amitjavilaventura/chromHMMviewR">here</a>.</p>
+<p>Look at the documentation <a href="https://amitjavilaventura.github.io/chromHMMviewR/">here</a>.</p>
+<hr />
+<div id="goal" class="section level2">
+<h2>Goal</h2>
+<p><em>chromHMMviewR</em> is an R package to visualize data from <a href="http://compbio.mit.edu/ChromHMM/">ChromHMM</a>.</p>
+<p>After running chromHMM, I always had problems to integrate the results in my reports, so I started developping some functions to visualize the heatmaps that chromHMM shows you, but using <code>ggplot2</code> instead. Finally, in order to practice the creation of R packages, I decided to follow <a href="https://github.com/ASPteaching/2017-03-Rpackages_and_Github">these guides</a> to turn the functions into a package.</p>
+<hr />
+</div>
+<div id="install-chromhmmviewr" class="section level2">
+<h2>Install <code>chromHMMviewR</code></h2>
+<p>To install <code>chromHMMveiwR</code>, you have to run:</p>
+<pre><code># install the devtools package from CRAN (only if you don&#39;t have it)
+install.packages(&quot;devtools&quot;)
+
+# install chromHMMviewR from this Github repository devtools::install_github(&quot;amitjavilaventura/chromHMMviewR&quot;)</code></pre>
+<hr />
+</div>
+<div id="author" class="section level2">
+<h2>Author</h2>
+<p>This package has been developed by <a href="https://amitjavilaventura.github.io">Adrià Mitjavila Ventura</a>.</p>
+<p>If you want to contribute to this package, make a post in the issues section in this repository or fork this repository adding your code and do a pull request.</p>
+<hr />
+</div>
+<div id="cite" class="section level2">
+<h2>Cite</h2>
+<p>If you use this package, please cite this repository and give it an star.</p>
+<hr />
+</div>
+<div id="more" class="section level2">
+<h2>More</h2>
+<p>Go to the <a href="http://compbio.mit.edu/ChromHMM/">ChromHMM official website</a> to get more information about how to use ChromHMM.</p>
+<p>ChromHMM paper: Ernst J, Kellis M. (2012) <strong>ChromHMM: automating chromatin-state discovery and characterization</strong>. <em>Nature Methods</em>. doi: <a href="https://doi.org/10.1038/nmeth.1906" class="uri">https://doi.org/10.1038/nmeth.1906</a></p>
+<hr />
+<center>
+<img src="https://amitjavilaventura.github.io/chromHMMviewR/logo.png" />
+</center>
+</div>
+</div>
+
+</main>
+
+        <footer>
+            <center>
+            <p class="copyright text-muted" style="color:black; font-weight:bold; text-align:center;">© All rights reserved. Powered by <a href="https://gohugo.io">Hugo</a> and <a href="https://github.com/calintat/minimal">Minimal</a>.</p>
+            </center>
+        </footer>
+
+        
+
+        
+    </body>
+
+</html>
+
