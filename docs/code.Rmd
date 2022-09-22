@@ -61,6 +61,8 @@ description: "Repositories of code I developed or contributed to"
 
 <a target="_blank" href="https://github.com/amitjavilaventura/useful_bash">**Useful bash**</a>: useful bash functions and scripts.
 
+<a target="_blank" href="https://github.com/amitjavilaventura/rosalind-problems">**Rosalind problems**</a>: my solutions (Python) to some of the problems of the [ROSALIND project](https://rosalind.info/about/).
+
 ---
 
 <center>
