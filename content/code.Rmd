@@ -59,6 +59,8 @@ description: "Repositories of code I developed or contributed to"
 
 <a target="_blank" href="https://github.com/amitjavilaventura/Dockerfiles">**Docker files**</a> with software needed to run some of my code.
 
+<a target="_blank" href="https://github.com/amitjavilaventura/useful_bash">**Useful bash**</a>: useful bash functions and scripts.
+
 ---
 
 <center>
