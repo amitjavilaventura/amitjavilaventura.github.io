@@ -182,7 +182,7 @@ On the other hand, I declare myself as an R and R Markdown lover, but I am in an
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://amitjavilaventura.github.io/code/</guid>
-      <description>p {text-align: justify;}     Pipelines **piCapp**: Bash-based pipeline to pre-process small RNA-seq data focusing on the study of piRNAs. ATACseq Snakemake: Snakemake pipeline for ATAC-seq data processing and analyses used in Pasini’s lab. unmantained
+      <description>p {text-align: justify;}     Pipelines **piCapp**: Bash-based pipeline to pre-process small RNA-seq data focusing on the study of piRNAs. ATACseq Snakemake: Snakemake pipeline for ATAC-seq data processing and analyses. unmantained
  R Packages plotmics: functions to visualize omics and sequencing data.
 ggmitji: cool functions for ggplots.
 crhomHMMviewR: ggplot2-based functions that draw heatmaps from ChromHMM output data.

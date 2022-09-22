@@ -20,7 +20,7 @@ description: "Repositories of code I developed or contributed to"
 <!--<a target="_blank" href="https://github.com/amitjavilaventura/piCapp/">**piCapp**</a>: Bash-based pipeline to pre-process small RNA-seq data focusing on the study of piRNAs. <!--It is meant to run in a SLURM-based cluster and can be executed in parallel or linear. *private* -->
 
 <!-- Atac-seq snakemake -->
-<a target="_blank" href="https://github.com/amitjavilaventura/atacseq-snakemake/">**ATACseq Snakemake**</a>: Snakemake pipeline for ATAC-seq data processing and analyses used in Pasini’s lab. *unmantained*  
+<a target="_blank" href="https://github.com/amitjavilaventura/atacseq-snakemake/">**ATACseq Snakemake**</a>: Snakemake pipeline for ATAC-seq data processing and analyses. *unmantained*  
 
 ---
 

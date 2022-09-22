@@ -77,3 +77,8 @@ menu:
     - name: Curriculum
       url: https://amitjavilaventura.github.io/CVs/
       weight: 7
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
