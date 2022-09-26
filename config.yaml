@@ -75,7 +75,7 @@ menu:
       url: /code/
       weight: 6
     - name: Curriculum
-      url: https://amitjavilaventura.github.io/CVs/
+      url: /cv/  ##https://amitjavilaventura.github.io/CVs/
       weight: 7
 
 markup:

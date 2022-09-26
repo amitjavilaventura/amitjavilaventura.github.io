@@ -25,7 +25,9 @@ After graduating, I studied a MSc in Molecular Genetics, where I initiated to bi
 
 Then, I enrolled on a MSc in Bioinformatics in which I am learning the basic tools and statistical knowledge behind the analyses of large amounts of biological data. 
 
-In 2019 I moved to Milan where I worked as a bioinformatician for two years. There, I collaborated in several projects studying epigenetic mechanisms and signaling pathways -mainly Wnt/$\beta$catenin- underlying cell differentiation and oncogenesis. After two years, in August 2021, I returned to Catalunya to continue my career in bioinformatics at the [Regulatory Genomics group](https://www.carrerasresearch.org/en/regulatory-genomics) in the [Josep Carreras Leukaemia Research Institute](https://www.carrerasresearch.org/en), where I completed my master's thesis and I worked as a computational biologist.
+In 2019 I moved to Milan where I worked as a bioinformatician for two years. There, I collaborated in several projects studying epigenetic mechanisms and signaling pathways -mainly Wnt/$\beta$catenin- underlying cell differentiation and oncogenesis. 
+
+After two years, in August 2021, I returned to Catalunya to continue my career in bioinformatics at the [Regulatory Genomics group](https://www.carrerasresearch.org/en/regulatory-genomics) in the [Josep Carreras Leukaemia Research Institute](https://www.carrerasresearch.org/en), where I completed my master's thesis and I worked as a computational biologist.
 
 Recently, I have been awarded the [INPhINIT Incoming PhD fellowship](https://fundacionlacaixa.org/en/inphinit-doctoral-fellowships-incoming) from LaCaixa and I will start my PhD in Bioinformatics in the same institute, group and topic.
 

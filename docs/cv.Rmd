@@ -1,0 +1,25 @@
+---
+title: "Currículum vitae"
+description: ""
+---
+
+<style>
+    p {text-align: justify;}
+</style>
+
+<head>
+  <!-- Place this tag in your head or just before your close body tag. -->
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+</head>
+
+---
+
+```{r, echo=FALSE, fig.width=7, fig.height=15, fig.align="center"}
+knitr::include_url(url = "https://amitjavilaventura.github.io/CVs/")
+```
+
+
+<center>
+<!-- Follow me button -->
+<a class="github-button" href="https://github.com/amitjavilaventura" data-size="large" data-show-count="true" aria-label="Follow @amitjavilaventura on GitHub">Follow @amitjavilaventura</a>
+</center>
