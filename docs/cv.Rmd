@@ -14,8 +14,8 @@ description: ""
 
 ---
 
-```{r, echo=FALSE, fig.width=7, fig.height=15, fig.align="center"}
-knitr::include_url(url = "https://amitjavilaventura.github.io/CVs/")
+```{r, echo=FALSE, out.width=10, out.height=15, fig.align="center"}
+knitr::include_url(url = "https://amitjavilaventura.github.io/CVs/", height = 15)
 ```
 
 
