@@ -1,5 +1,5 @@
 ---
-title: "Currículum vitae"
+title: ""
 description: ""
 ---
 
@@ -12,9 +12,7 @@ description: ""
   <script async defer src="https://buttons.github.io/buttons.js"></script>
 </head>
 
----
-
-```{r, echo=FALSE, out.width="1000px", out.height="800px", fig.align="center"}
+```{r, echo=FALSE, out.width="850px", out.height="800px", fig.align="center"}
 knitr::include_url(url = "https://amitjavilaventura.github.io/CVs/", height = "800px")
 ```
 

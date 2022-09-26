@@ -167,6 +167,15 @@ The blog is entirely in catalan and is focussed to communicate general Biology k
     </item>
     
     <item>
+      <title></title>
+      <link>https://amitjavilaventura.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amitjavilaventura.github.io/cv/</guid>
+      <description>  p {text-align: justify;}       Follow @amitjavilaventura  </description>
+    </item>
+    
+    <item>
       <title>About me</title>
       <link>https://amitjavilaventura.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -187,15 +196,6 @@ On the other hand, I declare myself as an R and R Markdown lover, but I am in an
 ggmitji: cool functions for ggplots.
 crhomHMMviewR: ggplot2-based functions that draw heatmaps from ChromHMM output data.
  Shiny apps DPomics: shiny app designed to visualize omics data from the Pasini Lab (RNA-seq and ChIP-seq).</description>
-    </item>
-    
-    <item>
-      <title>Currículum vitae</title>
-      <link>https://amitjavilaventura.github.io/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://amitjavilaventura.github.io/cv/</guid>
-      <description>  p {text-align: justify;}       Follow @amitjavilaventura  </description>
     </item>
     
     <item>
