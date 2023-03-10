@@ -37,7 +37,7 @@ Recently, I have been awarded the [INPhINIT Incoming PhD fellowship](https://fun
 
 As a plus, I have been an active member from the [*Associació de Biotecnòlegs de Catalunya (ASBTEC)*](https://asbtec.cat) -an association dedicated to promotion of the biotechnologists in the Catalan society- since 2018 (and board member from 2019 to 2022), collaborating in the organization of diverse Biotechnology-related events (e.g. job search, entrepreneurship, outreach, different research topics...) and leading the team in charge of communication through social networks, our webpage and other activities.
 
-Furthermore, one of my hobbies is communicating science and for this reason I have recently started [BioBit](https://biobit.netlify.app), a blog dedicated to spread Bioinformatics, although its main goal is to study about what I write. Also, I started [Perill Biologic](https://perillbiologic.netlify.app), another blog to disseminate basic Biology in Catalan.
+Furthermore, one of my hobbies is communicating science and, for this reason, I started [BioBit](https://biobit.netlify.app), a blog dedicated to spread Bioinformatics, although its main goal is to study about what I write. Also, I started [Perill Biologic](https://perillbiologic.netlify.app), another blog to disseminate basic Biology in Catalan.
 
 Recently, I have been involved in outreach activities organized by the [Josep Carreras Leukaemia Research Institute](https://www.carrerasresearch.org/en)
 
