@@ -1,8 +1,8 @@
 ---
 title: "INPhINIT Incoming"
 description: "I have been awarded a nice PhD fellowship"
-date: 2020-11-20
-draft: true
+date: 2022-11-20
+draft: false
 ---
 
 <center>

@@ -1,8 +1,8 @@
 ---
 title: "Genetic polymorphisms lead to major, locus-specific, variation in piRNA production in mouse"
 description: "After many months of reviewing, performing new analyses and re-writing, my first co-first author paper is out! :) "
-date: 2020-11-20
-draft: true
+date: 2025-06-05
+draft: false
 ---
 
 <center>

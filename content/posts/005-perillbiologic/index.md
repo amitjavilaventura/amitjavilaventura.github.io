@@ -1,0 +1,20 @@
+---
+title: "Perill biològic"
+description: "Biologia per a tots i en català"
+date: 2021-02-10
+---
+
+<center>
+<strong><a href="https://amitjavilaventura.github.io" target="_blank">Adrià Mitjavila</a></strong> on <em>February 10, 2021</em>
+</center>
+
+---
+
+
+
+
+I have recently started a blog named [Perill Biològic](https://perillbiologic.netlify.app). 
+
+The blog is entirely in catalan and is focussed to communicate general Biology knowledge to society. 
+
+![](/images/perill_biologic.png){width=400 height=400}
