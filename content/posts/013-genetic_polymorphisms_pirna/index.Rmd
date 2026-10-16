@@ -3,6 +3,10 @@ title: "Genetic polymorphisms lead to major, locus-specific, variation in piRNA 
 description: "New paper: how genetic polymorphisms and transposable elements influence the variation and emergence of piRNA expression"
 date: 2025-06-05
 draft: false
+tags:
+  - piRNAs
+  - Transposable elements
+  - Journal Article
 ---
 
 <center>

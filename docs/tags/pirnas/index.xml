@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PiRNAs on Adrià Mitjavila Ventura</title>
+    <link>https://amitjavilaventura.github.io/tags/pirnas/</link>
+    <description>Recent content in PiRNAs on Adrià Mitjavila Ventura</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://amitjavilaventura.github.io/tags/pirnas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mechanisms seeding the emergence new piRNAs</title>
+      <link>https://amitjavilaventura.github.io/posts/014-tig_forum_article_pirna/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://amitjavilaventura.github.io/posts/014-tig_forum_article_pirna/</guid>
+      <description>&lt;center&gt;&#xA;&lt;strong&gt;&lt;a href=&#34;https://amitjavilaventura.github.io&#34; target=&#34;_blank&#34;&gt;Adrià Mitjavila&lt;/a&gt;&lt;/strong&gt; on &lt;em&gt;June 15, 2022&lt;/em&gt;&#xA;&lt;/center&gt;&#xA;&lt;hr&gt;&#xA;&lt;style&gt;&#xA;    p {text-align: justify;}&#xA;&lt;/style&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.cell.com/trends/genetics/fulltext/S0168-9525(26)00111-3&#34;&gt;Mechanisms seeding the emergence of new piRNAs&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;PIWI-interacting RNAs (piRNAs) form an adaptive small RNA system that regulates transposons and some host genes in animal gonads. In this forum, we discuss recent within-species comparisons across flies and mammals that reveal extensive variation in piRNA-producing loci, providing new insights into how piRNAs emerge, diversify, and adapt to new threats.&lt;/p&gt;&#xA;&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Genetic polymorphisms lead to major, locus-specific, variation in piRNA production in mouse</title>
+      <link>https://amitjavilaventura.github.io/posts/013-genetic_polymorphisms_pirna/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://amitjavilaventura.github.io/posts/013-genetic_polymorphisms_pirna/</guid>
+      <description>&lt;center&gt;&#xA;&lt;strong&gt;&lt;a href=&#34;https://amitjavilaventura.github.io&#34; target=&#34;_blank&#34;&gt;Adrià Mitjavila&lt;/a&gt;&lt;/strong&gt; on &lt;em&gt;June 15, 2022&lt;/em&gt;&#xA;&lt;/center&gt;&#xA;&lt;hr&gt;&#xA;&lt;style&gt;&#xA;    p {text-align: justify;}&#xA;&lt;/style&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.embopress.org/doi/full/10.1038/s44318-025-00475-4&#34;&gt;Genetic polymorphisms lead to major, locus-specific, variation in piRNA production in mouse&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;PIWI-interacting RNAs (piRNAs) are small noncoding RNAs that silence transposons in the animal germline. PiRNAs are produced from long single-stranded noncoding transcripts, from protein-coding transcripts, as well as from transposons. While some sites that produce piRNAs are in deeply conserved syntenic regions, in general, piRNAs and piRNA-producing loci turnover faster than other functional parts of the genome. To learn about the sequence changes that contribute to the fast evolution of piRNAs, we set out to analyze piRNA expression between genetically different mice. Here we report the sequencing and analysis of small RNAs from the mouse male germline of four classical inbred strains, one inbred wild-derived strain and one outbred strain. We find that genetic differences between individuals underlie variation in piRNA expression. We report significant differences in piRNA production at loci with endogenous retrovirus insertions. Strain-specific piRNA-producing loci include protein-coding genes. Our findings provide evidence that transposable elements contribute to inter-individual differences in expression, and potentially to the fast evolution of piRNA-producing loci in mammals.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
