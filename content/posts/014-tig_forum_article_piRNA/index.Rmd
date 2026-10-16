@@ -1,6 +1,6 @@
 ---
 title: "Mechanisms seeding the emergence new piRNAs"
-description: "TiG Forum Article: how new piRNAs and piRNA clusters emerge and evolve"
+description: "How new piRNAs and piRNA clusters emerge and evolve"
 date: 2026-09-01
 draft: false
 tags:
