@@ -1,6 +1,6 @@
 ---
 title: "Genetic polymorphisms lead to major, locus-specific, variation in piRNA production in mouse"
-description: "New paper: how genetic polymorphisms and transposable elements influence the variation and emergence of piRNA expression"
+description: "How genetic polymorphisms and transposons influence piRNA cluster expression"
 date: 2025-06-05
 draft: false
 tags:
