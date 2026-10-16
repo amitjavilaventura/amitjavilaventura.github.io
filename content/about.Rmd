@@ -1,6 +1,6 @@
 ---
 title: "About me"
-description: "Biotechnologist living around computers"
+description: "Bioinformatician | Biotechnology | Molecular Genetics"
 ---
 
 ---
