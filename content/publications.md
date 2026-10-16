@@ -15,20 +15,20 @@ description: "Selected publications where I appear as an author"
 
 ### <ins>**Journal articles**</ins>
 
-#### Research articles
+#### <u>Research articles</u>
 
 Casas, Mitjavila-Ventura *et al* (2025). **Genetic polymorphisms lead to major, locus-specific, variation in piRNA production in mouse**. *EMBO Journal*. [doi: 10.1038/s44318-025-00475-4](https://doi.org/10.1038/s44318-025-00475-4).
 
 Begley *et al* (2020). **Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration**. *RNA Biology*. [doi: 10.1080/15476286.2020.1845504](https://doi.org/10.1080/15476286.2020.1845504).
 
-#### Reviews
+#### <u>Reviews</u>
 
 Mitjavila-Ventura & Vavouri (2026). **Mechanisms seeding the emergence of new piRNAs**. *Trends in Genetics*. [doi: 10.1016/j.tig.2026.04.004](https://www.cell.com/trends/genetics/fulltext/S0168-9525(26)00111-3).
 
 
 
 <!--
-#### <ins>**Pre prints**</ins>
+#### <u>**Pre prints**</u>
 -->
 
 ### <ins>**Posters and presentations**</ins>
