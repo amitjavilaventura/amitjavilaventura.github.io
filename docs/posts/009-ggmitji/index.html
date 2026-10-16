@@ -64,11 +64,9 @@
 
 
 <script>$(document).on('click', function() { $('.collapse').collapse('hide'); })</script>
- <meta name="generator" content="Hugo 0.88.1" />
+ <meta name="generator" content="Hugo 0.145.0">
         
-
         
-
         
             <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
         
@@ -148,114 +146,93 @@
 
     </div>
 
-    <div align="start" class="content">
-
-
-<style>
+    <div align="start" class="content"><style>
     p {text-align: justify;}
 </style>
 <center>
 <strong><a href="https://amitjavilaventura.github.io" target="_blank">Adrià Mitjavila</a></strong> on <em>May 29, 2022</em>
 </center>
-<hr />
+<hr>
 <p>Look at the source code <a href="https://github.com/amitjavilaventura/ggmitji">here</a>.</p>
 <p>Look at the documentation <a href="https://amitjavilaventura.github.io/ggmitji/">here</a>.</p>
-<hr />
+<hr>
 <p><em>ggmitji</em> is an R package with cool functions to complement ggplots.</p>
-<div id="dependencies" class="section level2">
-<h2>Dependencies</h2>
+<h2 id="dependencies">Dependencies</h2>
 <p><code>ggmitji</code> depends on several packages, such as: <code>ggplot2</code>, <code>magrittr</code>, <code>polyclip</code>, <code>cowplot</code>, and <code>ggpubr</code>.</p>
-</div>
-<div id="functions" class="section level2">
-<h2>Functions</h2>
-<pre class="r"><code># Load packages
-library(ggplot2)
-library(ggmitji)
-library(patchwork)</code></pre>
-<div id="boxplots" class="section level3">
-<h3>Boxplots</h3>
-<div id="without-outliers" class="section level4">
-<h4>without outliers</h4>
-<p>If you don’t like to show the outliers in your boxplots, you can use <code>stat_summary_boxplot()</code>.</p>
-<pre class="r"><code>bp_outliers &lt;- ggplot(mpg, aes(class, hwy)) + stat_boxplot() + labs(title = &quot;Made with stat_boxplot&quot;, subtitle = &quot;with outliers&quot;)
-bp_no_outliers &lt;- ggplot(mpg, aes(class, hwy)) + stat_summary_boxplot() + labs(title = &quot;Made with stat_summry_boxplot&quot;, subtitle = &quot;without outliers&quot;)
-bp_outliers+bp_no_outliers</code></pre>
-<p><img src="https://amitjavilaventura.github.io/posts/009-ggmitji/index_files/figure-html/unnamed-chunk-1-1.png" width="672" /></p>
+<h2 id="functions">Functions</h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-r" data-lang="r"><span style="display:flex;"><span><span style="color:#75715e"># Load packages</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">library</span>(ggplot2)
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">library</span>(ggmitji)
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">library</span>(patchwork)
+</span></span></code></pre></div><h3 id="boxplots">Boxplots</h3>
+<h4 id="without-outliers">without outliers</h4>
+<p>If you don&rsquo;t like to show the outliers in your boxplots, you can use <code>stat_summary_boxplot()</code>.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-r" data-lang="r"><span style="display:flex;"><span>bp_outliers <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">ggplot</span>(mpg, <span style="color:#a6e22e">aes</span>(class, hwy)) <span style="color:#f92672">+</span> <span style="color:#a6e22e">stat_boxplot</span>() <span style="color:#f92672">+</span> <span style="color:#a6e22e">labs</span>(title <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;Made with stat_boxplot&#34;</span>, subtitle <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;with outliers&#34;</span>)
+</span></span><span style="display:flex;"><span>bp_no_outliers <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">ggplot</span>(mpg, <span style="color:#a6e22e">aes</span>(class, hwy)) <span style="color:#f92672">+</span> <span style="color:#a6e22e">stat_summary_boxplot</span>() <span style="color:#f92672">+</span> <span style="color:#a6e22e">labs</span>(title <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;Made with stat_summry_boxplot&#34;</span>, subtitle <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;without outliers&#34;</span>)
+</span></span><span style="display:flex;"><span>bp_outliers<span style="color:#f92672">+</span>bp_no_outliers
+</span></span></code></pre></div><img src="https://amitjavilaventura.github.io/posts/009-ggmitji/index_files/figure-html/unnamed-chunk-1-1.png" width="672" />
 <ul>
 <li><em>Note that the outliers are still there for further computations, but they are not plot.</em></li>
 </ul>
-</div>
-<div id="with-extra-information" class="section level4">
-<h4>with extra information</h4>
+<h4 id="with-extra-information">with extra information</h4>
 <p>If you want to add more information on your boxplots, you can use <code>stat_info_boxplot()</code> and <code>stat_point_boxplot()</code>.</p>
 <ul>
 <li><code>stat_info_boxplot()</code> adds information about the number, mean, median or standard deviation of each boxplot. It allows to add a label and specify the size, color and vertical position of the label.</li>
 </ul>
-<pre class="r"><code>bp_no_outliers + 
-  labs(title = &quot;Boxplot without outliers made with stat_summary_boxplot()&quot;, subtitle = &quot;including information about the mean and the number of observations&quot;) +
-  stat_info_boxplot(statistic = &quot;n&quot;, label = &quot;N=&quot;, y = 13, text_color = &quot;darkblue&quot;, text_size = 4) + 
-  stat_info_boxplot(statistic = &quot;mean&quot;, label = &quot;µ=&quot;, y = 11, text_color = &quot;darkred&quot;, text_size = 4)</code></pre>
-<p><img src="https://amitjavilaventura.github.io/posts/009-ggmitji/index_files/figure-html/unnamed-chunk-2-1.png" width="672" /></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-r" data-lang="r"><span style="display:flex;"><span>bp_no_outliers <span style="color:#f92672">+</span> 
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">labs</span>(title <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;Boxplot without outliers made with stat_summary_boxplot()&#34;</span>, subtitle <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;including information about the mean and the number of observations&#34;</span>) <span style="color:#f92672">+</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">stat_info_boxplot</span>(statistic <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;n&#34;</span>, label <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;N=&#34;</span>, y <span style="color:#f92672">=</span> <span style="color:#ae81ff">13</span>, text_color <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;darkblue&#34;</span>, text_size <span style="color:#f92672">=</span> <span style="color:#ae81ff">4</span>) <span style="color:#f92672">+</span> 
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">stat_info_boxplot</span>(statistic <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;mean&#34;</span>, label <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;µ=&#34;</span>, y <span style="color:#f92672">=</span> <span style="color:#ae81ff">11</span>, text_color <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;darkred&#34;</span>, text_size <span style="color:#f92672">=</span> <span style="color:#ae81ff">4</span>)
+</span></span></code></pre></div><img src="https://amitjavilaventura.github.io/posts/009-ggmitji/index_files/figure-html/unnamed-chunk-2-1.png" width="672" />
 <ul>
 <li><code>stat_point_boxplot()</code> draws a point at the mean, maximum, minimum or any quartile of each boxplot. It allows to specify color and size of the point.</li>
 </ul>
-<pre class="r"><code>bp_no_outliers + 
-  labs(title = &quot;Boxplot without outliers made with stat_summary_boxplot()&quot;, subtitle = &quot;including a point for the mean value&quot;) +
-  stat_point_boxplot(stat = &quot;mean&quot;, point_size = 3, point_color = &quot;red&quot;)</code></pre>
-<p><img src="https://amitjavilaventura.github.io/posts/009-ggmitji/index_files/figure-html/unnamed-chunk-3-1.png" width="672" /></p>
-</div>
-</div>
-</div>
-<div id="facets" class="section level2">
-<h2>Facets</h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-r" data-lang="r"><span style="display:flex;"><span>bp_no_outliers <span style="color:#f92672">+</span> 
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">labs</span>(title <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;Boxplot without outliers made with stat_summary_boxplot()&#34;</span>, subtitle <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;including a point for the mean value&#34;</span>) <span style="color:#f92672">+</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">stat_point_boxplot</span>(stat <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;mean&#34;</span>, point_size <span style="color:#f92672">=</span> <span style="color:#ae81ff">3</span>, point_color <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;red&#34;</span>)
+</span></span></code></pre></div><img src="https://amitjavilaventura.github.io/posts/009-ggmitji/index_files/figure-html/unnamed-chunk-3-1.png" width="672" />
+<h2 id="facets">Facets</h2>
 <p>Facets are nice features to make the plots better. However, if you want to paint the strips with different colors, you have to go through tricky workarounds. Hence, I created the functions <code>fill_strips_top()</code> and <code>fill_strips_right()</code> to fill the top and right facet strips, respectively.</p>
 <p>They are not like a normal <code>ggplot2</code> function, so you cannot use <code>+</code> and you have to input the object directly into the function. Another drawback is that the resulting object cannot be modified by <code>theme()</code>, <code>scale_*_*()</code>, so all the required modifications have to be done before the coloring.</p>
-<pre class="r"><code># No colored strips
-p1 &lt;- bp_no_outliers + facet_grid(cols = vars(cyl)) + labs(title = &quot;Facetted boxplot with normal top strips&quot;, subtitle = NULL)
-
-# Colored top strips
-p2 &lt;- bp_no_outliers + facet_grid(cols = vars(cyl)) + labs(title = &quot;Facetted boxplot with colored top strips&quot;, subtitle = NULL)
-p2 &lt;- fill_strips_top(p2, colors = c(&quot;pink&quot;, &quot;lightgreen&quot;, &quot;gold1&quot;, &quot;cornflowerblue&quot;))
-
-# Colored right strips
-p3 &lt;- bp_no_outliers + facet_grid(rows = vars(cyl)) + labs(title = &quot;Facetted boxplot with colored right strips&quot;, subtitle = NULL)
-p3 &lt;- fill_strips_right(p3, colors = c(&quot;pink&quot;, &quot;lightgreen&quot;, &quot;gold1&quot;, &quot;cornflowerblue&quot;))
-
-
-p1</code></pre>
-<p><img src="https://amitjavilaventura.github.io/posts/009-ggmitji/index_files/figure-html/unnamed-chunk-4-1.png" width="672" /></p>
-<pre class="r"><code>p2</code></pre>
-<p><img src="https://amitjavilaventura.github.io/posts/009-ggmitji/index_files/figure-html/unnamed-chunk-4-2.png" width="672" /></p>
-<pre class="r"><code>p3</code></pre>
-<p><img src="https://amitjavilaventura.github.io/posts/009-ggmitji/index_files/figure-html/unnamed-chunk-4-3.png" width="672" /></p>
-<div id="shaded-venn-diagrams" class="section level3">
-<h3>Shaded Venn diagrams</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-r" data-lang="r"><span style="display:flex;"><span><span style="color:#75715e"># No colored strips</span>
+</span></span><span style="display:flex;"><span>p1 <span style="color:#f92672">&lt;-</span> bp_no_outliers <span style="color:#f92672">+</span> <span style="color:#a6e22e">facet_grid</span>(cols <span style="color:#f92672">=</span> <span style="color:#a6e22e">vars</span>(cyl)) <span style="color:#f92672">+</span> <span style="color:#a6e22e">labs</span>(title <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;Facetted boxplot with normal top strips&#34;</span>, subtitle <span style="color:#f92672">=</span> <span style="color:#66d9ef">NULL</span>)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Colored top strips</span>
+</span></span><span style="display:flex;"><span>p2 <span style="color:#f92672">&lt;-</span> bp_no_outliers <span style="color:#f92672">+</span> <span style="color:#a6e22e">facet_grid</span>(cols <span style="color:#f92672">=</span> <span style="color:#a6e22e">vars</span>(cyl)) <span style="color:#f92672">+</span> <span style="color:#a6e22e">labs</span>(title <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;Facetted boxplot with colored top strips&#34;</span>, subtitle <span style="color:#f92672">=</span> <span style="color:#66d9ef">NULL</span>)
+</span></span><span style="display:flex;"><span>p2 <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">fill_strips_top</span>(p2, colors <span style="color:#f92672">=</span> <span style="color:#a6e22e">c</span>(<span style="color:#e6db74">&#34;pink&#34;</span>, <span style="color:#e6db74">&#34;lightgreen&#34;</span>, <span style="color:#e6db74">&#34;gold1&#34;</span>, <span style="color:#e6db74">&#34;cornflowerblue&#34;</span>))
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Colored right strips</span>
+</span></span><span style="display:flex;"><span>p3 <span style="color:#f92672">&lt;-</span> bp_no_outliers <span style="color:#f92672">+</span> <span style="color:#a6e22e">facet_grid</span>(rows <span style="color:#f92672">=</span> <span style="color:#a6e22e">vars</span>(cyl)) <span style="color:#f92672">+</span> <span style="color:#a6e22e">labs</span>(title <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;Facetted boxplot with colored right strips&#34;</span>, subtitle <span style="color:#f92672">=</span> <span style="color:#66d9ef">NULL</span>)
+</span></span><span style="display:flex;"><span>p3 <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">fill_strips_right</span>(p3, colors <span style="color:#f92672">=</span> <span style="color:#a6e22e">c</span>(<span style="color:#e6db74">&#34;pink&#34;</span>, <span style="color:#e6db74">&#34;lightgreen&#34;</span>, <span style="color:#e6db74">&#34;gold1&#34;</span>, <span style="color:#e6db74">&#34;cornflowerblue&#34;</span>))
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>p1
+</span></span></code></pre></div><img src="https://amitjavilaventura.github.io/posts/009-ggmitji/index_files/figure-html/unnamed-chunk-4-1.png" width="672" />
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-r" data-lang="r"><span style="display:flex;"><span>p2
+</span></span></code></pre></div><img src="https://amitjavilaventura.github.io/posts/009-ggmitji/index_files/figure-html/unnamed-chunk-4-2.png" width="672" />
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-r" data-lang="r"><span style="display:flex;"><span>p3
+</span></span></code></pre></div><img src="https://amitjavilaventura.github.io/posts/009-ggmitji/index_files/figure-html/unnamed-chunk-4-3.png" width="672" />
+<h3 id="shaded-venn-diagrams">Shaded Venn diagrams</h3>
 <p>Venn diagrams are useful to show intersections of different sets. Sometimes, the intersections, unions or other areas of the Venn are used to draw other plots. In these ocasions, you can draw a Venn diagram with shaded areas to specify what are you plotting.</p>
 <p>For this cases, you can use <code>shaded_2d_venn()</code> and <code>shaded_3d_venn()</code> for 2D and 3D Venn diagrams respecitvely.</p>
-<pre class="r"><code>shaded_2d_venn(highlight = &quot;AB&quot;, color = &quot;blue&quot;) +
-shaded_2d_venn(highlight = c(&quot;noAB&quot;, &quot;AnoB&quot;), color = c(&quot;Blue&quot;, &quot;Red&quot;)) +
-shaded_3d_venn(highlight =  c(&quot;AnoBnoC&quot;, &quot;noABC&quot;), color = c(&quot;yellow&quot;, &quot;green&quot;)) +
-shaded_3d_venn(highlight = &quot;all&quot;, color = &quot;black&quot;, line.col = &quot;white&quot;)</code></pre>
-<p><img src="https://amitjavilaventura.github.io/posts/009-ggmitji/index_files/figure-html/unnamed-chunk-5-1.png" width="480" /></p>
-</div>
-<div id="polygons" class="section level3">
-<h3>Polygons</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-r" data-lang="r"><span style="display:flex;"><span><span style="color:#a6e22e">shaded_2d_venn</span>(highlight <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;AB&#34;</span>, color <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;blue&#34;</span>) <span style="color:#f92672">+</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">shaded_2d_venn</span>(highlight <span style="color:#f92672">=</span> <span style="color:#a6e22e">c</span>(<span style="color:#e6db74">&#34;noAB&#34;</span>, <span style="color:#e6db74">&#34;AnoB&#34;</span>), color <span style="color:#f92672">=</span> <span style="color:#a6e22e">c</span>(<span style="color:#e6db74">&#34;Blue&#34;</span>, <span style="color:#e6db74">&#34;Red&#34;</span>)) <span style="color:#f92672">+</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">shaded_3d_venn</span>(highlight <span style="color:#f92672">=</span>  <span style="color:#a6e22e">c</span>(<span style="color:#e6db74">&#34;AnoBnoC&#34;</span>, <span style="color:#e6db74">&#34;noABC&#34;</span>), color <span style="color:#f92672">=</span> <span style="color:#a6e22e">c</span>(<span style="color:#e6db74">&#34;yellow&#34;</span>, <span style="color:#e6db74">&#34;green&#34;</span>)) <span style="color:#f92672">+</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">shaded_3d_venn</span>(highlight <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;all&#34;</span>, color <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;black&#34;</span>, line.col <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;white&#34;</span>)
+</span></span></code></pre></div><img src="https://amitjavilaventura.github.io/posts/009-ggmitji/index_files/figure-html/unnamed-chunk-5-1.png" width="480" />
+<h3 id="polygons">Polygons</h3>
 <p>I have also add a <code>draw_polygon()</code> to draw several polygons and shapes. It allows to draw squares, circles, triangles, inverted-L-like polygons, hearts and diamonds.</p>
 <p>It may not be very useful, but it is cool.</p>
-<pre class="r"><code>l = draw_polygon(shape = &quot;L&quot;, color = &quot;Black&quot;, fill = NA)
-s = draw_polygon(shape = &quot;square&quot;, color = &quot;red&quot;, fill = &quot;cornflowerblue&quot;)
-t = draw_polygon(shape = &quot;triangle&quot;, color = &quot;Black&quot;, fill = &quot;pink&quot;)
-c = draw_polygon(shape = &quot;circle&quot;, color = &quot;Black&quot;, fill = &quot;yellow&quot;)
-d = draw_polygon(shape = &quot;diamond&quot;, color = &quot;Black&quot;, fill = &quot;red&quot;)
-h = draw_polygon(shape = &quot;heart&quot;, color = NA, fill = &quot;red&quot;)
-(l + s + t + c + h + d)</code></pre>
-<p><img src="https://amitjavilaventura.github.io/posts/009-ggmitji/index_files/figure-html/unnamed-chunk-6-1.png" width="672" /></p>
-</div>
-<div id="themes" class="section level3">
-<h3>Themes</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-r" data-lang="r"><span style="display:flex;"><span>l <span style="color:#f92672">=</span> <span style="color:#a6e22e">draw_polygon</span>(shape <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;L&#34;</span>, color <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;Black&#34;</span>, fill <span style="color:#f92672">=</span> <span style="color:#66d9ef">NA</span>)
+</span></span><span style="display:flex;"><span>s <span style="color:#f92672">=</span> <span style="color:#a6e22e">draw_polygon</span>(shape <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;square&#34;</span>, color <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;red&#34;</span>, fill <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;cornflowerblue&#34;</span>)
+</span></span><span style="display:flex;"><span>t <span style="color:#f92672">=</span> <span style="color:#a6e22e">draw_polygon</span>(shape <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;triangle&#34;</span>, color <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;Black&#34;</span>, fill <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;pink&#34;</span>)
+</span></span><span style="display:flex;"><span>c <span style="color:#f92672">=</span> <span style="color:#a6e22e">draw_polygon</span>(shape <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;circle&#34;</span>, color <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;Black&#34;</span>, fill <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;yellow&#34;</span>)
+</span></span><span style="display:flex;"><span>d <span style="color:#f92672">=</span> <span style="color:#a6e22e">draw_polygon</span>(shape <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;diamond&#34;</span>, color <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;Black&#34;</span>, fill <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;red&#34;</span>)
+</span></span><span style="display:flex;"><span>h <span style="color:#f92672">=</span> <span style="color:#a6e22e">draw_polygon</span>(shape <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;heart&#34;</span>, color <span style="color:#f92672">=</span> <span style="color:#66d9ef">NA</span>, fill <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;red&#34;</span>)
+</span></span><span style="display:flex;"><span>(l <span style="color:#f92672">+</span> s <span style="color:#f92672">+</span> t <span style="color:#f92672">+</span> c <span style="color:#f92672">+</span> h <span style="color:#f92672">+</span> d)
+</span></span></code></pre></div><img src="https://amitjavilaventura.github.io/posts/009-ggmitji/index_files/figure-html/unnamed-chunk-6-1.png" width="672" />
+<h3 id="themes">Themes</h3>
 <p><code>ggmitji</code> have several themes to customize almost everything in a ggplot.</p>
-</div>
-</div>
 </div>
 
 </main>

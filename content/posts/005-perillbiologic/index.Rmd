@@ -19,4 +19,4 @@ I have recently started a blog named [Perill Biològic](https://perillbiologic.n
 
 The blog is entirely in catalan and is focussed to communicate general Biology knowledge to society. 
 
-![](/images/perill_biologic.png){width=400 height=400}
+<!-- ![](/images/perill_biologic.png){width=400 height=400} -->

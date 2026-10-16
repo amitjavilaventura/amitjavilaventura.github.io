@@ -2,6 +2,7 @@
 title: "DPomics"
 description: "A ShinyApp to visualize omics data from my lab"
 date: 2021-03-05
+draft: true
 ---
 
 <style>

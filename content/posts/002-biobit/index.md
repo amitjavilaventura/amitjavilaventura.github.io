@@ -22,5 +22,4 @@ date: 2020-11-20
 
 <p align='justify'>You can take a look at the blog at https://biobit.netlify.app.</p>
 
-<img src="BIOBIT.png" width="35%" style="display: block; margin: auto;" />
-
+The BioBit blog has been closed.

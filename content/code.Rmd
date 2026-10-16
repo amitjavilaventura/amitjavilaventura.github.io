@@ -43,7 +43,7 @@ description: "Repositories of code I developed or contributed to"
 <a target="_blank" href="https://github.com/amitjavilaventura/DPomics">**DPomics**</a>: shiny app designed to visualize omics data from the Pasini Lab (RNA-seq and ChIP-seq). *unmantained*
 
 <!-- DNApp -->
-<a target="_blank" href="https://github.com/amitjavilaventura/DNApp">**DNApp**</a>: simple shiny app with several DNA-related tools. *ongoing*
+<a target="_blank" href="https://github.com/amitjavilaventura/DNApp">**DNApp**</a>: simple shiny app with several DNA-related tools. *unmaintained*
 
 <!-- DNAme -->
 <a target="_blank" href="https://github.com/amitjavilaventura/DNAme">**DNAme**</a>: shiny app designed for learning/teaching purposes that converts a word to a DNA sequence. Try it [here](https://amitjavilaventura.shinyapps.io/DNAme/).
@@ -67,5 +67,5 @@ description: "Repositories of code I developed or contributed to"
 
 <center>
 <!-- Follow me button -->
-<a class="github-button" href="https://github.com/amitjavilaventura" data-size="large" data-show-count="true" aria-label="Follow @amitjavilaventura on GitHub">Follow @amitjavilaventura</a>
+<a class="github-button" href="https://github.com/amitjavilaventura" data-size="large" data-show-count="true" aria-label="Follow @amitjavilaventura on GitHub">Follow \@amitjavilaventura</a>
 </center>

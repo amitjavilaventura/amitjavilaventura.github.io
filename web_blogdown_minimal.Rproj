@@ -13,4 +13,4 @@ RnwWeave: Sweave
 LaTeX: pdfLaTeX
 
 BuildType: Website
-WebsitePath: ~/Desktop/Webs/personal
+WebsitePath: ~/Desktop/misc/webs/personal

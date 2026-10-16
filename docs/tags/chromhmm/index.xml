@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>chromHMM on Adrià Mitjavila Ventura</title>
+    <title>ChromHMM on Adrià Mitjavila Ventura</title>
     <link>https://amitjavilaventura.github.io/tags/chromhmm/</link>
-    <description>Recent content in chromHMM on Adrià Mitjavila Ventura</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in ChromHMM on Adrià Mitjavila Ventura</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://amitjavilaventura.github.io/tags/chromhmm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://amitjavilaventura.github.io/tags/chromhmm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>chromHMMviewR</title>
       <link>https://amitjavilaventura.github.io/posts/007-chromhmmviewr_/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://amitjavilaventura.github.io/posts/007-chromhmmviewr_/</guid>
-      <description>p {text-align: justify;}   Adrià Mitjavila on March 23, 2021  Look at the source code here.
-Look at the documentation here.
-Goal chromHMMviewR is an R package to visualize data from ChromHMM.
-After running chromHMM, I always had problems to integrate the results in my reports, so I started developping some functions to visualize the heatmaps that chromHMM shows you, but using ggplot2 instead. Finally, in order to practice the creation of R packages, I decided to follow these guides to turn the functions into a package.</description>
+      <description>&lt;style&gt;&#xA;    p {text-align: justify;}&#xA;&lt;/style&gt;&#xA;&lt;center&gt;&#xA;&lt;strong&gt;&lt;a href=&#34;https://amitjavilaventura.github.io&#34; target=&#34;_blank&#34;&gt;Adrià Mitjavila&lt;/a&gt;&lt;/strong&gt; on &lt;em&gt;March 23, 2021&lt;/em&gt;&#xA;&lt;/center&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Look at the source code &lt;a href=&#34;https://github.com/amitjavilaventura/chromHMMviewR&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Look at the documentation &lt;a href=&#34;https://amitjavilaventura.github.io/chromHMMviewR/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;goal&#34;&gt;Goal&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;chromHMMviewR&lt;/em&gt; is an R package to visualize data from &lt;a href=&#34;http://compbio.mit.edu/ChromHMM/&#34;&gt;ChromHMM&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;After running chromHMM, I always had problems to integrate the results in my reports, so I started developping some functions to visualize the heatmaps that chromHMM shows you, but using &lt;code&gt;ggplot2&lt;/code&gt; instead. Finally, in order to practice the creation of R packages, I decided to follow &lt;a href=&#34;https://github.com/ASPteaching/2017-03-Rpackages_and_Github&#34;&gt;these guides&lt;/a&gt; to turn the functions into a package.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

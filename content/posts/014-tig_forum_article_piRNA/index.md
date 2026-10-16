@@ -1,0 +1,26 @@
+---
+title: "Mechanisms seeding the emergence new piRNAs"
+description: "We wrote a Forum Article (short review) in Trends in Genetics about how new piRNAs and piRNA clusters emerge"
+date: 2026-09-01
+draft: false
+---
+
+<center>
+<strong><a href="https://amitjavilaventura.github.io" target="_blank">Adrià Mitjavila</a></strong> on <em>June 15, 2022</em>
+</center>
+
+---
+
+<style>
+    p {text-align: justify;}
+</style>
+
+
+
+
+[Mechanisms seeding the emergence of new piRNAs](https://www.cell.com/trends/genetics/fulltext/S0168-9525(26)00111-3)
+
+PIWI-interacting RNAs (piRNAs) form an adaptive small RNA system that regulates transposons and some host genes in animal gonads. In this forum, we discuss recent within-species comparisons across flies and mammals that reveal extensive variation in piRNA-producing loci, providing new insights into how piRNAs emerge, diversify, and adapt to new threats.
+
+<br><br><br><br>
+

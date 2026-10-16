@@ -7,6 +7,7 @@ disqusShortname: amitjavila
 googleAnalytics: ''
 pluralizelisttitles: no
 content: yes
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 params:
   homeIcons: yes
   backgroundPic: "/images/portada.png" ## background pic of the first pages
@@ -16,7 +17,7 @@ params:
   author: "Adrià Mitjavila Ventura"
   titleFont: papyrus
   backgroundColor: white
-  description: Biotechnologist around computers
+  description: Bioinformatician
   font: Raleway
   githubUsername: 'amitjavilaventura'
   highlight: yes

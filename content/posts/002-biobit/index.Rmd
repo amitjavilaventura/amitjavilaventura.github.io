@@ -24,7 +24,4 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <p align='justify'>You can take a look at the blog at https://biobit.netlify.app.</p>
 
-```{r out.width="35%", fig.align="center"}
-knitr::include_graphics("BIOBIT.png")
-```
-
+The BioBit blog has been closed.
