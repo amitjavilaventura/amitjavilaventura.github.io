@@ -6,8 +6,15 @@
     <description>Recent content in ShinyApp on Adrià Mitjavila Ventura</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://amitjavilaventura.github.io/tags/shinyapp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DPomics</title>
+      <link>https://amitjavilaventura.github.io/posts/006-dpomics/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://amitjavilaventura.github.io/posts/006-dpomics/</guid>
+      <description>&lt;style&gt;&#xA;    p    {text-align: justify;}&#xA;&lt;/style&gt;&#xA;&lt;center&gt;&#xA;&lt;strong&gt;&lt;a href=&#34;https://amitjavilaventura.github.io&#34; target=&#34;_blank&#34;&gt;Adrià Mitjavila&lt;/a&gt;&lt;/strong&gt; on &lt;em&gt;March 5, 2021&lt;/em&gt;&#xA;&lt;/center&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;DPomics&lt;/strong&gt;&lt;/em&gt;: &lt;strong&gt;DP&lt;/strong&gt; lab &lt;strong&gt;omics&lt;/strong&gt; data visualization and integration.&lt;/p&gt;&#xA;&lt;p&gt;Look at the source code &lt;a href=&#34;https://github.com/amitjavilaventura/DPomics&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;goal&#34;&gt;Goal&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;DPomics&lt;/em&gt; is a ShinyAPP to visualize omics data coming from the analysis we do in our lab.&lt;/p&gt;&#xA;&lt;p&gt;It has been made in order to be easy for the wetlab members to use it, hence I would like to deploy it to shinyapps.io, like I have done with &lt;a href=&#34;https://amitjavilaventura.shinyapps.io/DNAme/&#34;&gt;DNAme&lt;/a&gt;. However, I am having issues with the deployment, most likely due to shortage of memory in the server.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>DNAme</title>
       <link>https://amitjavilaventura.github.io/posts/003-dname/</link>
