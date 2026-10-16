@@ -2,6 +2,13 @@
 title: "Perill biològic"
 description: "Biologia per a tots i en català"
 date: 2021-02-10
+tags:
+  - Perill Biologic
+  - Blog
+  - Biology
+  - Outreach
+  - Catalan
+  - Unmantained
 ---
 
 <center>
@@ -13,8 +20,11 @@ date: 2021-02-10
 
 
 
+*The Perill Biologic blog is unmantained, but its old posts are listed in this site with the tag "Perill Biologic". If I create any new outreach post, I will include this tag too.* 
+
 I have recently started a blog named [Perill Biològic](https://perillbiologic.netlify.app). 
 
 The blog is entirely in catalan and is focussed to communicate general Biology knowledge to society. 
 
 <!-- ![](/images/perill_biologic.png){width=400 height=400} -->
+

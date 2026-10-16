@@ -1,7 +1,16 @@
 ---
-title: "I am not a virgin anymore!"
+title: "Xrn1 influence on gene transcription "
 description: "My first paper has been published"
 date: 2020-12-07
+tags:
+  - Transcription
+  - Xrn1
+  - RNA polymerase stalling
+  - MNase-seq
+  - Saccharomyces cerevisiae
+  - Journal article
+  - Master's thesis
+  
 ---
 
 <center>

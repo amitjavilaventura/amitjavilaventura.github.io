@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DESeq2 on Adrià Mitjavila Ventura</title>
+    <link>https://amitjavilaventura.github.io/tags/deseq2/</link>
+    <description>Recent content in DESeq2 on Adrià Mitjavila Ventura</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://amitjavilaventura.github.io/tags/deseq2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How does DESeq2 normalize the counts?</title>
+      <link>https://amitjavilaventura.github.io/posts/011-deseq2-normalization/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://amitjavilaventura.github.io/posts/011-deseq2-normalization/</guid>
+      <description>&lt;script src=&#34;https://amitjavilaventura.github.io/posts/011-deseq2-normalization/index_files/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;&#xA;&lt;link href=&#34;https://amitjavilaventura.github.io/posts/011-deseq2-normalization/index_files/lightable/lightable.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xA;&lt;script src=&#34;https://amitjavilaventura.github.io/posts/011-deseq2-normalization/index_files/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;&#xA;&lt;link href=&#34;https://amitjavilaventura.github.io/posts/011-deseq2-normalization/index_files/lightable/lightable.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xA;&lt;script src=&#34;https://amitjavilaventura.github.io/posts/011-deseq2-normalization/index_files/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;&#xA;&lt;link href=&#34;https://amitjavilaventura.github.io/posts/011-deseq2-normalization/index_files/lightable/lightable.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xA;&lt;script src=&#34;https://amitjavilaventura.github.io/posts/011-deseq2-normalization/index_files/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;&#xA;&lt;link href=&#34;https://amitjavilaventura.github.io/posts/011-deseq2-normalization/index_files/lightable/lightable.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xA;&lt;script src=&#34;https://amitjavilaventura.github.io/posts/011-deseq2-normalization/index_files/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;&#xA;&lt;link href=&#34;https://amitjavilaventura.github.io/posts/011-deseq2-normalization/index_files/lightable/lightable.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xA;&lt;style&gt; p{text-align: justify;} caption{color:darkblue; font-size:12px} &lt;/style&gt;&#xA;&lt;center&gt;&#xA;__Adrià Mitjavila__ on *May 31, 2022*&#xA;&lt;/center&gt;&#xA;&lt;center&gt;&#xA;Reposted from [BioBit](https://biobit.netlify.app/post/006-deseq2-normalization/).&#xA;&lt;/center&gt;&#xA;&lt;hr&gt;&#xA;&lt;br&gt;&#xA;&lt;center&gt;&#xA;![](cover.png)&#xA;&lt;/center&gt;&#xA;&lt;br&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;When studying RNA-seq data, one of the most common approaches is to perform differential expression analysis (or &lt;strong&gt;DE analysis&lt;/strong&gt;), a method in which two different biological conditions (i.e. different developmental stages or disease status) are compared in order to see if the expression of genes changes between them.  &lt;em&gt;Counts&lt;/em&gt;, which are sequencing reads (for single-end sequencing) or fragments (for paired-end sequencing) that map to a given genomic feature (i.e. exons), are a proxy to estimate gene expression but, in order to compare the expression of the genes across different condition or even to compare different genes within the same condition, we have to normalize these counts.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

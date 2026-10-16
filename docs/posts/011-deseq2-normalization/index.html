@@ -141,6 +141,10 @@
         
 <a href="https://amitjavilaventura.github.io/tags/biobit"><kbd class="item-tag">BioBit</kbd></a>
 
+<a href="https://amitjavilaventura.github.io/tags/rna-seq"><kbd class="item-tag">RNA-seq</kbd></a>
+
+<a href="https://amitjavilaventura.github.io/tags/deseq2"><kbd class="item-tag">DESeq2</kbd></a>
+
 
     </div>
 
@@ -270,7 +274,7 @@ $$</p>
 </span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">bind_rows</span>(total) <span style="color:#f92672">%&gt;%</span> 
 </span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">set_rownames</span>(<span style="color:#a6e22e">c</span>(<span style="color:#a6e22e">rownames</span>(counts_matrix), <span style="color:#e6db74">&#34;Total&#34;</span>)) <span style="color:#f92672">%&gt;%</span>
 </span></span><span style="display:flex;"><span>  knitr<span style="color:#f92672">::</span><span style="color:#a6e22e">kable</span>(caption <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;&lt;span style=&#39;color:darkblue; font-size:12px&#39;&gt;Raw (unnormalized) counts in genes from each sample. Note that the total number of counts has been added to illustrate differences in sequencing depth, but it won&#39;t be used for the calculation of normalization (or scaling) factors. Moreover, no genes with 0 counts have been added to make the example easier.&lt;/span&gt;&#34;</span>, align <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;c&#34;</span>, format <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;html&#34;</span>) <span style="color:#f92672">%&gt;%</span> kableExtra<span style="color:#f92672">::</span><span style="color:#a6e22e">kable_styling</span>(full_width <span style="color:#f92672">=</span> T)
-</span></span></code></pre></div><table class="table" style="margin-left: auto; margin-right: auto;">
+</span></span></code></pre></div><table class="table" style="color: black; margin-left: auto; margin-right: auto;">
 <caption><span id="tab:unnamed-chunk-3"></span>Table 1: <span style="color:darkblue; font-size:12px">Raw (unnormalized) counts in genes from each sample. Note that the total number of counts has been added to illustrate differences in sequencing depth, but it won't be used for the calculation of normalization (or scaling) factors. Moreover, no genes with 0 counts have been added to make the example easier.</span>
 </caption>
  <thead>
@@ -349,7 +353,7 @@ $$</p>
 </span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">set_rownames</span>(<span style="color:#a6e22e">c</span>(<span style="color:#a6e22e">rownames</span>(counts_matrix))) <span style="color:#f92672">%&gt;%</span>
 </span></span><span style="display:flex;"><span>  knitr<span style="color:#f92672">::</span><span style="color:#a6e22e">kable</span>(caption <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;&lt;span style=&#39;color:darkblue; font-size:12px&#39;&gt;Table with the raw counts in every gene in eac sample and the pseudo-reference for each gene, computed by using the geometric mean.&lt;/span&gt;&#34;</span>, align <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;c&#34;</span>, format <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;html&#34;</span>) <span style="color:#f92672">%&gt;%</span>
 </span></span><span style="display:flex;"><span>  kableExtra<span style="color:#f92672">::</span><span style="color:#a6e22e">kable_styling</span>(full_width <span style="color:#f92672">=</span> T)
-</span></span></code></pre></div><table class="table" style="margin-left: auto; margin-right: auto;">
+</span></span></code></pre></div><table class="table" style="color: black; margin-left: auto; margin-right: auto;">
 <caption><span id="tab:unnamed-chunk-5"></span>Table 2: <span style="color:darkblue; font-size:12px">Table with the raw counts in every gene in eac sample and the pseudo-reference for each gene, computed by using the geometric mean.</span>
 </caption>
  <thead>
@@ -421,7 +425,7 @@ $$</p>
 </span></span><span style="display:flex;"><span>ratios_matrix <span style="color:#f92672">%&gt;%</span> 
 </span></span><span style="display:flex;"><span>  knitr<span style="color:#f92672">::</span><span style="color:#a6e22e">kable</span>(caption <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;&lt;span style=&#39;color:darkblue; font-size:12px&#39;&gt;Table showing, for each gene, the ratios of raw counts and the geometric mean.&lt;/span&gt;&#34;</span>, align <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;c&#34;</span>, format <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;html&#34;</span>) <span style="color:#f92672">%&gt;%</span>
 </span></span><span style="display:flex;"><span>  kableExtra<span style="color:#f92672">::</span><span style="color:#a6e22e">kable_styling</span>(full_width <span style="color:#f92672">=</span> T)
-</span></span></code></pre></div><table class="table" style="margin-left: auto; margin-right: auto;">
+</span></span></code></pre></div><table class="table" style="color: black; margin-left: auto; margin-right: auto;">
 <caption><span id="tab:unnamed-chunk-6"></span>Table 3: <span style="color:darkblue; font-size:12px">Table showing, for each gene, the ratios of raw counts and the geometric mean.</span>
 </caption>
  <thead>
@@ -492,7 +496,7 @@ $$</p>
 </span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">set_rownames</span>(<span style="color:#a6e22e">paste</span>(<span style="color:#e6db74">&#34;sample&#34;</span>, <span style="color:#66d9ef">LETTERS</span>[1<span style="color:#f92672">:</span><span style="color:#ae81ff">3</span>], sep <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;&#34;</span>)) <span style="color:#f92672">%&gt;%</span> 
 </span></span><span style="display:flex;"><span>  knitr<span style="color:#f92672">::</span><span style="color:#a6e22e">kable</span>(caption <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;&lt;span style=&#39;color:darkblue; font-size:12px&#39;&gt;Normalization (or scaling) factors for each of the samples in the experimental design.&lt;/span&gt;&#34;</span>, align <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;c&#34;</span>, format <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;html&#34;</span>) <span style="color:#f92672">%&gt;%</span>
 </span></span><span style="display:flex;"><span>  kableExtra<span style="color:#f92672">::</span><span style="color:#a6e22e">kable_styling</span>(full_width <span style="color:#f92672">=</span> T)
-</span></span></code></pre></div><table class="table" style="margin-left: auto; margin-right: auto;">
+</span></span></code></pre></div><table class="table" style="color: black; margin-left: auto; margin-right: auto;">
 <caption><span id="tab:unnamed-chunk-7"></span>Table 4: <span style="color:darkblue; font-size:12px">Normalization (or scaling) factors for each of the samples in the experimental design.</span>
 </caption>
  <thead>
@@ -538,7 +542,7 @@ As seen in *table 3*, the scaling factors are far from 1, specially for the samp
 </span></span><span style="display:flex;"><span>  knitr<span style="color:#f92672">::</span><span style="color:#a6e22e">kable</span>(caption <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;&lt;span style=&#39;color:darkblue; font-size:12px&#39;&gt;Table of normalized counts for every gene in each sample&lt;/span&gt;&#34;</span>, 
 </span></span><span style="display:flex;"><span>               align <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;c&#34;</span>, format <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;html&#34;</span>) <span style="color:#f92672">%&gt;%</span>
 </span></span><span style="display:flex;"><span>  kableExtra<span style="color:#f92672">::</span><span style="color:#a6e22e">kable_styling</span>(full_width <span style="color:#f92672">=</span> T)
-</span></span></code></pre></div><table class="table" style="margin-left: auto; margin-right: auto;">
+</span></span></code></pre></div><table class="table" style="color: black; margin-left: auto; margin-right: auto;">
 <caption><span id="tab:unnamed-chunk-8"></span>Table 5: <span style="color:darkblue; font-size:12px">Table of normalized counts for every gene in each sample</span>
 </caption>
  <thead>

@@ -22,5 +22,12 @@
       <guid>https://amitjavilaventura.github.io/posts/010-rnaseq-normalizations/</guid>
       <description>&lt;center&gt;&#xA;__Adrià Mitjavila__ on *May 31, 2022*&#xA;&lt;/center&gt;&#xA;&lt;center&gt;&#xA;Reposted from [BioBit](https://biobit.netlify.app/post/005-rnaseq-normalizations/).&#xA;&lt;/center&gt;&#xA;&lt;hr&gt;&#xA;&lt;br&gt;&#xA;&lt;center&gt;&#xA;![](cover.png)&#xA;&lt;/center&gt;&#xA;&lt;br&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;When analyzing RNA-seq data and studying gene expression levels, we usually start from &lt;strong&gt;counts&lt;/strong&gt;, which are sequencing reads mapped to genomic features such as genes. However, using counts as they are to compare different samples (&lt;em&gt;gene A in sample 1 vs gene A in sample 2&lt;/em&gt;) or even genes within a sample (gene is not a good option, since the amount of counts in a gene will vary a lot depending on how much the sample has been sequenced (&lt;strong&gt;sequencing depth&lt;/strong&gt;; different between samples) and the &lt;strong&gt;length of the gene&lt;/strong&gt; (different between genes): the more reads mapped in a sample, the more counts the genes in that sample will have, and the longer a gene is, the more counts will it have. For this reason, there is a need to normalize the raw counts for the sequencing depth and the gene length to make them comparable among genes within a sample and different samples.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>BioBit</title>
+      <link>https://amitjavilaventura.github.io/posts/002-biobit/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://amitjavilaventura.github.io/posts/002-biobit/</guid>
+      <description>&lt;center&gt;&#xA;&lt;strong&gt;&lt;a href=&#34;https://amitjavilaventura.github.io&#34; target=&#34;_blank&#34;&gt;Adrià Mitjavila&lt;/a&gt;&lt;/strong&gt; on &lt;em&gt;November 20, 2020&lt;/em&gt;&#xA;&lt;/center&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;The BioBit blog has been closed, but its old posts are listed in this site with the tag &amp;ldquo;Biobit&amp;rdquo;. If I create any new outreach post, I will include this tag too.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p align=&#39;justify&#39;&gt;[BioBit](https://biobit.netlify.app) is a blog dedicated to spread and communicate bioinformatics to society. I made it using the R package `distill` and to publish it I used Netlify, because GitHub pages force me to have it as a subdomain of my personal website.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

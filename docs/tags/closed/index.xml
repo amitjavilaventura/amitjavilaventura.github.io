@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Closed on Adrià Mitjavila Ventura</title>
+    <link>https://amitjavilaventura.github.io/tags/closed/</link>
+    <description>Recent content in Closed on Adrià Mitjavila Ventura</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://amitjavilaventura.github.io/tags/closed/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BioBit</title>
+      <link>https://amitjavilaventura.github.io/posts/002-biobit/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://amitjavilaventura.github.io/posts/002-biobit/</guid>
+      <description>&lt;center&gt;&#xA;&lt;strong&gt;&lt;a href=&#34;https://amitjavilaventura.github.io&#34; target=&#34;_blank&#34;&gt;Adrià Mitjavila&lt;/a&gt;&lt;/strong&gt; on &lt;em&gt;November 20, 2020&lt;/em&gt;&#xA;&lt;/center&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;The BioBit blog has been closed, but its old posts are listed in this site with the tag &amp;ldquo;Biobit&amp;rdquo;. If I create any new outreach post, I will include this tag too.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p align=&#39;justify&#39;&gt;[BioBit](https://biobit.netlify.app) is a blog dedicated to spread and communicate bioinformatics to society. I made it using the R package `distill` and to publish it I used Netlify, because GitHub pages force me to have it as a subdomain of my personal website.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

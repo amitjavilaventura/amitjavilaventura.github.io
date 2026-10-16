@@ -104,10 +104,10 @@
       <link>https://amitjavilaventura.github.io/posts/005-perillbiologic/</link>
       <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://amitjavilaventura.github.io/posts/005-perillbiologic/</guid>
-      <description>&lt;center&gt;&#xA;&lt;strong&gt;&lt;a href=&#34;https://amitjavilaventura.github.io&#34; target=&#34;_blank&#34;&gt;Adrià Mitjavila&lt;/a&gt;&lt;/strong&gt; on &lt;em&gt;February 10, 2021&lt;/em&gt;&#xA;&lt;/center&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;I have recently started a blog named &lt;a href=&#34;https://perillbiologic.netlify.app&#34;&gt;Perill Biològic&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The blog is entirely in catalan and is focussed to communicate general Biology knowledge to society.&lt;/p&gt;&#xA;&lt;!-- ![](/images/perill_biologic.png){width=400 height=400} --&gt;</description>
+      <description>&lt;center&gt;&#xA;&lt;strong&gt;&lt;a href=&#34;https://amitjavilaventura.github.io&#34; target=&#34;_blank&#34;&gt;Adrià Mitjavila&lt;/a&gt;&lt;/strong&gt; on &lt;em&gt;February 10, 2021&lt;/em&gt;&#xA;&lt;/center&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;The Perill Biologic blog is unmantained, but its old posts are listed in this site with the tag &amp;ldquo;Perill Biologic&amp;rdquo;. If I create any new outreach post, I will include this tag too.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;I have recently started a blog named &lt;a href=&#34;https://perillbiologic.netlify.app&#34;&gt;Perill Biològic&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The blog is entirely in catalan and is focussed to communicate general Biology knowledge to society.&lt;/p&gt;&#xA;&lt;!-- ![](/images/perill_biologic.png){width=400 height=400} --&gt;</description>
     </item>
     <item>
-      <title>I am not a virgin anymore!</title>
+      <title>Xrn1 influence on gene transcription </title>
       <link>https://amitjavilaventura.github.io/posts/004-xrn1_paper/</link>
       <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://amitjavilaventura.github.io/posts/004-xrn1_paper/</guid>
@@ -125,7 +125,7 @@
       <link>https://amitjavilaventura.github.io/posts/002-biobit/</link>
       <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://amitjavilaventura.github.io/posts/002-biobit/</guid>
-      <description>&lt;center&gt;&#xA;&lt;strong&gt;&lt;a href=&#34;https://amitjavilaventura.github.io&#34; target=&#34;_blank&#34;&gt;Adrià Mitjavila&lt;/a&gt;&lt;/strong&gt; on &lt;em&gt;November 20, 2020&lt;/em&gt;&#xA;&lt;/center&gt;&#xA;&lt;hr&gt;&#xA;&lt;p align=&#39;justify&#39;&gt;[BioBit](https://biobit.netlify.app) is a blog dedicated to spread and communicate bioinformatics to society. I made it using the R package `distill` and to publish it I used Netlify, because GitHub pages force me to have it as a subdomain of my personal website.&lt;/p&gt;&#xA;&lt;p align=&#39;justify&#39;&gt;My goal with the blog is posting basic things and recent advances about bioinformatics, as well as some biology and computer science -although I won&#39;t post much about it, since I am a bioscientist rather than a computer one-. &lt;/p&gt;</description>
+      <description>&lt;center&gt;&#xA;&lt;strong&gt;&lt;a href=&#34;https://amitjavilaventura.github.io&#34; target=&#34;_blank&#34;&gt;Adrià Mitjavila&lt;/a&gt;&lt;/strong&gt; on &lt;em&gt;November 20, 2020&lt;/em&gt;&#xA;&lt;/center&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;The BioBit blog has been closed, but its old posts are listed in this site with the tag &amp;ldquo;Biobit&amp;rdquo;. If I create any new outreach post, I will include this tag too.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p align=&#39;justify&#39;&gt;[BioBit](https://biobit.netlify.app) is a blog dedicated to spread and communicate bioinformatics to society. I made it using the R package `distill` and to publish it I used Netlify, because GitHub pages force me to have it as a subdomain of my personal website.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Biotechnologist around computers</title>

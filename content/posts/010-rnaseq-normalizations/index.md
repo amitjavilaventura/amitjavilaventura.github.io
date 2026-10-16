@@ -5,6 +5,7 @@ description: "Definitions, uses and misuses"
 author: "Adrià Mitjavila"
 tags:
   - BioBit
+  - RNA-seq
 toc: yes
 ---
 

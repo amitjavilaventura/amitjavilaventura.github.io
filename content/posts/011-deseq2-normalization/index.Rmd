@@ -4,6 +4,8 @@ description: "The workflow of DESeq2, part 1"
 author: "Adrià Mitjavila"
 tags:
   - BioBit
+  - RNA-seq
+  - DESeq2
 date: 2022-05-31
 ---
 

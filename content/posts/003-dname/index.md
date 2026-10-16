@@ -2,6 +2,11 @@
 title: "DNAme"
 description: "A Shiny app that converts your name to DNA"
 date: 2020-11-24
+tags:
+  - DNA
+  - Codon
+  - Outreach
+  - ShinyApp
 ---
 
 <center>

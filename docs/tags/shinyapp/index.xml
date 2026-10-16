@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ShinyApp on Adrià Mitjavila Ventura</title>
+    <link>https://amitjavilaventura.github.io/tags/shinyapp/</link>
+    <description>Recent content in ShinyApp on Adrià Mitjavila Ventura</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://amitjavilaventura.github.io/tags/shinyapp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DNAme</title>
+      <link>https://amitjavilaventura.github.io/posts/003-dname/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://amitjavilaventura.github.io/posts/003-dname/</guid>
+      <description>&lt;center&gt;&#xA;&lt;strong&gt;&lt;a href=&#34;https://amitjavilaventura.github.io&#34; target=&#34;_blank&#34;&gt;Adrià Mitjavila&lt;/a&gt;&lt;/strong&gt; on &lt;em&gt;November 24, 2020&lt;/em&gt;&#xA;&lt;/center&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;what-is-dname&#34;&gt;What is DNAme?&lt;/h2&gt;&#xA;&lt;p align=&#39;justify&#39;&gt;DNAme is an application for teaching/learning purposes which converts a word to a DNA sequence. It has some theory to understand the processes underlying this conversion, but this theroy must not be used with teaching puroposes because it may have some inaccuracies. &lt;/p&gt;&#xA;&lt;br&gt;&#xA;&lt;h2 id=&#34;how-dname-works&#34;&gt;How DNAme works?&lt;/h2&gt;&#xA;&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p align=&#39;justify&#39;&gt;DNAme was designed using R/Shiny that takes your name as a sequence of one-letter aminoacids and converts them to DNA/mRNA by looking for the codon that codes for each aminoacid.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

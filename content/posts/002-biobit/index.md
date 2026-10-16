@@ -2,6 +2,11 @@
 title: "BioBit"
 description: "Discovering Bioinformatics"
 date: 2020-11-20
+tags:
+  - BioBit
+  - Bioinformatics
+  - Blog
+  - Closed 
 ---
 
 <center>
@@ -11,6 +16,8 @@ date: 2020-11-20
 ---
 
 
+
+*The BioBit blog has been closed, but its old posts are listed in this site with the tag "Biobit". If I create any new outreach post, I will include this tag too.* 
 
 <p align='justify'>[BioBit](https://biobit.netlify.app) is a blog dedicated to spread and communicate bioinformatics to society. I made it using the R package `distill` and to publish it I used Netlify, because GitHub pages force me to have it as a subdomain of my personal website.</p>
 
@@ -22,4 +29,3 @@ date: 2020-11-20
 
 <p align='justify'>You can take a look at the blog at https://biobit.netlify.app.</p>
 
-The BioBit blog has been closed.

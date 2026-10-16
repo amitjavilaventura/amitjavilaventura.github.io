@@ -4,6 +4,8 @@ description: "The workflow of DESeq2, part 1"
 author: "Adrià Mitjavila"
 tags:
   - BioBit
+  - RNA-seq
+  - DESeq2
 date: 2022-05-31
 ---
 <script src="{{< blogdown/postref >}}index_files/kePrint/kePrint.js"></script>
@@ -149,7 +151,7 @@ counts_matrix %>%
   knitr::kable(caption = "<span style='color:darkblue; font-size:12px'>Raw (unnormalized) counts in genes from each sample. Note that the total number of counts has been added to illustrate differences in sequencing depth, but it won't be used for the calculation of normalization (or scaling) factors. Moreover, no genes with 0 counts have been added to make the example easier.</span>", align = "c", format = "html") %>% kableExtra::kable_styling(full_width = T)
 ```
 
-<table class="table" style="margin-left: auto; margin-right: auto;">
+<table class="table" style="color: black; margin-left: auto; margin-right: auto;">
 <caption><span id="tab:unnamed-chunk-3"></span>Table 1: <span style="color:darkblue; font-size:12px">Raw (unnormalized) counts in genes from each sample. Note that the total number of counts has been added to illustrate differences in sequencing depth, but it won't be used for the calculation of normalization (or scaling) factors. Moreover, no genes with 0 counts have been added to make the example easier.</span>
 </caption>
  <thead>
@@ -241,7 +243,7 @@ counts_matrix %>%
   kableExtra::kable_styling(full_width = T)
 ```
 
-<table class="table" style="margin-left: auto; margin-right: auto;">
+<table class="table" style="color: black; margin-left: auto; margin-right: auto;">
 <caption><span id="tab:unnamed-chunk-5"></span>Table 2: <span style="color:darkblue; font-size:12px">Table with the raw counts in every gene in eac sample and the pseudo-reference for each gene, computed by using the geometric mean.</span>
 </caption>
  <thead>
@@ -323,7 +325,7 @@ ratios_matrix %>%
   kableExtra::kable_styling(full_width = T)
 ```
 
-<table class="table" style="margin-left: auto; margin-right: auto;">
+<table class="table" style="color: black; margin-left: auto; margin-right: auto;">
 <caption><span id="tab:unnamed-chunk-6"></span>Table 3: <span style="color:darkblue; font-size:12px">Table showing, for each gene, the ratios of raw counts and the geometric mean.</span>
 </caption>
  <thead>
@@ -402,7 +404,7 @@ medianOfRatios %>%
   kableExtra::kable_styling(full_width = T)
 ```
 
-<table class="table" style="margin-left: auto; margin-right: auto;">
+<table class="table" style="color: black; margin-left: auto; margin-right: auto;">
 <caption><span id="tab:unnamed-chunk-7"></span>Table 4: <span style="color:darkblue; font-size:12px">Normalization (or scaling) factors for each of the samples in the experimental design.</span>
 </caption>
  <thead>
@@ -456,7 +458,7 @@ norm_counts %>%
   kableExtra::kable_styling(full_width = T)
 ```
 
-<table class="table" style="margin-left: auto; margin-right: auto;">
+<table class="table" style="color: black; margin-left: auto; margin-right: auto;">
 <caption><span id="tab:unnamed-chunk-8"></span>Table 5: <span style="color:darkblue; font-size:12px">Table of normalized counts for every gene in each sample</span>
 </caption>
  <thead>
