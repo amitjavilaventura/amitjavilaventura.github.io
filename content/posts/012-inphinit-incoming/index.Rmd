@@ -3,6 +3,9 @@ title: "INPhINIT Incoming"
 description: "I have been awarded a nice PhD fellowship"
 date: 2022-11-20
 draft: false
+tags:
+  - PhD
+  - Fellowship
 ---
 
 <center>
