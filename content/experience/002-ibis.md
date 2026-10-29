@@ -35,4 +35,4 @@ In the context of the master's thesis (*MSc in Molecular Genetics & Biotechnolog
 
 <ins>Master's thesis:</ins>
 
-* **Mitjavila-Ventura** (2018). *Influence of Xrn1 in nucleosome positioning across </em>Saccharomyces cerevisiae<em> genome and its effects in transcription.* Universidad de Sevilla (US).
+* **Mitjavila-Ventura** (2018). **Influence of Xrn1 in nucleosome positioning across </em>Saccharomyces cerevisiae<em> genome and its effects in transcription**. Universidad de Sevilla (US).

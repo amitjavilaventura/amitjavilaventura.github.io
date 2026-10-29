@@ -31,4 +31,4 @@ In the context of my bachelor's thesis (*BSc in Biotechnology*) and under the su
 
 <ins>Bachelor's thesis:</ins>
 
-* **Mitjavila-Ventura** (2017). *Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy.* Universitat de Girona (UdG).
+* **Mitjavila-Ventura** (2017). **Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy**. Universitat de Girona (UdG).

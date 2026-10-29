@@ -53,5 +53,5 @@ A part of this thesis focusses on the comparison of the piRNA production and piR
 
 <ins>Master's thesis:</ins>
 
-* **Mitjavila-Ventura** (2022). [*Analysis of the variation in piRNA expression across three </em>Mus<em> species*](https://openaccess.uoc.edu/server/api/core/bitstreams/cfc01d12-926c-45f2-ab30-6925b33f5f68/content). Universitat Oberta de Catalunya (UOC).    
+* **Mitjavila-Ventura** (2022). [**Analysis of the variation in piRNA expression across three </em>Mus<em> species**](https://openaccess.uoc.edu/server/api/core/bitstreams/cfc01d12-926c-45f2-ab30-6925b33f5f68/content). Universitat Oberta de Catalunya (UOC).    
 
