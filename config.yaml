@@ -63,8 +63,8 @@ menu:
     - name: Posts
       url: /posts/
       weight: 3
-    - name: Research
-      url: /research/
+    - name: Experience
+      url: /experience/
       weight: 4
     - name: Publications
       url: /publications/

@@ -1,6 +1,6 @@
 ---
-title: "Microbial. Sistemes i aplicacions analítiques, S.L."
-description: "Molecular Microbiology"
+title: "Bachelor's thesis student"
+description: "Microbial. Sistemes i aplicacions analítiques, S.L."
 weight: 10
 ---
 
@@ -8,7 +8,7 @@ weight: 10
     p {text-align: justify;}
 </style>
 
-## Molecular Microbiology, <a href="https://www.microbial-systems.com/"  target="_blank"><em>Microbial, S.L.</em></a>
+## Molecular Microbiology, <a href="https://www.microbial.es/"  target="_blank"><em>Microbial, S.L.</em></a>
 
 <p style='font-size:15xpx;color:gray'><em style='color:black;'>September 2016 - June 2017</em><br>
 Internship and Bachelor's thesis student</p>
@@ -18,7 +18,6 @@ In the context of my bachelor's thesis (*BSc in Biotechnology*) and under the su
 ---
 
 <ins>My contributions to this research were:</ins>
-
 
 * Performing DNA extractions of the intestinal biopsies. <br>
 * Performing qPCR analyses to detect and quantify some of the crucial bacterial families and genera. <br>

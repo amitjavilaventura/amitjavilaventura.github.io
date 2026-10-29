@@ -1,6 +1,6 @@
 ---
-title: "Instituto de Biomedicina de Sevilla"
-description: "Gene Expression & Bioinformatics"
+title: "Master's thesis student"
+description: "Instituto de Biomedicina de Sevilla"
 weight: 9
 ---
 
@@ -10,7 +10,7 @@ weight: 9
 
 ## <a href="https://www.ibis-sevilla.es/investigacion/oncohematologia-y-genetica/expresion-genica/chavez-de-diego-sebastian.aspx" target="_blank">Gene expression lab</a>, <a href="https://www.ibis-sevilla.es/"  target="_blank"><i>Instituto de Biomedicina de Sevilla</i></a>
 
-<p style='font-size:15px;color:gray'><em style='color:black;'>*September 2017 - October 2018*</em><br>
+<p style='font-size:15px;color:gray'><em style='color:black;'>September 2017 - October 2018</em><br>
 Master's thesis student and research assistant</p>
 
 ---
@@ -29,7 +29,7 @@ In the context of the master's thesis (*MSc in Molecular Genetics & Biotechnolog
 
 <ins>Related publications:</ins>
 
-* Begley *et al* (2020). **Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration**. *RNA Biology*. [doi: 10.1080/15476286.2020.1845504](https://doi.org/10.1080/15476286.2020.1845504){target="_blank"}.
+* Begley *et al* (2020). **Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration**. *RNA Biology*. [doi: 10.1080/15476286.2020.1845504](https://doi.org/10.1080/15476286.2020.1845504).
 
 
 ---

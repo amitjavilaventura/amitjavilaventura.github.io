@@ -1,0 +1,59 @@
+---
+title: "Bioinformatician & PhD student"
+description: "Institut Josep Carreras"
+weight: 7
+draft: false
+---
+
+<style>
+    p {text-align: justify;}
+</style>
+
+## <a href="https://www.carrerasresearch.org/en/regulatory-genomics" target="_blank">Vavouri's lab</a>, <a href="https://www.carrerasresearch.org/en" target="_blank"><i>Institut Josep Carreras</i></a>
+
+<p style='font-size:15px;color:gray'><em style='color:black;'>August 2021 - Present</em><br>
+Bioinformatician & master's thesis student</p>
+
+---
+
+Under the supervision of Dr. Tanya Vavouri, I am studying the PIWI-interacting RNAs (piRNAs), and the evolution and conservation of piRNA-producing loci. 
+
+In January 2022, I completed my master's thesis (MSc in Bioinformatics and Biostatistics, UOC) with honors, in which I analyzed the piRNA variation across closely related mouse species and the factors influencing this variation. 
+
+Currently, I am finishing my PhD thesis in the evolution and conservation of piRNA clusters in mouse. 
+
+A part of this thesis focusses on the comparison of the piRNA production and piRNA-producing loci of distinct inbred and outbred mouse strains, finding that piRNA variation is mostly due to genetic variation, including polymorphisms in endogenous retroviruses (ERVs), particularly intracisternal A particles (IAPs), affecting emergence and expression of piRNA-producing loci.
+
+---
+
+<ins>My tasks in this position have been::</ins>
+
+* Development of a small RNA-seq pipeline to analyse piRNA production in several species.
+* Analyse and integrate distinct types of omics data, including bulk sequencing, single-cell RNA-seq and 10x Xenium spatial transcriptomics.
+* Design of probes for for 10x Xenium custom panel. 
+* Retrieve and analyze multiple-sequence alignments using ENSEMBL Compara Perl API to obtain orthologous regions between mouse strains and species and get the blocks without gaps in the multiple-sequence alignment.
+* Mentoring of bachelor's and master's thesis students.
+* Developing outreach activities addressed to high-school and undergraduate students.
+
+---
+
+### <ins>Related publications</ins>
+
+<ins>Research papers:</ins>
+
+* Casas, **Mitjavila-Ventura**, Sierra *et al* (2025). **Genetic polymorphisms lead to major, locus-specific, variation in piRNA production in mouse**. *EMBO Journal*. [DOI: 10.1038/s44318-025-00475-4](https://link.springer.com/article/10.1038/s44318-025-00475-4)
+
+<ins>Reviews:</ins>
+
+* **Mitjavila-Ventura** and Vavouri (2026). **Mechanisms seeding the emergence of new piRNAs**. *Trends in Genetics*. [DOI: 10.1016/j.tig.2026.04.004](https://www.cell.com/trends/genetics/fulltext/S0168-9525(26)00111-3)
+
+<!-- <ins>Pre-prints:</ins> -->
+
+<!-- * **Mitjavila-Ventura** et al (2026). **High piRNA abundance is a hallmark of evolutionarily persistent piRNA-producing loci**. *bioRxiv*. [DOI:]() -->
+
+---
+
+<ins>Master's thesis:</ins>
+
+* *Analysis of the variation in piRNA expression across three </em>Mus<em> species.*
+
