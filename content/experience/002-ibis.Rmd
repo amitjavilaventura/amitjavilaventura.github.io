@@ -27,13 +27,12 @@ In the context of the master's thesis (*MSc in Molecular Genetics & Biotechnolog
 
 ---
 
-<ins>Related publications:</ins>
+### <ins>Related publications</ins>
+
+<ins>Research papers:</ins>
 
 * Begley *et al* (2020). **Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration**. *RNA Biology*. [doi: 10.1080/15476286.2020.1845504](https://doi.org/10.1080/15476286.2020.1845504).
 
-
----
-
 <ins>Master's thesis:</ins>
 
-* *Influence of Xrn1 in nucleosome positioning across </em>Saccharomyces cerevisiae<em> genome and its effects in transcription.*
+* **Mitjavila-Ventura** (2018). *Influence of Xrn1 in nucleosome positioning across </em>Saccharomyces cerevisiae<em> genome and its effects in transcription.* Universidad de Sevilla (US).
