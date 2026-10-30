@@ -15,19 +15,20 @@ Master's thesis student and research assistant</p>
 
 ---
 
-In the context of the master's thesis (*MSc in Molecular Genetics & Biotechnology*), under the supervision of Dr. Sebastián Chávez de Diego and Dr. Gabriel Gutierrez Pozo and within Dr. Victoria Begley's PhD project, I started studying Xrn1, a protein involved in the degradation of mRNA, and it's role in the nucleosome localization and transcription in *Saccharomyces cerevisiae*. Using MNase-seq and following a DANPOS-based analysis, we found that the Xrn1 knockout mutant strains had higher nucleosome occupancy around TSS, which we related with a lower transcription initiation compared to WT strains, whereas in the gene body, the nucleosome occupancy was diminished as a consequence of RNA pol II backtracking. Results were validated using MNase-qPCR of two selected genes in Xrn1 conditional mutants.
+In the context of the master's thesis (*MSc in Molecular Genetics & Biotechnology*), under the supervision of Dr. Sebastián Chávez de Diego and Dr. Gabriel Gutierrez Pozo and within Dr. Victoria Begley's PhD project, I started studying Xrn1, a protein involved in the degradation of mRNA, and it's role in the nucleosome localization and transcription in *Saccharomyces cerevisiae*. Using MNase-seq and following a [DANPOS](https://sites.google.com/site/danposdoc/)-based analysis, we found that the Xrn1 knockout mutant strains had higher nucleosome occupancy around TSS, which we related with a lower transcription initiation compared to WT strains, whereas in the gene body, the nucleosome occupancy was diminished as a consequence of RNA pol II backtracking. Results were validated using MNase-qPCR of two selected genes in Xrn1 conditional mutants.
 
 ---
 
-<ins>My contributions to this research were:</ins>
+<ins>Tasks:</ins>
 
-* Bioinformatic analysis of the MNase-seq data. <br>
-* MNase-qPCR validation, including the yeast culture, the MNase-driven DNA digestion, the design of the primers and the following qPCRs.
+* Pre-processing and analysis of MNase-seq data. <br>
+* MNase-qPCR validation: yeast culture, MNase-driven DNA digestion, design of MNase-qPCR primers, performing qPCR. <br>
+* Scientific writting.
 
 
 ---
 
-### <ins>Related publications</ins>
+### <ins>Related works</ins>
 
 <ins>Research papers:</ins>
 
