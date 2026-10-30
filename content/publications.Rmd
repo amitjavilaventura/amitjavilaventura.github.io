@@ -29,9 +29,14 @@ Mitjavila-Ventura & Vavouri (2026). **Mechanisms seeding the emergence of new pi
 
 <!--
 #### <u>**Pre prints**</u>
+
+Mitjavila-Ventura et al (2026). **High piRNA abundance is a hallmark of evolutionarily persistent piRNA-producing loci**. bioRxiv. [doi:]().
+
 -->
 
+<!--
 ### <ins>**Posters and presentations**</ins>
 
 <u>Mitjavila</u> & Vavouri (March 2022). __Analysis of piRNA variation across three *Mus* species__ *(in Catalan)*. Oral presentation at the *Jornades de Biologia de la Reproducció* from the Catalan Society of Biology.
+-->
 
