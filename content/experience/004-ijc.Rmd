@@ -1,5 +1,5 @@
 ---
-title: "Bioinformatician & PhD student"
+title: "Bioinformatician & Predoctoral researcher"
 description: "Institut Josep Carreras"
 weight: 7
 draft: false
